@@ -8,4 +8,5 @@
 - `node herramientas/probe.mjs ep04 --v 0 8 0.5`: cero errores de carga y de cuadros.
 - Los probes usaron Chromium headless local. No se ejecutó síntesis, mezcla ni render largo; no se ha revisado aquí el episodio completo con audio.
 - Masters, fotos, videos y registros operativos permanecen en el estudio local, fuera de Git.
-- Creación remota pendiente de autenticación GitHub; no declarar publicado/subido por tener un commit local.
+- Destino remoto privado: erickinorganico/what-if-stick-animation. Comprobar el contenido remoto antes de declarar una sincronización completa.
+
