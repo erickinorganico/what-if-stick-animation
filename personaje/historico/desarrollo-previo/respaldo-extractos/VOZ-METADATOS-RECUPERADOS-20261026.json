@@ -1,0 +1,59 @@
+{
+  "recovery_date": "2026-10-26",
+  "scope": "Extracto de identidad vocal; respaldo de solo lectura. Sin generación ni escucha.",
+  "original_backup_root": "<LOCAL_PROJECT_PATH>",
+  "narrator": {
+    "name": "Joaquín - Rich and Captivating",
+    "voice_id": "<APPROVED_VOICE_ID>",
+    "provider": "ElevenLabs",
+    "model_recorded": "eleven_v4",
+    "language_recorded": "espanol_de_Mexico",
+    "status": "artefacto_existente",
+    "approval_scope": "README de episodios y docs/04-audio.md describen toma/mezclas aprobadas; no se localizó mensaje humano primario de aprobación en esta lectura focal.",
+    "dr_assignment": "No se declara casting definitivo del Dr. ni encaje sonoro sin escucha."
+  },
+  "artifacts": [
+    {
+      "episode": "ep01-no-era-penal",
+      "manifest": "episodios/ep01-no-era-penal/revision/voz-elevenlabs.json",
+      "json_locators": [
+        "$.voz_id",
+        "$.voz_nombre",
+        "$.modelo",
+        "$.estado",
+        "$.audio_sha256"
+      ],
+      "state_recorded": "audio_usado_en_v1",
+      "source_audio": "episodios/ep01-no-era-penal/proyecto/assets/voz-elevenlabs.mp3",
+      "duration_s_recorded": 177.633,
+      "bytes": 2859709,
+      "sha256_recorded_and_verified": "AF54550C3CEE85759E3D755E94275687B5C2CCA900ACFE9812B7C7ACB444C3DF",
+      "master_existing": "episodios/ep01-no-era-penal/audio/mezcla-final.flac",
+      "master_bytes": 14793632
+    },
+    {
+      "episode": "ep02-mexico-campeon",
+      "manifest": "episodios/ep02-mexico-campeon/revision/voz-elevenlabs.json",
+      "json_locators": [
+        "$.voz_id",
+        "$.voz_nombre",
+        "$.modelo",
+        "$.estado",
+        "$.audio_sha256",
+        "$.v2.narrador.voz_id"
+      ],
+      "state_recorded": "generada",
+      "source_audio": "episodios/ep02-mexico-campeon/proyecto/assets/voz-elevenlabs.mp3",
+      "duration_s_recorded": 190.93,
+      "bytes": 3072450,
+      "sha256_recorded_and_verified": "70437166A6B93B7428B9FD36D4CE972ABCEE34C91CB661D9A4D838EAC1A53454",
+      "later_audio_existing": "episodios/ep02-mexico-campeon/proyecto/assets/voz-v3.wav",
+      "master_existing": "episodios/ep02-mexico-campeon/audio/mezcla-final.flac",
+      "master_bytes": 15506020,
+      "note": "La toma/mezcla posterior incluye empalmes y un clip según README; el hash verificado corresponde sólo al MP3 original."
+    }
+  ],
+  "precedence": "Recuperar narrador existente antes de cualquier casting nuevo; no activar servicios o alterar voces/medios.",
+  "exclusions": "No se incluyen URLs del proveedor, credenciales, guiones o JSON completos. El cantante v2 es otro rol y no sustituye al narrador.",
+  "intrinsic_generation_date": "No validada; documentación del kit 25/oct/2026 y lectura 26/oct/2026."
+}

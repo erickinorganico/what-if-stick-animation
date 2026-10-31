@@ -1,0 +1,1233 @@
+{
+  "snapshot_date": "2026-10-30",
+  "source": "Canal / EDIT/vigente/proyectos/el-hubiera",
+  "scope": "Skills, código, documentos, fuentes; sin medios ni registros operativos",
+  "files": [
+    {
+      "path": "docs/00-modus-operandi.md",
+      "source_sha256": "983c6da3b117fa93cb433491a440b4dc7d93701817a94666d5daa02b5c490d99",
+      "snapshot_sha256": "761b3907998fde9e5ffc3d63330fed2bf0d3ab06e531c21c7f043feb4acec247"
+    },
+    {
+      "path": "docs/01-setup.md",
+      "source_sha256": "437229ee3777727b23f476a3e583910cfc350883be479a9d257f8e2a512c8fd6",
+      "snapshot_sha256": "365d61745ca6049f3bf15cee2439a2c699d8a28090b0194a97c3aa4aadcea91d"
+    },
+    {
+      "path": "docs/02-guion-y-voz.md",
+      "source_sha256": "ef662e434ffd81e60ab0c48a3a42464ab72683eb22f5f20a9e157e641266e474",
+      "snapshot_sha256": "8657c8b3cc5d6b06affb445cb00414deb0140afe98b7cd73e4780decaec3f100"
+    },
+    {
+      "path": "docs/03-motor.md",
+      "source_sha256": "d5730c9f61d97dd6c0ee811cb5b345041433d7ab1ae92a27d22281fc2c568fd5",
+      "snapshot_sha256": "51769fd6ef7a7ac74575171a855cf7401947adb96a511024b6f56b73572eb616"
+    },
+    {
+      "path": "docs/04-audio.md",
+      "source_sha256": "fe32e2f1e48d60d6284951900d2af7aa79c0d5d0f23d5a18d3889532ca8b2ed6",
+      "snapshot_sha256": "0e78de32d7b0922160dced0b718b605b5edd09798705685adf00983138ca523b"
+    },
+    {
+      "path": "docs/05-render-y-entrega.md",
+      "source_sha256": "72eed7634ff3515cb12be8e9ad322deae1525ac7b093c6ac7059899f1876e7ba",
+      "snapshot_sha256": "b0617a666d3851f769b028a645c3914745ad33fe6a1ce1949233d75164a0a8a5"
+    },
+    {
+      "path": "docs/06-fragmentos-y-distribucion.md",
+      "source_sha256": "a86a134855eee86a99273cee3bfc8974147b04157344f001f48df63bce72c741",
+      "snapshot_sha256": "bb0dafc8ee191cd2a95a09e51a1bf91619e8e2bcac0b3a8ba6e051aea3e2d654"
+    },
+    {
+      "path": "docs/07-marca.md",
+      "source_sha256": "23baf84d1a0eab5d6ace2aa413722c20e7031eb72886b3c3c1901125dde7dbd0",
+      "snapshot_sha256": "ca2535dd8ba0e62bce22e6979ca63a3e9bf6b78b3e4ea1c4c47edc7cded88645"
+    },
+    {
+      "path": "docs/08-skills-y-herramientas.md",
+      "source_sha256": "692d16a850332d3c84dff199968e25b382c694ff9154e7b54f3a72ccb3b46b0c",
+      "snapshot_sha256": "ef8cfa8e210d4025ed6a247fe7c77e61af6a284258a688bf1356bfdc533b1b17"
+    },
+    {
+      "path": "docs/09-checklist-episodio.md",
+      "source_sha256": "c1f4001e3de99696e73af5824a24716fb41c630a74f1d3cb4cc7b498567b8f68",
+      "snapshot_sha256": "f64212e0dc1a6753a44af6c74ac46c63b723cdfc76f694f6cfbcc43bd4b655ac"
+    },
+    {
+      "path": "docs/10-lecciones.md",
+      "source_sha256": "fbf10c4bb4a141f553702811424d5583be3dc2987d37525c05c4539fd2635705",
+      "snapshot_sha256": "a2f6bb0100b368294dd72794899bcd0534de0dbec82e045871d34959a9f5f285"
+    },
+    {
+      "path": "docs/11-publicar-con-claude.md",
+      "source_sha256": "47567417afe8bfecc9323dd86f5827b1f4b37c5afe960db0f731fd6a781ebecd",
+      "snapshot_sha256": "b2935c2e89e81133ddec5b616b9b23ba4ccdef2e9c08bc8f663f2c1655d1911c"
+    },
+    {
+      "path": "docs/12-produccion-eficiente.md",
+      "source_sha256": "7af367f41ab7fcfea438e38c83abdb55f32fea806ec79287932d0c2233735608",
+      "snapshot_sha256": "7a4d90f042c31694ea4622f213348e784193e36b8f8bf0aa7fc661a3db405ec2"
+    },
+    {
+      "path": "docs/13-direccion.md",
+      "source_sha256": "65a55ec6d946ab42a0f87e98edcc6b1b0c32a2fa4de0d919f147322909e8cc08",
+      "snapshot_sha256": "fbec96160caf5cfad678feef1b4bd23420dee3ef1fc89251204df16d73ba4e3e"
+    },
+    {
+      "path": "docs/14-caso-ep04-cristiano.md",
+      "source_sha256": "5ca4d537ff80320be4f77a79eefb2468d23f0d5605d551768f1bdf7a41e7f8f0",
+      "snapshot_sha256": "1646a41c4e70ecb0ee3168c95f889b1d506b43ef7f5923b4a3ee0b62fba37533"
+    },
+    {
+      "path": "docs/origen/AGENTS-ORIGINAL-PROYECTO.md",
+      "source_sha256": "2021def3e8a7264a96b4b33122e99e2b2ecb48d7fdee58454a3f2c10f0fe88ff",
+      "snapshot_sha256": "301a66dcaf25c9041b353603cbae8549d7d7aa6f5d06a08b3371bfa5f92c0c1e"
+    },
+    {
+      "path": "docs/origen/CLAUDE-ORIGINAL-PROYECTO.md",
+      "source_sha256": "85c8fd6e902f7fa38ab501c613d1435d5909d5307b8635e32980900442b08069",
+      "snapshot_sha256": "50e18d931c6d8538e200be59f20011a3e8163a86a5dec103585ba8593593bd5a"
+    },
+    {
+      "path": "docs/origen/README-ORIGINAL-PROYECTO.md",
+      "source_sha256": "801e62a36a3b7fa6ab8474d948e93fb2837e5b28717c0db1fa361d9a7b8e0604",
+      "snapshot_sha256": "adbf9f9d3b380612e5bf5796ba15de5ba5f4e3994bdb7ddd1121057a3763919c"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/clips.json",
+      "source_sha256": "c05c866a2ab50185bbb9e2b8f5c98c3d9e28ca2c2a814e426bcf81629c671c78",
+      "snapshot_sha256": "55f83f890a7c8dd9af27c7fc8e8c409392c0747602ccabff752741b97be2e004"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/copys/copy-youtube-v1.md",
+      "source_sha256": "84d42e11321b6899796685a6d9090c98cea44d512d8fbe7661e072622d5113d5",
+      "snapshot_sha256": "319a22988859a71ea1f859193478715156bbdb8531d3bc18a324b3e5da410873"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/copys/copys.md",
+      "source_sha256": "b7e9aeffd3ca7db9f49fac40e74e1c373b1b865e5b0e3137f7d7018e59a4ef8b",
+      "snapshot_sha256": "ae561ca8a592be04b1d58e5111f27a7f0d6b32e497d4bf5c56cd05a64f60e725"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/episodio.json",
+      "source_sha256": "478b2a3c0906139259728ed981f12f358b86df66d6f3cf59d67adb5c7d370e11",
+      "snapshot_sha256": "cba4d10468d6bbc01b75de0d43f6b490739447bd30814eb08b9b152c2a1f3762"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/guion/guion-voz-v1.txt",
+      "source_sha256": "570ba66a4a65c2031d7dfb1ab5fc0dc2206c5fba1ab74b4e8fc30ac4cc4f627f",
+      "snapshot_sha256": "01cece860f07ba9842c891262e5c66ed1d7403cb68cf68471f2d5c54ffe366b0"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/proyecto/audio_yss.py",
+      "source_sha256": "4adcf20b6de0578bf5da5f9c512103c5e69e2027ec219605899b37eb8b07663f",
+      "snapshot_sha256": "635d73b7c16bf9c2389cc8d5008f3c09c783fce5f38d9328197ba7ce18b7f559"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/proyecto/fonts/anton-latin-400-normal.woff2",
+      "source_sha256": "d0fa07ff63dd60cbc0e2f58e29c802dca2a5ae0276c999f59c6111ab7bbaec3b",
+      "snapshot_sha256": "d0fa07ff63dd60cbc0e2f58e29c802dca2a5ae0276c999f59c6111ab7bbaec3b"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/proyecto/fonts/anton-latin-ext-400-normal.woff2",
+      "source_sha256": "0d17b7880f389deeb6663a52fa4eadc6d9116bdda725f0aa1f3d404fbb7d3d59",
+      "snapshot_sha256": "0d17b7880f389deeb6663a52fa4eadc6d9116bdda725f0aa1f3d404fbb7d3d59"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/proyecto/fonts/GeistMono-Regular.ttf",
+      "source_sha256": "a55c1b51cda4afeab9e471e7947b85a20f7c8831d7e6b1470c1b7fbdc0f0f15e",
+      "snapshot_sha256": "a55c1b51cda4afeab9e471e7947b85a20f7c8831d7e6b1470c1b7fbdc0f0f15e"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/proyecto/fonts/InstrumentSans-Bold.ttf",
+      "source_sha256": "444f85bf1c4b0e1ce1ca624f6be54bcd832207714ccaf4ea99ee531341683bdf",
+      "snapshot_sha256": "444f85bf1c4b0e1ce1ca624f6be54bcd832207714ccaf4ea99ee531341683bdf"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/proyecto/fonts/InstrumentSans-Regular.ttf",
+      "source_sha256": "a22cb26e48fd79bcb01bf2fc92d36785474dce36d9c544ab0a8868c2657c4a87",
+      "snapshot_sha256": "a22cb26e48fd79bcb01bf2fc92d36785474dce36d9c544ab0a8868c2657c4a87"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/proyecto/fonts/InstrumentSerif-Italic.ttf",
+      "source_sha256": "9c86e4d5a47b50224a2463a9eca8535835257c8e85c470c2c6b454b1af6f046e",
+      "snapshot_sha256": "9c86e4d5a47b50224a2463a9eca8535835257c8e85c470c2c6b454b1af6f046e"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/proyecto/fonts/InstrumentSerif-Regular.ttf",
+      "source_sha256": "56ac3be03ac3ba283196b3e77850ab2ffcf56cfb6fd3212c5620109a972f8c99",
+      "snapshot_sha256": "56ac3be03ac3ba283196b3e77850ab2ffcf56cfb6fd3212c5620109a972f8c99"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/proyecto/fonts/montserrat-latin-800-normal.woff2",
+      "source_sha256": "ba826fb84c2e961578adf3a08b5778b87905d4443445d1d56d84f9f157d5ea4b",
+      "snapshot_sha256": "ba826fb84c2e961578adf3a08b5778b87905d4443445d1d56d84f9f157d5ea4b"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/proyecto/fonts/montserrat-latin-900-normal.woff2",
+      "source_sha256": "5b6958520638bb8609f9eacb17c4d189563efeae96d5da49f7c2043988697205",
+      "snapshot_sha256": "5b6958520638bb8609f9eacb17c4d189563efeae96d5da49f7c2043988697205"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/proyecto/index.html",
+      "source_sha256": "18de2ba58a6ed9a94b9d731bf790eb682d50ae921dcb3ac3e53b247b6167cbc3",
+      "snapshot_sha256": "f8a1f6b009af240e481b27fe186446e4e8f9bc801c7307967dea10649e22e197"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/proyecto/src/char.js",
+      "source_sha256": "8935f8f96e29e983d94f9e38188f31680d55a4ef7bf4c8e7a7b8c03447f8a8a1",
+      "snapshot_sha256": "befddab43f4f8c2ab37b972df406588e1c2fbaeda8e7e86738d1a2437347f69d"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/proyecto/src/core.js",
+      "source_sha256": "d818335bfbb946e5d3622de85b65b0789fe9b4b315386b788a3f91e76c20ac21",
+      "snapshot_sha256": "72262242fd81b25acf1337df46500052fede2f3a5dcd348567d3bd67975b278f"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/proyecto/src/env2.js",
+      "source_sha256": "f7f497443d9334824f8d63cb756e71c0e774ba89a2ebf09ea8ee2f6d78d2c842",
+      "snapshot_sha256": "1e73a9b6327932de698a75d7fa01c30393743d0e000d9565e84f93026bb7e8c8"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/proyecto/src/main2.js",
+      "source_sha256": "5cee83d79b9006681c460a83322850ba58ca659b2be73da4a4d94c99bd2d2254",
+      "snapshot_sha256": "bb862b77894c31659fdcd82ea1b155519b882282cb91b965ffb716ec22e40a29"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/proyecto/src/marca.js",
+      "source_sha256": "b5c9147ce861a102e296ff73ae04b6c2c5c1ac4a7fbfba16a77a7d7b448c6606",
+      "snapshot_sha256": "9f4f2c6a0e5124707896e53400f11db161cff6b44ea2d8bf62d8055457c68998"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/proyecto/src/marca3.js",
+      "source_sha256": "69f393561ac139ebbc2636ca9c20ff2c475c7c16a4ed9949f09aacf74d709d04",
+      "snapshot_sha256": "667fab6b187df1dad5a0044cfbab5bf3656e39989ed6a6ea21813cd0f3c00ee0"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/proyecto/src/pitch.js",
+      "source_sha256": "7c376c4f285633826d94414c5bb468b7b1184e0e170141f2d071ee4c9a227331",
+      "snapshot_sha256": "b685d518c0d75716c8f312eb1e4968035c6cff262a0055b37cd2e5d66a107c6e"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/proyecto/src/room.js",
+      "source_sha256": "d7569643cde2c7220371d70a84d81526be34be98dddf3e4ee778be490a5845c1",
+      "snapshot_sha256": "8842a8e631c2eece2c741d135560225f46ee150c1c00b7e99f3010867753aef9"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/proyecto/src/shots2.js",
+      "source_sha256": "8d947d39129ef09e98d0dfa9e075012982e430a0ad2cf6cdc6d662b2c200bdfa",
+      "snapshot_sha256": "f9f61f20ff54634b33cafed3aa60a393c34b5fb2ac9d69ebb09ab4cc0f4650b3"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/proyecto/src/shots3a.js",
+      "source_sha256": "49a2845119e889b22f537ff6d8bb8bb16c82137eb293f087cd9c7a189912474d",
+      "snapshot_sha256": "7e3a2ef06c808e44194a9e7b19a860182b71fa29ad3fc1da37f5e7c46483e1e0"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/proyecto/src/shots3b.js",
+      "source_sha256": "90b5609868ef4b165a7894aaf5e0603414dcb1a728244b2aabe2ffb1e965fdb4",
+      "snapshot_sha256": "5acae77aed146b5e8e4f9e0cbd92532e31e505f788fbe3a9ed6f736175435ce7"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/proyecto/src/shots3c.js",
+      "source_sha256": "cbd610bb7290d5ad47558b7d65ce8a85cbd42aa1a04b59a25f295771fd6f5623",
+      "snapshot_sha256": "f85f2fb1063636810c902759afc51c136e07e6d5ca6df99253a74d661f4ef368"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/proyecto/src/words.js",
+      "source_sha256": "646d12262d98e19f5d99de16cdca7e8608053a62f66ee22eb763381d244f8699",
+      "snapshot_sha256": "646d12262d98e19f5d99de16cdca7e8608053a62f66ee22eb763381d244f8699"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/proyecto/timeline-v1.json",
+      "source_sha256": "dcafd4b5aa5cd4c11b631e3c62f8752121ce083d9a90d08a38a329615eb7c1b1",
+      "snapshot_sha256": "7aa5c8c1d45efec8316005d08497dfb8731703b2c0028a7486e420d37aa852cc"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/README.md",
+      "source_sha256": "4e4d4a967c75395a014973e09d7f7b5d5c6fecae5e5101bd5326f4922a97137b",
+      "snapshot_sha256": "e12a72317a583f8cd8b2624562d3f6af9befc9d43627c9d74313a30e7f3ba0bf"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/revision/revision-v3.md",
+      "source_sha256": "b482160789c54cceaad0f854801b6a09d514f2653af00907fefec24a837a347a",
+      "snapshot_sha256": "fefccd281b1dc725dcb4b61ffa233d568de85b47b5690b483a8ba792a2f8c274"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/revision/revision-v4.md",
+      "source_sha256": "dd904db0d0e86c834caebb3f78b14fb12e97f845fd1c5a5c0f57d58f4be4be57",
+      "snapshot_sha256": "10eb49eb4f0a71d1abf2e4147f1ae9d3cf11f3d1c931a4b28616c732cee1d31e"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/revision/revision-v5.md",
+      "source_sha256": "1f467c128a5635ec1387c27a748d27b7022186b2ddaf84e116e53eb232801c01",
+      "snapshot_sha256": "ea3fd5c9a6b9fb352388e09b5f21a5a13df1a90a7d6146e9d93955af35f2d461"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/revision/revision.md",
+      "source_sha256": "bd948e74f32dec1d8f492a57529b14f849846ebb7ca9a7bf45367323bf7c7061",
+      "snapshot_sha256": "85af9f846cd76684178c070767e81e2be058eaf0907cd2e79d7988d57562cb89"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/revision/scribe-raw.json",
+      "source_sha256": "92947e49ee25c255126d7b29fca82030a15fb09429980ec83364f66cd3b8c6ed",
+      "snapshot_sha256": "92947e49ee25c255126d7b29fca82030a15fb09429980ec83364f66cd3b8c6ed"
+    },
+    {
+      "path": "episodios/ep01-no-era-penal/revision/voz-palabras.json",
+      "source_sha256": "cf29215e8b1c1f1873b0bd6b7b4436c0329461f37debe09a34c69c1503edd4dc",
+      "snapshot_sha256": "373c70c918017f898c1618a49cfceb4d7e0533b326046c4ca4747883390afe90"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/audio/aymama_v3.py",
+      "source_sha256": "16d8467e9b14569130de2151d3cde093da9f298e96ab20d8bdf9ff167352851d",
+      "snapshot_sha256": "f464fa20f678e7b083fd82e44a38720bf5c13f8ad3150e8c3c82b5d73f985cd8"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/audio/empalme_v2.py",
+      "source_sha256": "a280b909a7342c936d0fb7161bae8de504f6d95016eb14f7172f831c61e9b920",
+      "snapshot_sha256": "9e3d6ba59b43bd6560aa8b5e7565d927280b409814c99ab2633d8f5ff6ee6401"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/clips.json",
+      "source_sha256": "0abb44b856fefc867a0d40ac9c0ecc8abcd09c933d4a4989207502f67834353b",
+      "snapshot_sha256": "3d5fd119f0cb64476368eee5c0a2428107a45f2d772f8fa9ff89d1580b4c409f"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/copys/copys.md",
+      "source_sha256": "0efa7d7f39a946cd5109d31378265201b495a7e359c50c4e9b5c72e525999d24",
+      "snapshot_sha256": "e8e1596d5332688b97921875d8b3aaa3130085f75a5263b12dc45e6091bb98dd"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/episodio.json",
+      "source_sha256": "292244092e97409fcd1c214fc1f071c4751e64feceec81eab3b3c9c7927ac923",
+      "snapshot_sha256": "37961e7ea200cca5b5342dfe2278b58057f3eedb8864cbb412b712ab913da2a3"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/guion/guion-cantante-v2.txt",
+      "source_sha256": "56a9207a18d3a90568910976c07e6a6bb519b42018ce9a41f70565715435d8a4",
+      "snapshot_sha256": "c7ded96a29f007c39a9e6e1f44e6a9fe6dea411c6c7dabe3a58e20801c8cc93e"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/guion/guion-voz-v1.txt",
+      "source_sha256": "b1ee4709a512c4c6193d76f71a9c00b75fcab6b3544692413bb9e055c3493ec7",
+      "snapshot_sha256": "c510f2bf6473ab81f9ae41543812cdcdf94b64884b8945a14a9c5f24cad69361"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/guion/guion-voz-v2-cambios.txt",
+      "source_sha256": "b54afd6b2ed9149415e21fd55fda5e6a3c7d5cad848f19cc233e8512a722834e",
+      "snapshot_sha256": "34cb336584fc8d57a464785e94dc68d15fa126085c5d404ad7f51d5d1096986a"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/audio_ep02.py",
+      "source_sha256": "0d034305d770ede127305143a32014900be7fa1e4967870ebb05c5382a0350ed",
+      "snapshot_sha256": "82ae5100db3200b6760a2e2718f3a7a6c5ad65ce434e6a9a98b6a2b0728d61e2"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/fonts/anton-latin-400-normal.woff2",
+      "source_sha256": "d0fa07ff63dd60cbc0e2f58e29c802dca2a5ae0276c999f59c6111ab7bbaec3b",
+      "snapshot_sha256": "d0fa07ff63dd60cbc0e2f58e29c802dca2a5ae0276c999f59c6111ab7bbaec3b"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/fonts/anton-latin-ext-400-normal.woff2",
+      "source_sha256": "0d17b7880f389deeb6663a52fa4eadc6d9116bdda725f0aa1f3d404fbb7d3d59",
+      "snapshot_sha256": "0d17b7880f389deeb6663a52fa4eadc6d9116bdda725f0aa1f3d404fbb7d3d59"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/fonts/GeistMono-Bold.ttf",
+      "source_sha256": "75c0828d5c1ee44b9ef9f4df577bf41595ec362e2ea3f1e558590c9e92c7949d",
+      "snapshot_sha256": "75c0828d5c1ee44b9ef9f4df577bf41595ec362e2ea3f1e558590c9e92c7949d"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/fonts/GeistMono-Regular.ttf",
+      "source_sha256": "a55c1b51cda4afeab9e471e7947b85a20f7c8831d7e6b1470c1b7fbdc0f0f15e",
+      "snapshot_sha256": "a55c1b51cda4afeab9e471e7947b85a20f7c8831d7e6b1470c1b7fbdc0f0f15e"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/fonts/InstrumentSans-Bold.ttf",
+      "source_sha256": "444f85bf1c4b0e1ce1ca624f6be54bcd832207714ccaf4ea99ee531341683bdf",
+      "snapshot_sha256": "444f85bf1c4b0e1ce1ca624f6be54bcd832207714ccaf4ea99ee531341683bdf"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/fonts/InstrumentSans-Regular.ttf",
+      "source_sha256": "a22cb26e48fd79bcb01bf2fc92d36785474dce36d9c544ab0a8868c2657c4a87",
+      "snapshot_sha256": "a22cb26e48fd79bcb01bf2fc92d36785474dce36d9c544ab0a8868c2657c4a87"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/fonts/InstrumentSerif-Italic.ttf",
+      "source_sha256": "9c86e4d5a47b50224a2463a9eca8535835257c8e85c470c2c6b454b1af6f046e",
+      "snapshot_sha256": "9c86e4d5a47b50224a2463a9eca8535835257c8e85c470c2c6b454b1af6f046e"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/fonts/InstrumentSerif-Regular.ttf",
+      "source_sha256": "56ac3be03ac3ba283196b3e77850ab2ffcf56cfb6fd3212c5620109a972f8c99",
+      "snapshot_sha256": "56ac3be03ac3ba283196b3e77850ab2ffcf56cfb6fd3212c5620109a972f8c99"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/fonts/montserrat-latin-800-normal.woff2",
+      "source_sha256": "ba826fb84c2e961578adf3a08b5778b87905d4443445d1d56d84f9f157d5ea4b",
+      "snapshot_sha256": "ba826fb84c2e961578adf3a08b5778b87905d4443445d1d56d84f9f157d5ea4b"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/fonts/montserrat-latin-900-normal.woff2",
+      "source_sha256": "5b6958520638bb8609f9eacb17c4d189563efeae96d5da49f7c2043988697205",
+      "snapshot_sha256": "5b6958520638bb8609f9eacb17c4d189563efeae96d5da49f7c2043988697205"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/index.html",
+      "source_sha256": "d5726d17302624a8cec52bff7215ebf44809639a236c5ee0b76eaa64da379200",
+      "snapshot_sha256": "1229dc29ffd5744d31e453b0359477088bcf6cc86ece04f1a64e79aa2cd311c9"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/src/char.js",
+      "source_sha256": "8935f8f96e29e983d94f9e38188f31680d55a4ef7bf4c8e7a7b8c03447f8a8a1",
+      "snapshot_sha256": "befddab43f4f8c2ab37b972df406588e1c2fbaeda8e7e86738d1a2437347f69d"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/src/core.js",
+      "source_sha256": "d818335bfbb946e5d3622de85b65b0789fe9b4b315386b788a3f91e76c20ac21",
+      "snapshot_sha256": "72262242fd81b25acf1337df46500052fede2f3a5dcd348567d3bd67975b278f"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/src/e2a.js",
+      "source_sha256": "1ab197c7b8f772605aba3f6b6fc219deeee9ad1201003dcf673055dcc9f57704",
+      "snapshot_sha256": "f9aa2e26d3515977a1401fb8be81f512b8156eb0f0ed4416dd3c35628aed5dd8"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/src/e2b.js",
+      "source_sha256": "3dd956883ae22ff0fa6a2f1d47829f6f1fab92ed3cb6704407156b13e1b65ff6",
+      "snapshot_sha256": "7d2871b6978d4d2898f5ac9f7a98caf021bd88dcc73cdea5d19ce0cf8f98afb6"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/src/e2c.js",
+      "source_sha256": "62b2b04091f72d8c2d2e11a367a9bf793ba7c8859c4591f0ac969f75bb8b73e5",
+      "snapshot_sha256": "4e48d032f463fb3a76de01fd26cba07027c2a9c765863389882cf6af7e3a9200"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/src/e2d.js",
+      "source_sha256": "8e6ea6565c64d4f1faf4a17c6dcb6ee49bb0baf4fae3e9a723cca4b01d57d7cf",
+      "snapshot_sha256": "3fa8a163895e703d768120343a83b81cc0faec11f3a3e5be10de5aa3f0c885c5"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/src/env2.js",
+      "source_sha256": "679671f31823735fe485347bd959901ff221c42ed2c5909baac6d570ab0546c1",
+      "snapshot_sha256": "d2b6e5ba0e730f5ac506556d693fb838878585defb2f3c12062b1340714712d5"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/src/main2.js",
+      "source_sha256": "4fcc0f65a1c4d3b0fc8fe4b0e575999692616f58ad6776247f8ca0e6af238681",
+      "snapshot_sha256": "e678bce1cccd265939b790d925b9c6a71bd85cd0a3795f846d381e29b23138d8"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/src/marca.js",
+      "source_sha256": "b5c9147ce861a102e296ff73ae04b6c2c5c1ac4a7fbfba16a77a7d7b448c6606",
+      "snapshot_sha256": "9f4f2c6a0e5124707896e53400f11db161cff6b44ea2d8bf62d8055457c68998"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/src/marca3.js",
+      "source_sha256": "69f393561ac139ebbc2636ca9c20ff2c475c7c16a4ed9949f09aacf74d709d04",
+      "snapshot_sha256": "667fab6b187df1dad5a0044cfbab5bf3656e39989ed6a6ea21813cd0f3c00ee0"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/src/pitch.js",
+      "source_sha256": "7c376c4f285633826d94414c5bb468b7b1184e0e170141f2d071ee4c9a227331",
+      "snapshot_sha256": "b685d518c0d75716c8f312eb1e4968035c6cff262a0055b37cd2e5d66a107c6e"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/src/room.js",
+      "source_sha256": "d7569643cde2c7220371d70a84d81526be34be98dddf3e4ee778be490a5845c1",
+      "snapshot_sha256": "8842a8e631c2eece2c741d135560225f46ee150c1c00b7e99f3010867753aef9"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/src/shots2.js",
+      "source_sha256": "e548259c76131d6ccec2ea2d3467912824a51d36b2174d64a166af70f11f8dae",
+      "snapshot_sha256": "ddbd35be86e60de2b201750c2e29c1c703e03c8bf3138a73ce039e247301b2eb"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/src/shots3a.js",
+      "source_sha256": "49a2845119e889b22f537ff6d8bb8bb16c82137eb293f087cd9c7a189912474d",
+      "snapshot_sha256": "7e3a2ef06c808e44194a9e7b19a860182b71fa29ad3fc1da37f5e7c46483e1e0"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/src/shots3b.js",
+      "source_sha256": "90b5609868ef4b165a7894aaf5e0603414dcb1a728244b2aabe2ffb1e965fdb4",
+      "snapshot_sha256": "5acae77aed146b5e8e4f9e0cbd92532e31e505f788fbe3a9ed6f736175435ce7"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/src/shots3c.js",
+      "source_sha256": "91c6f6cd4d3a6f354c87ddd1192aa37035ca50aab22adfea544fe199a357811e",
+      "snapshot_sha256": "c4a08c74d0f258960986686e5a6812377d54788ab07c04782ed98bd72354ae3b"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/src/words.js",
+      "source_sha256": "646d12262d98e19f5d99de16cdca7e8608053a62f66ee22eb763381d244f8699",
+      "snapshot_sha256": "646d12262d98e19f5d99de16cdca7e8608053a62f66ee22eb763381d244f8699"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/src/words2.js",
+      "source_sha256": "2a4b3d11a109962bc0326a96cad288306f6eca2cf6d59ef456849a247781fb65",
+      "snapshot_sha256": "3727199640a258c2cc9893725d824608a48d0bf1bec572baf8f26da11480aeb1"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/proyecto/timeline.json",
+      "source_sha256": "fd683ac950c6deb1a6545f359aedaf3c848d38adf7cb581ae5b8a900b0430ac3",
+      "snapshot_sha256": "3fbab1e8c6957b919b5b6e8d22b2420dcba2b55ab183239389c9d09ab9a9da4b"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/README.md",
+      "source_sha256": "f6368c7a2259b26f5a73789247576354363c0e9c95b3a1d8b6f3e0856aad1ab8",
+      "snapshot_sha256": "72148bb2f28c4904910802f6c2153253fa737443c6d0e7e76fa20a1e856c37f0"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/revision/aymama/frases.json",
+      "source_sha256": "cdb1fd9669dc6973a9301dfe4ec206d6ae12a9145b6ace5671e4f0798ac23a5f",
+      "snapshot_sha256": "cdb1fd9669dc6973a9301dfe4ec206d6ae12a9145b6ace5671e4f0798ac23a5f"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/revision/revision-v1.md",
+      "source_sha256": "44a0bbc1623368eb71a0106084a4fecd122ede7f23bfdee6d5543ec01480a67b",
+      "snapshot_sha256": "69e218a522648667f8fd9dcc5517206b41ec5592b2d111ef2aa109a2bb88bb32"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/revision/revision-v2.md",
+      "source_sha256": "39ad24323890d1ab05cef017f92789411fe975bbe53ceef524a1155a7ce4cef1",
+      "snapshot_sha256": "af1d0ac6aeeb10434c688902d1f64f0faa6f9ebe6058244c89fd8450dbd3cc12"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/revision/revision-v3.md",
+      "source_sha256": "f622778c18bfe4787f7805b9040d3fcf97274cf5e56d0ca31a8e4f6d4b1e873b",
+      "snapshot_sha256": "238275318467e7d89d6f32a9d9783c3584b6f2bb6db0f283e742fadc8914f9eb"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/revision/revision-v4.md",
+      "source_sha256": "fba8c49014e30702d8edbdd3c1f4c0566e4abc1299fee13f99ed1bf921be1a72",
+      "snapshot_sha256": "c0da577c25066daadb09a099a94aaee8483ec88c2bdeab6c79cc0757d9ab0901"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/revision/scribe-raw.json",
+      "source_sha256": "4b5efd511ef9c1ca3c821149c16d8e8c3cc9838062e7f7c7477c3d8b9a9ca911",
+      "snapshot_sha256": "4b5efd511ef9c1ca3c821149c16d8e8c3cc9838062e7f7c7477c3d8b9a9ca911"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/revision/v2/narr-v2-palabras-raw.json",
+      "source_sha256": "d09a49e689aebe78eff60b325af96e6748cd72df78eccfda55638b45fb49efec",
+      "snapshot_sha256": "d09a49e689aebe78eff60b325af96e6748cd72df78eccfda55638b45fb49efec"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/revision/voz-palabras-v2.json",
+      "source_sha256": "acd318a49086cc66c9b24797efe61d4dab476dc86863ff443410453861e4d948",
+      "snapshot_sha256": "4189a73d2d5f4714547a81ebe6fc65c2c4caf6f0257d68771196bc6ae508ac37"
+    },
+    {
+      "path": "episodios/ep02-mexico-campeon/revision/voz-palabras.json",
+      "source_sha256": "18fc31864746c2658827d03cfa88e9e2f684510f9d97a161fd9249887f189c78",
+      "snapshot_sha256": "18fc31864746c2658827d03cfa88e9e2f684510f9d97a161fd9249887f189c78"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/clips.json",
+      "source_sha256": "3c8066d86ea7d61fe58153dce1c20efbb0aae98492b86fb53f24b20c09a598fb",
+      "snapshot_sha256": "7ebc54d601eab8ff75cdac51c94ceb776328759288366371c073f3f027f7577f"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/copys/copys.md",
+      "source_sha256": "5cd41bdebd80b61fe58598a97937ba25f4601d9a0eb0132faf50a22ad70fc635",
+      "snapshot_sha256": "107ebdbb7c288c769a8eea39f7a3b77a959f85550b7944cb67d9db12d0e5adc3"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/episodio.json",
+      "source_sha256": "3ccdeb9a16c71edeff7209356d69ed5c887dbbebbb5511a309f39c3bfab479c4",
+      "snapshot_sha256": "e48a91192bbd5fa4970a153e566b09c7df014ec5312bbfa50682ec44c0b08f67"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/guion/guion-voz-v1.txt",
+      "source_sha256": "6a7a3561028cfc3508e3a04c98db6c54e0522213d0fdea26a88916bc8c10b1cc",
+      "snapshot_sha256": "50ec21a7f5cc80e9f3d3200a6ab3795b4f76931910940ff664c0714b63bf97a5"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/guion/guion-voz-v3.txt",
+      "source_sha256": "fbc6b1ae36c6c1c8cedec9b2c9b0a88cd7b1cd561c5cfae0fa4a8172cbc66e78",
+      "snapshot_sha256": "fbc6b1ae36c6c1c8cedec9b2c9b0a88cd7b1cd561c5cfae0fa4a8172cbc66e78"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/audio_episodio.py",
+      "source_sha256": "b73926a07ad748459efca767f2a79f6c12097e563f3630b731b14f31c6ed30be",
+      "snapshot_sha256": "ac18d01af12be40140c7e89e206aaa457a4000cfa11d5078a713f759604dce5e"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/exportar_portadas.mjs",
+      "source_sha256": "c2a4ddd5bb36a29b9004aa79ac8938ca027ac54e078bac97032224d4b43a7d93",
+      "snapshot_sha256": "0b1d9a79bf6f0107b630a2415af4e8c4b967830c45b00752b93920757af8aab0"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/fonts/anton-latin-400-normal.woff2",
+      "source_sha256": "d0fa07ff63dd60cbc0e2f58e29c802dca2a5ae0276c999f59c6111ab7bbaec3b",
+      "snapshot_sha256": "d0fa07ff63dd60cbc0e2f58e29c802dca2a5ae0276c999f59c6111ab7bbaec3b"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/fonts/anton-latin-ext-400-normal.woff2",
+      "source_sha256": "0d17b7880f389deeb6663a52fa4eadc6d9116bdda725f0aa1f3d404fbb7d3d59",
+      "snapshot_sha256": "0d17b7880f389deeb6663a52fa4eadc6d9116bdda725f0aa1f3d404fbb7d3d59"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/fonts/GeistMono-Bold.ttf",
+      "source_sha256": "75c0828d5c1ee44b9ef9f4df577bf41595ec362e2ea3f1e558590c9e92c7949d",
+      "snapshot_sha256": "75c0828d5c1ee44b9ef9f4df577bf41595ec362e2ea3f1e558590c9e92c7949d"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/fonts/GeistMono-Regular.ttf",
+      "source_sha256": "a55c1b51cda4afeab9e471e7947b85a20f7c8831d7e6b1470c1b7fbdc0f0f15e",
+      "snapshot_sha256": "a55c1b51cda4afeab9e471e7947b85a20f7c8831d7e6b1470c1b7fbdc0f0f15e"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/fonts/InstrumentSans-Bold.ttf",
+      "source_sha256": "444f85bf1c4b0e1ce1ca624f6be54bcd832207714ccaf4ea99ee531341683bdf",
+      "snapshot_sha256": "444f85bf1c4b0e1ce1ca624f6be54bcd832207714ccaf4ea99ee531341683bdf"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/fonts/InstrumentSans-Regular.ttf",
+      "source_sha256": "a22cb26e48fd79bcb01bf2fc92d36785474dce36d9c544ab0a8868c2657c4a87",
+      "snapshot_sha256": "a22cb26e48fd79bcb01bf2fc92d36785474dce36d9c544ab0a8868c2657c4a87"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/fonts/InstrumentSerif-Italic.ttf",
+      "source_sha256": "9c86e4d5a47b50224a2463a9eca8535835257c8e85c470c2c6b454b1af6f046e",
+      "snapshot_sha256": "9c86e4d5a47b50224a2463a9eca8535835257c8e85c470c2c6b454b1af6f046e"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/fonts/InstrumentSerif-Regular.ttf",
+      "source_sha256": "56ac3be03ac3ba283196b3e77850ab2ffcf56cfb6fd3212c5620109a972f8c99",
+      "snapshot_sha256": "56ac3be03ac3ba283196b3e77850ab2ffcf56cfb6fd3212c5620109a972f8c99"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/fonts/montserrat-latin-800-normal.woff2",
+      "source_sha256": "ba826fb84c2e961578adf3a08b5778b87905d4443445d1d56d84f9f157d5ea4b",
+      "snapshot_sha256": "ba826fb84c2e961578adf3a08b5778b87905d4443445d1d56d84f9f157d5ea4b"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/fonts/montserrat-latin-900-normal.woff2",
+      "source_sha256": "5b6958520638bb8609f9eacb17c4d189563efeae96d5da49f7c2043988697205",
+      "snapshot_sha256": "5b6958520638bb8609f9eacb17c4d189563efeae96d5da49f7c2043988697205"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/index.html",
+      "source_sha256": "d9b012d6c9fff5617c0ef4e2486487accdeb3176c2f7a4fcb746d3ab43b5a6c4",
+      "snapshot_sha256": "6af73c7ec2d23927500f6ba9622e730e0c0e530af1d0b0d2f66d3d46d83699a6"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/src/animatic.js",
+      "source_sha256": "3cd6ba9cf829bec7f340c9e0333aa71f75a72262cecf4fbad069a727f09010ca",
+      "snapshot_sha256": "fec1e1338f74946ebc1eee36bfb96a52c84da1e68ed458ca9446106a237d4d00"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/src/beats.js",
+      "source_sha256": "c93258c48ab904e7892ea87e75a857f9471289739073f60a91f2aca43db53c48",
+      "snapshot_sha256": "a8155717e360cea1669b4f2f3842cb0164997ec834fdfb8661f46d276c912eee"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/src/char.js",
+      "source_sha256": "8935f8f96e29e983d94f9e38188f31680d55a4ef7bf4c8e7a7b8c03447f8a8a1",
+      "snapshot_sha256": "befddab43f4f8c2ab37b972df406588e1c2fbaeda8e7e86738d1a2437347f69d"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/src/core.js",
+      "source_sha256": "d818335bfbb946e5d3622de85b65b0789fe9b4b315386b788a3f91e76c20ac21",
+      "snapshot_sha256": "72262242fd81b25acf1337df46500052fede2f3a5dcd348567d3bd67975b278f"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/src/cr-env.js",
+      "source_sha256": "7a89161f7dd3253454c8b45ea8843f3f761d7b1e61681217d1d998df4de443bf",
+      "snapshot_sha256": "69a20eb2215c869814ad3908ef08847020016181a6beb3af113ce16d5dae71bc"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/src/direccion.js",
+      "source_sha256": "86f0a7fbedb20001bd97423481599d3fccb9c23d73ab954a57ac89a0dd211b96",
+      "snapshot_sha256": "81698299cd417b841417e48d0fd93361d185309d74e10d03d58467a3a4937c0d"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/src/env2.js",
+      "source_sha256": "679671f31823735fe485347bd959901ff221c42ed2c5909baac6d570ab0546c1",
+      "snapshot_sha256": "d2b6e5ba0e730f5ac506556d693fb838878585defb2f3c12062b1340714712d5"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/src/ep.js",
+      "source_sha256": "f471b4183942006cd89c5c495a45749e8862fd22875c0204e5fefdbf52b2fb8f",
+      "snapshot_sha256": "0fc42a243665c7323f1372b7ceba8fa7866d56d21225e22d5772ad87bb972f52"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/src/ep2.js",
+      "source_sha256": "097f157c99a4212a971d2ea0445fd9ebf9df2e3eea83b74aeb6572ac940438df",
+      "snapshot_sha256": "5a016833a22de5a9946d19da37a4fd8ba1a32b2cdb6fadf474a6a1056c9df332"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/src/main2.js",
+      "source_sha256": "4fcc0f65a1c4d3b0fc8fe4b0e575999692616f58ad6776247f8ca0e6af238681",
+      "snapshot_sha256": "e678bce1cccd265939b790d925b9c6a71bd85cd0a3795f846d381e29b23138d8"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/src/marca.js",
+      "source_sha256": "b5c9147ce861a102e296ff73ae04b6c2c5c1ac4a7fbfba16a77a7d7b448c6606",
+      "snapshot_sha256": "9f4f2c6a0e5124707896e53400f11db161cff6b44ea2d8bf62d8055457c68998"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/src/marca3.js",
+      "source_sha256": "69f393561ac139ebbc2636ca9c20ff2c475c7c16a4ed9949f09aacf74d709d04",
+      "snapshot_sha256": "667fab6b187df1dad5a0044cfbab5bf3656e39989ed6a6ea21813cd0f3c00ee0"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/src/pitch.js",
+      "source_sha256": "7c376c4f285633826d94414c5bb468b7b1184e0e170141f2d071ee4c9a227331",
+      "snapshot_sha256": "b685d518c0d75716c8f312eb1e4968035c6cff262a0055b37cd2e5d66a107c6e"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/src/portadas.js",
+      "source_sha256": "0c82c004d51abefdd47ba6cdb9191bdbf59ce326000eac54157d5023fabfb807",
+      "snapshot_sha256": "20be3f997b12815ced93018dd85bb75d43999380761c59ff169389c4c4b2a1b9"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/src/room.js",
+      "source_sha256": "d7569643cde2c7220371d70a84d81526be34be98dddf3e4ee778be490a5845c1",
+      "snapshot_sha256": "8842a8e631c2eece2c741d135560225f46ee150c1c00b7e99f3010867753aef9"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/src/shots2.js",
+      "source_sha256": "e548259c76131d6ccec2ea2d3467912824a51d36b2174d64a166af70f11f8dae",
+      "snapshot_sha256": "ddbd35be86e60de2b201750c2e29c1c703e03c8bf3138a73ce039e247301b2eb"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/src/shots3a.js",
+      "source_sha256": "49a2845119e889b22f537ff6d8bb8bb16c82137eb293f087cd9c7a189912474d",
+      "snapshot_sha256": "7e3a2ef06c808e44194a9e7b19a860182b71fa29ad3fc1da37f5e7c46483e1e0"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/src/shots3b.js",
+      "source_sha256": "90b5609868ef4b165a7894aaf5e0603414dcb1a728244b2aabe2ffb1e965fdb4",
+      "snapshot_sha256": "5acae77aed146b5e8e4f9e0cbd92532e31e505f788fbe3a9ed6f736175435ce7"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/src/shots3c.js",
+      "source_sha256": "91c6f6cd4d3a6f354c87ddd1192aa37035ca50aab22adfea544fe199a357811e",
+      "snapshot_sha256": "c4a08c74d0f258960986686e5a6812377d54788ab07c04782ed98bd72354ae3b"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/src/transiciones.js",
+      "source_sha256": "f4310539c7865a8496a341e7d9d36b435fc91d510f251f958c0e34fc1ffb8cc3",
+      "snapshot_sha256": "fb074da42523844584a203dc2850a5a42abb66eb96aefc97991697b83f541e1b"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/src/words.js",
+      "source_sha256": "646d12262d98e19f5d99de16cdca7e8608053a62f66ee22eb763381d244f8699",
+      "snapshot_sha256": "646d12262d98e19f5d99de16cdca7e8608053a62f66ee22eb763381d244f8699"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/src/words_ep.js",
+      "source_sha256": "7003ecd593bf9a17d70b6d8a4f0088a134e8d4b5947a047fabf5e9f25ec415e1",
+      "snapshot_sha256": "5e769160984708c3d76accb4d0a84b6bfe1e58c2650caf9ffd8a9634a041ae4b"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/proyecto/timeline.json",
+      "source_sha256": "f95acada42a7aabe2d18a8b888b9ceb8c1a96787272f9d36e16353146ae43d8f",
+      "snapshot_sha256": "5347c24a5d932e52147efe7f4c332efe5cc77c3d33c80cfcb3ac8ad45b09fdb0"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/README.md",
+      "source_sha256": "1fba20e9cdc33924b05a227916873d27c70da68d6bd5b2c12565391ca2124512",
+      "snapshot_sha256": "00bcbcacbd6f56b1ae6bc01cb5cc807251921f7327e46c8e288ea80eeb17302e"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/revision/cortes-sugeridos.json",
+      "source_sha256": "6d7c72aeaef05cb93668aad66c9fd011160432f4a29d7d63627b07379c8ff9fb",
+      "snapshot_sha256": "081fcf6bb4e7eec083028e796f6e8e94a0a309952e3a1e0306590fedfa22181a"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/revision/revision-v1.md",
+      "source_sha256": "c2752bc656f00f477d82da03343ff643c8f3cec429647453cc1fe8175d0e83bf",
+      "snapshot_sha256": "871e2499e6b1775b360c8569262ad39982ab9148f02a3837a17f4c5aba0e9c28"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/revision/storyboard.md",
+      "source_sha256": "47229af2d2e208763f669039f5cd890593b21bdbb6a1bb36dd6ca741b2230756",
+      "snapshot_sha256": "23eedbc6218fa5cb81a1c1e302c7e7bbc6a6ea491c19df3febdf28ce3eb50327"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/revision/voz-palabras-final.json",
+      "source_sha256": "34c6cad8d8b135af53b7b0e50bc1e6b83b0e450a04c977d14f42c010f288f0fe",
+      "snapshot_sha256": "34c6cad8d8b135af53b7b0e50bc1e6b83b0e450a04c977d14f42c010f288f0fe"
+    },
+    {
+      "path": "episodios/ep04-cristiano-mexico/revision/voz-palabras.json",
+      "source_sha256": "34c6cad8d8b135af53b7b0e50bc1e6b83b0e450a04c977d14f42c010f288f0fe",
+      "snapshot_sha256": "34c6cad8d8b135af53b7b0e50bc1e6b83b0e450a04c977d14f42c010f288f0fe"
+    },
+    {
+      "path": "herramientas/codificar.py",
+      "source_sha256": "52c93ddf90a252a3fc6976b5a3bb06bbbfbe666203e65db238566e1e61cffcb2",
+      "snapshot_sha256": "c9aa8a91c9a66766d381e3b57cf9c9002678c56c99424210d8f9272ab6d99545"
+    },
+    {
+      "path": "herramientas/comun.py",
+      "source_sha256": "7a1dcf1d677f46c9cfbe1a98f065c3f3a58c9b18a655e31362c6f9467f1bac97",
+      "snapshot_sha256": "c03b21144b72b300f028001b882149ec0f6f3b72f62a58dd2239e519d1f7c69d"
+    },
+    {
+      "path": "herramientas/cortes.py",
+      "source_sha256": "1f9a8d96a5f063abc248a9b8edaf2a0a0064021821f6009254f219bc43bede97",
+      "snapshot_sha256": "6626d0ba811372e2383f939e7a43721b7d8c2081fef174b59dad4b4d42a6d7f7"
+    },
+    {
+      "path": "herramientas/esqueleto.py",
+      "source_sha256": "447053e6c281acd85c081ce1ebb66f6116f0e18a18a713045ab7df7111a7bacd",
+      "snapshot_sha256": "ee98e813c7af1732ce34a2a673483655a4ebb618592e5624e431dd9ebd620688"
+    },
+    {
+      "path": "herramientas/fragmentos.py",
+      "source_sha256": "70f827e48174427f64307f63ea975be0da17d44c6f2e683eb542dddd91b67878",
+      "snapshot_sha256": "c6cdb45489097650ebc229fcdfc92b728994fe6bcef52469846f42107d62f48d"
+    },
+    {
+      "path": "herramientas/kit/direccion.js",
+      "source_sha256": "86f0a7fbedb20001bd97423481599d3fccb9c23d73ab954a57ac89a0dd211b96",
+      "snapshot_sha256": "81698299cd417b841417e48d0fd93361d185309d74e10d03d58467a3a4937c0d"
+    },
+    {
+      "path": "herramientas/kit/transiciones.js",
+      "source_sha256": "f4310539c7865a8496a341e7d9d36b435fc91d510f251f958c0e34fc1ffb8cc3",
+      "snapshot_sha256": "fb074da42523844584a203dc2850a5a42abb66eb96aefc97991697b83f541e1b"
+    },
+    {
+      "path": "herramientas/lib/pagina.mjs",
+      "source_sha256": "c9b9d07e8ed59802f099944cf1bc69d62ac4b2a63159e7563fe19128e8b2c567",
+      "snapshot_sha256": "ab59633f733fa2f3623a408d296489341d4f436a31baac373fba6979fe777d6d"
+    },
+    {
+      "path": "herramientas/medir.py",
+      "source_sha256": "1d7d8ee1fca70e3a158419e99680c1f49b142d97aec64943ea5b4bb39e909b35",
+      "snapshot_sha256": "b18d2fec83a0d32a39eafbc97f2264434fae7b10e71cc4bfff74eae5c90abe21"
+    },
+    {
+      "path": "herramientas/mezclar.py",
+      "source_sha256": "ca7ac5c941b9f40c8b86ff654e8d70326ca52cd73df5627b342845c95210a021",
+      "snapshot_sha256": "35aae3644e1ba6bfd41b69c235afc9b03314f96f4920578ae586106b7fcf75e1"
+    },
+    {
+      "path": "herramientas/nuevo_episodio.py",
+      "source_sha256": "c7f732a587353684130193e645fbe89b0c92a8492bd0e4f47f7257e3cd0ff79d",
+      "snapshot_sha256": "ff69e0b721567fb32f6a93964e54ccc57f3c6f2a4bc7594fe2646fd5c336d29c"
+    },
+    {
+      "path": "herramientas/overlays_fragmentos.mjs",
+      "source_sha256": "141307ba2405eb0ab6a62a3b19df2d8b9b1795732dc368b128f648a1c7a687d2",
+      "snapshot_sha256": "009a83be08b7a1c05236b8a186fce12e56de1811e2f092f6dcfdf995606d30af"
+    },
+    {
+      "path": "herramientas/palabras_a_js.py",
+      "source_sha256": "4eaa2884770041456ee62baf5583b26a7edd8423f9dcc3ec72cc2d0eb5f5b7c2",
+      "snapshot_sha256": "fce34a686c4d0e221e4900d4679150e2b0deda478dd5871b176ee8abb2852461"
+    },
+    {
+      "path": "herramientas/partes.py",
+      "source_sha256": "b3045fe9b3e1e754eeb74aad560e931b946b82ba4f70d3e1d1e82906dc408cc4",
+      "snapshot_sha256": "cab6e5904a392b3cd26998c20e09632359d6bc41880888c79d13dcf5068fbf10"
+    },
+    {
+      "path": "herramientas/probe.mjs",
+      "source_sha256": "5c6d98f348bee5fa23479d939171c7520bbd2c1224c210ae56ca6211f9cbb5d1",
+      "snapshot_sha256": "111e6637baad25cb89ab82e17cb4704067771f9971fa750e0a0b5dd18a82320f"
+    },
+    {
+      "path": "herramientas/producir.py",
+      "source_sha256": "823cf9547bcc66a16c1faee05d5b5d07592e6377579b40d510febd7bec4be24a",
+      "snapshot_sha256": "cd1d3ac43577af55cc5c5e2fdc13631ea39b8511e5836ce6c9b3046f13499d50"
+    },
+    {
+      "path": "herramientas/qa_render.py",
+      "source_sha256": "28f5492f38cc79e2629980591880ef8cd2c800192859f3d1ea630ae7bd7c063e",
+      "snapshot_sha256": "b0bc80e2466b9791c5736b3622a582de2988a0572c75536eb48d4f41f4c4d812"
+    },
+    {
+      "path": "herramientas/render.mjs",
+      "source_sha256": "7be330976edd72f16eee56b4443958ca94ee987feab25e9a7e8caa0aa9cf4da1",
+      "snapshot_sha256": "04cce7534b0469a6d360af919ea9a9250054c2eb1119c4927ec721b16e57243f"
+    },
+    {
+      "path": "herramientas/separar_voz.py",
+      "source_sha256": "1f02ec26064d7f9e715badc9c39ee88dccaf38c97562c3e6aa2cbf01736616fd",
+      "snapshot_sha256": "1148fbd692978d383c3a3da8ebf649ae668e796e387406885571c098d77ad9fb"
+    },
+    {
+      "path": "herramientas/snap.mjs",
+      "source_sha256": "d692fd638d113e21a68af1179cd6a6f877a84b53ddacee009e2504d16e15abe6",
+      "snapshot_sha256": "b3617f1d0473d762c148f0bb37e56601d8295f97ef338ad2fdd60c19fcd77fc0"
+    },
+    {
+      "path": "herramientas/timeline.mjs",
+      "source_sha256": "97d65c512fb09d85e65aa81caab0e6f2667650ba217037c325199e4e9ae78d2d",
+      "snapshot_sha256": "1345e21cfc7018b9e59cf526bc497c8b94f5297111c0891654f20ac303d0fbd7"
+    },
+    {
+      "path": "herramientas/transcribir.py",
+      "source_sha256": "342dd0c169006e495fd20d2fe9d1ab0bb4ceed09fb2801473c3e700ee8ca517a",
+      "snapshot_sha256": "133badac7ca15ce16cd8bacc27e2d3c7d67b79e6955e3ed1e614cae8533abe29"
+    },
+    {
+      "path": "herramientas/trocear.py",
+      "source_sha256": "22bfbe0979e76187b6ad5406d288603a4052f37f20e17dca73e30fc195b26324",
+      "snapshot_sha256": "4437dc420dc24abca3413cb1da68cde6be3570fc3bbf93149afd86bb69e05dd6"
+    },
+    {
+      "path": "marca/filosofia-bifurcacion.md",
+      "source_sha256": "ba922c3885b6d2ef1981033b0660fa35f06899527b24fc1466582be2b519763d",
+      "snapshot_sha256": "b2d67bd7979667e65ad669acab07c1ddab59eca04f8dab2c2cd5260ba9e0a00c"
+    },
+    {
+      "path": "marca/fuentes/GeistMono-Bold.ttf",
+      "source_sha256": "75c0828d5c1ee44b9ef9f4df577bf41595ec362e2ea3f1e558590c9e92c7949d",
+      "snapshot_sha256": "75c0828d5c1ee44b9ef9f4df577bf41595ec362e2ea3f1e558590c9e92c7949d"
+    },
+    {
+      "path": "marca/fuentes/GeistMono-Regular.ttf",
+      "source_sha256": "a55c1b51cda4afeab9e471e7947b85a20f7c8831d7e6b1470c1b7fbdc0f0f15e",
+      "snapshot_sha256": "a55c1b51cda4afeab9e471e7947b85a20f7c8831d7e6b1470c1b7fbdc0f0f15e"
+    },
+    {
+      "path": "marca/fuentes/InstrumentSans-Bold.ttf",
+      "source_sha256": "444f85bf1c4b0e1ce1ca624f6be54bcd832207714ccaf4ea99ee531341683bdf",
+      "snapshot_sha256": "444f85bf1c4b0e1ce1ca624f6be54bcd832207714ccaf4ea99ee531341683bdf"
+    },
+    {
+      "path": "marca/fuentes/InstrumentSans-Regular.ttf",
+      "source_sha256": "a22cb26e48fd79bcb01bf2fc92d36785474dce36d9c544ab0a8868c2657c4a87",
+      "snapshot_sha256": "a22cb26e48fd79bcb01bf2fc92d36785474dce36d9c544ab0a8868c2657c4a87"
+    },
+    {
+      "path": "marca/fuentes/InstrumentSerif-Italic.ttf",
+      "source_sha256": "9c86e4d5a47b50224a2463a9eca8535835257c8e85c470c2c6b454b1af6f046e",
+      "snapshot_sha256": "9c86e4d5a47b50224a2463a9eca8535835257c8e85c470c2c6b454b1af6f046e"
+    },
+    {
+      "path": "marca/fuentes/InstrumentSerif-Regular.ttf",
+      "source_sha256": "56ac3be03ac3ba283196b3e77850ab2ffcf56cfb6fd3212c5620109a972f8c99",
+      "snapshot_sha256": "56ac3be03ac3ba283196b3e77850ab2ffcf56cfb6fd3212c5620109a972f8c99"
+    },
+    {
+      "path": "marca/fuentes/OFL-geistmono.txt",
+      "source_sha256": "1781d2806a07d91c4edf4740b88449fab7d0eadad53f7c351b94cd4d4eb8c00f",
+      "snapshot_sha256": "f52b2dd3e8543035e79d44c100a69874017d0fb05342956fd2f600a426d0e991"
+    },
+    {
+      "path": "marca/fuentes/OFL-instrumentsans.txt",
+      "source_sha256": "9e27a72ed30eb49a08678f6a5d6ed98ec7ba5368f541637ee0683ec9134ef966",
+      "snapshot_sha256": "841742d77e5deeaf719ad3f9aaf17891abe4b827a49fc8e1b0558ee59a2b3195"
+    },
+    {
+      "path": "marca/fuentes/OFL-instrumentserif.txt",
+      "source_sha256": "129ed7618959716959f2941fdd5b49e0ad6e6c1d78726761786a00253d865521",
+      "snapshot_sha256": "918aca23eab7bf6b4bec8b3155432bdfc17985d2fbb2516c2629785bd1feff42"
+    },
+    {
+      "path": "marca/generador/brand3.html",
+      "source_sha256": "f5db83617b6dc79e5bde2a7edcc2a9a2fd933546d835b36613ff6c853078c036",
+      "snapshot_sha256": "8a17e6d589a56b362c88e341e99aec36b5b726d91db6fb324ca85e99accf3a1a"
+    },
+    {
+      "path": "marca/generador/brand3.js",
+      "source_sha256": "5bf2c581c8c3a0904138d7d36bc834dae9c1d25d76096e8c26bca21b5b2685e0",
+      "snapshot_sha256": "b073d6f8e82305ae63b93497cafc2d404480995f00cc2ee52cf0b403b898ee9d"
+    },
+    {
+      "path": "marca/generador/brandkit.js",
+      "source_sha256": "3ac74f93b8fe5ae83f4c0e7b22069274db25bb96e9002d47363399956366a71e",
+      "snapshot_sha256": "56bbe09c4b75f07150132de768aad7d3ad120d1fd0feeff8be9501584323659e"
+    },
+    {
+      "path": "marca/generador/kit3_export.mjs",
+      "source_sha256": "675cd90c755bac4355c0a1c8ad456aae2bf3f93cd4244b6168cfe69b2a0bcc15",
+      "snapshot_sha256": "cc5088490a95de4bd28e143be00e4f09105176e4d81f9753b6732b65a42f3c09"
+    },
+    {
+      "path": "marca/generador/tablero.py",
+      "source_sha256": "74e1897a106a12cad47c698caaa7c9547c30816c36b5e4a1e46cf0ff08001b25",
+      "snapshot_sha256": "5787f8e4abc521f5fea4e9c984df72247a5f34f717bf88a3980353d8719688b7"
+    },
+    {
+      "path": "marca/generador/thumbs.js",
+      "source_sha256": "2417a6e7b183f3923826192e76041bc05376fdeb2c60a6070768f5b0f4f2abd2",
+      "snapshot_sha256": "a72f9ea0cc6d8f6aea96502b26ec07326a5ffd55c4ec7e262cad3df504c2e32d"
+    },
+    {
+      "path": "marca/generador/youtube_listo.py",
+      "source_sha256": "42aec29624cf526f3e81b9182458c4e2288dc4bc70c49a8cce1d9b491eb805c7",
+      "snapshot_sha256": "594b02142e64dfdec5e2acee2d3adc7210eec266bb6b8331cdfe22965122fb5a"
+    },
+    {
+      "path": "marca/identidad-v3/youtube/LEEME-youtube.md",
+      "source_sha256": "12f95d9c99afe3fc148db71add4a6cad7734cac7fb3b21c75683f4e073fe356f",
+      "snapshot_sha256": "977b17fe984271aff21abeb6e1d239b3031c6bc14c63efbd33c4d9620945bfa4"
+    },
+    {
+      "path": "marca/perfiles/dr-v1/PROMPT-PERFIL-DR-V1-20261028.txt",
+      "source_sha256": "303a07512e91eaed99d505e4940303de9a129b2d6221917337c97dd2fa3809eb",
+      "snapshot_sha256": "32f3464df1b10934bbcb1c7b59e9cd85f4b993c00cae2db06df0b7edd8d00f75"
+    },
+    {
+      "path": "marca/perfiles/dr-v1/README.md",
+      "source_sha256": "f780208f8ef3e2075153de20139a696c1d22d1781fc91b05195f39b51d2ab0e1",
+      "snapshot_sha256": "379c5e21704ff1cfe7443adcc182f5e6693256ec94a97f96f7e686cf7a756828"
+    },
+    {
+      "path": "marca/perfiles/README.md",
+      "source_sha256": "ef62bd3104592ce63554047818f25db87d10a01375ef3de1e2734f8c7044d510",
+      "snapshot_sha256": "c2c770e0d6aecad34ed504065b73fac64671b711d1550aa8d067aadd3caa3901"
+    },
+    {
+      "path": "marca/README-ORIGINAL.md",
+      "source_sha256": "95a5f5d64ba8a26ff7db36ea52320d4dfe38713762027c146f2da74dc7d4c8f7",
+      "snapshot_sha256": "e24fec967a8226a88cdeb1498043c1edd912f78e83e10ad53de71fea5162daa4"
+    },
+    {
+      "path": "marca/README.md",
+      "source_sha256": "ff3ab1d2224187ce1e2345fa3b89ba5054237404a135844bc59577f011afc688",
+      "snapshot_sha256": "273c2c401cdcca87ea7abf95f2223ea079797fa9a3ce7f73ba5c27df440372b5"
+    },
+    {
+      "path": "package-lock.json",
+      "source_sha256": "cf4942fa70772b09db8239bc84edd8dbad188bcb56a73d55741b9910a979b3a3",
+      "snapshot_sha256": "f151b72ea71760c55edd0eb60095d3638baf106e27dc76097070fa0af23f60a1"
+    },
+    {
+      "path": "package.json",
+      "source_sha256": "96dbbb1edd5de1e01db7563e02e6fc084040a277a269d8da251390ea1c655e5c",
+      "snapshot_sha256": "ee2777131db5cf05092731637f87989aec8ca14d09e8b651f1401d798bf2987f"
+    },
+    {
+      "path": "personaje/actual/DR-V10-CABEZA-REDONDA-20261028.md",
+      "source_sha256": "cf4a4e3f51bd3ec23444785821fd5748732281a033d9f6ae1f5cf70803966757",
+      "snapshot_sha256": "522835c458cee58b82e2dc2abfead44c6faf68c92d7f07eec832f5b80f1dcfde"
+    },
+    {
+      "path": "personaje/actual/DR-V9-HIBRIDO-20261028.md",
+      "source_sha256": "d6097abf84de14eaa24851f27b3c1796908992d3a1f2b7eb4568849ec48e5f58",
+      "snapshot_sha256": "c8b0691c5bea3023eb145859b4cebd9050bbd607a17826d48bcf69579eadf5cf"
+    },
+    {
+      "path": "personaje/actual/FICHA-DR-STICKMAN-V8.md",
+      "source_sha256": "17aff133f26bcab47fc545642dab8f66f4f99a96fb8c1838ec956bdd1973ebb9",
+      "snapshot_sha256": "844664b14fb02c6d7d0d7f74de4dba8c82416a4c332d64be502a981c311e6b4b"
+    },
+    {
+      "path": "personaje/actual/FICHA-DR-STICKMAN.md",
+      "source_sha256": "0dd32cc53611ba0ea51ecb4ec2473e8bb8cd737d84c725e4d919169c79907285",
+      "snapshot_sha256": "e1e92ef2ee3bae948e4e794aadc7dfec763cca3afd63a51242a3c85374443774"
+    },
+    {
+      "path": "personaje/actual/FICHA-VIGENTE-DR.md",
+      "source_sha256": "48c88a2fe832f43e33c6ad4edab686d21b3ed2ad76fb77c84d24d11c3298f22b",
+      "snapshot_sha256": "a4cc32da9f9941bf6db43fc904f81ed0ee98d89a7b37e706367667ae0e0f3ab1"
+    },
+    {
+      "path": "personaje/actual/PROMPT-DR-V10-20261028.txt",
+      "source_sha256": "684484277e63420e1cad8ffce0c55dda7e4f2f1bc6f20f7667e4d73fdfdd7ebf",
+      "snapshot_sha256": "529d9386821b7f4ed24d43db8739adee66d151aa18e5cf7ce568f80377361b43"
+    },
+    {
+      "path": "personaje/actual/PROMPT-DR-V7-STICKMAN-20261028.txt",
+      "source_sha256": "c62cc58c2d63001b20cf7d47493389f2ad4645247081caffc65cfe8ecb09ebde",
+      "snapshot_sha256": "deef93258bfd11daacbb4f78654bc850d042aa880ac4fda6cf2ffc433fc45652"
+    },
+    {
+      "path": "personaje/actual/PROMPT-DR-V9-HIBRIDO-20261028.txt",
+      "source_sha256": "9624f586161997273c6aac4a183b981b4ca710c03c5de41feebe2d6732ca4c69",
+      "snapshot_sha256": "b446a14a2c7bcc569ff547b333494a54fe45bb60f19faba7c32ee093fae8d463"
+    },
+    {
+      "path": "personaje/actual/PROMPT-HOJA-DR-V8-20261028.txt",
+      "source_sha256": "c3b38dfb093500a30d57bcc04abcfb926fd49c05b9af96a4181a6e0ce36bb9f5",
+      "snapshot_sha256": "e6186dd9d5a4285803705fceeedb59c72ab17e62080db445d31362688c4f3412"
+    },
+    {
+      "path": "personaje/actual/README.md",
+      "source_sha256": "feb415c1057ca62a6d49c244d5852d60bfebb9167c62a5a28d345e3aaa5b35a4",
+      "snapshot_sha256": "03d4256ebd0c130c8dca387c1425b1323cfd0b3aa3c94e0d3f5432d10457416b"
+    },
+    {
+      "path": "personaje/actual/REVISION-DR-V7-STICKMAN-20261028.md",
+      "source_sha256": "ba65bf12a8771e663395a734b7030453360214feee769c87ac4239488c56674c",
+      "snapshot_sha256": "aed0f898ff693573a743ff49495f1af0066574956955001aa5e504e27fea308d"
+    },
+    {
+      "path": "personaje/actual/REVISION-DR-V8-Y-PERFIL-V1-20261028.md",
+      "source_sha256": "0a3c4cbe4b974d14d8f110333b787bebc43eae28ddadf4f02009c52d7c41cf8a",
+      "snapshot_sha256": "d8d5a2609f46d41ef3a0963af26f4857071313e01d48362a7538545b3e3466f4"
+    },
+    {
+      "path": "personaje/historico/desarrollo-previo/ARRANQUE.md",
+      "source_sha256": "133d4ee0a45a57cf29b9eeeacdd2f217fce0602f4b47620d47cf21c99de5e157",
+      "snapshot_sha256": "0062d37e48afefecfb0179a15c73b94f8a3f730664dd2f525c74d868eba968f6"
+    },
+    {
+      "path": "personaje/historico/desarrollo-previo/CONCILIACION-RESPALDO-20261026.md",
+      "source_sha256": "e7cf3cdea4e60d427f32f666710ab409366e36a7fc5bac83d146968f64b818fe",
+      "snapshot_sha256": "1719a501b841017efa89a724aa9b3282e99874bfd7d92f3199fcb623057a631f"
+    },
+    {
+      "path": "personaje/historico/desarrollo-previo/CONTINUIDAD.md",
+      "source_sha256": "60b201f550fa2cec761f3f599509ff2770810a410b81081145f26756bc13c878",
+      "snapshot_sha256": "a870a429b9a78264d9065365781805ce38aca16a44a80d3c96e48def69396d9e"
+    },
+    {
+      "path": "personaje/historico/desarrollo-previo/HOJA-PERSONAJE-DR.md",
+      "source_sha256": "6ad90f9ece82aa2b341d39249d80c20dc8b1a9a59eeacb306b4de2c0fe6aa746",
+      "snapshot_sha256": "b88e57192ab124952f854953e080f98622c29b550d449d42ec18f7b29e8f72a9"
+    },
+    {
+      "path": "personaje/historico/desarrollo-previo/IDENTIDAD-VIGENTE.md",
+      "source_sha256": "8d7c2a9df21a3a9c4d811b2420515c36324110fc395bea4cca26f633d0b92623",
+      "snapshot_sha256": "c5d2ad74aa1bfb669f7589bfd335bbacdcf69678dd75c44ebe8b6396eddac025"
+    },
+    {
+      "path": "personaje/historico/desarrollo-previo/PROMPT-DR-V3-20261026.txt",
+      "source_sha256": "f24d73445b26b87dae55ce0524899353314b13dd6d1eefb8ec764c50f3e1ce59",
+      "snapshot_sha256": "4602e98c7349e15fe17453074c716dacfd6a2bcfe701dc19acf56848209c45db"
+    },
+    {
+      "path": "personaje/historico/desarrollo-previo/PROMPT-DR-V4-MEMORABLE-20261026.txt",
+      "source_sha256": "51c8aa9af22769568b3abc4932894698a86a5d87090f380daa461054ad30d36c",
+      "snapshot_sha256": "c17bb0e59010b06a96d011d63fd3d8267997e4a736b4133f58eb49de9bf41107"
+    },
+    {
+      "path": "personaje/historico/desarrollo-previo/PROMPT-DR-V5-REFERENTES-2D-20261026.txt",
+      "source_sha256": "115f71f60f1b5ec24c3ad882636a600fbc81ec849664e3de896c7af0511fc8e7",
+      "snapshot_sha256": "90e8f31b7fd16d88e370fdf53286e16c393e8033fb82735fb3c0eae6cfaaeea4"
+    },
+    {
+      "path": "personaje/historico/desarrollo-previo/PROMPT-FERMIN-V2-20261026-AJUSTE.txt",
+      "source_sha256": "9ed1fb2f0c4339d4a34c24f5198d13ae5bea11dadf4bdfa55d6b765fe459a681",
+      "snapshot_sha256": "2e8dd96671797f5399b0c797ff4d30e64c4e666a94922d74efc9ffa6328d07ba"
+    },
+    {
+      "path": "personaje/historico/desarrollo-previo/PROMPT-FERMIN-V2-20261026.txt",
+      "source_sha256": "143cf3a223250fa00d8e1399aa1b0e1cab1409e9914614583812d04ad7370efe",
+      "snapshot_sha256": "9782dac0e499dc9db1f353bf3bc3dd29f3edda8f994205fde3c2c2eeb400c713"
+    },
+    {
+      "path": "personaje/historico/desarrollo-previo/PROMPT-HOJA-PERSONAJE-DR-V6-20261026.txt",
+      "source_sha256": "139d0ee7333b5bd0c3756bc9799d1aa0e00541303a4d4a64240c5d4d207f9fb9",
+      "snapshot_sha256": "1e5fdae5e57061bff471a9712057e1f2e0d061dce22316805f90c41f2d20b03b"
+    },
+    {
+      "path": "personaje/historico/desarrollo-previo/PROMPT-IDENTIDAD-20261026.txt",
+      "source_sha256": "4089b0e3ef60b500df800967235623a709e671861384c2af85092b4e52bb97e6",
+      "snapshot_sha256": "024da4c4fa2ff893b1c51cdd02847f8a2f7423613361e675748d508d03bb42ae"
+    },
+    {
+      "path": "personaje/historico/desarrollo-previo/PROPUESTA-IDENTIDAD-20261026.md",
+      "source_sha256": "b6a98ed4273991de7f5c7046cb0e205c2e0e0abf5201d1c965b6182d40d35b28",
+      "snapshot_sha256": "c88f7b3db50108c7b29437d62ac5c6d27404e5c9e43d068311f428ec069206b6"
+    },
+    {
+      "path": "personaje/historico/desarrollo-previo/PROPUESTA-IDENTIDAD-V2-20261026.md",
+      "source_sha256": "e57c9ea56a946b120a7057bdaa29980ce57f07e40b7b04c48316b26b13dec11a",
+      "snapshot_sha256": "ba80178af165e06c1c00a28d9175cf53ea0a1f7adf4a61e72f3d8ab2e11fdd19"
+    },
+    {
+      "path": "personaje/historico/desarrollo-previo/respaldo-extractos/VOZ-METADATOS-RECUPERADOS-20261026.json",
+      "source_sha256": "00468ce1b785e7470c04eb9f6a0268d80db9bc91d0ad30e230cb542cd82bfb6f",
+      "snapshot_sha256": "30e64710fb0d9741f7aa9ac081bb826b8bed86917739c26927325c18ad55de22"
+    },
+    {
+      "path": "personaje/historico/desarrollo-previo/REVISION-DR-V3-20261026.md",
+      "source_sha256": "d8a7592e8d43c50d0303095f64e063800c94c4db08600a67cbd3771d96579128",
+      "snapshot_sha256": "024e63e136d1a33268cb7392ea045bb1c2d9fb068c2cb3e866f251b1181f1a5f"
+    },
+    {
+      "path": "personaje/historico/desarrollo-previo/REVISION-DR-V4-MEMORABLE-20261026.md",
+      "source_sha256": "1a34f59b3611c43115102f0f92b06b3c8cbf54f8201f882660e1c9f0bf377c33",
+      "snapshot_sha256": "e653bf06623a5981f75e058936b5b3dfbd32fe48734ac7c0b6a93867ec5d58c9"
+    },
+    {
+      "path": "personaje/historico/desarrollo-previo/REVISION-DR-V5-REFERENTES-2D-20261026.md",
+      "source_sha256": "1ef026f26a0b7c695ff44f31ceb40eca3e83012ee65bea9a6e95d34f8afc5ed8",
+      "snapshot_sha256": "30dc8b219e95e6ce4ac928e5bdc8ca7407c1f55e53fc1f46ef69b511af7a597e"
+    },
+    {
+      "path": "personaje/historico/desarrollo-previo/REVISION-FERMIN-V2-20261026.md",
+      "source_sha256": "04cf31183f08a5b94dcd7104107390d3cfca4829aa54e0f4dc08a98e985f4ffe",
+      "snapshot_sha256": "534a02ac1c8fe9be028f28a0cdd916a2bdb82753363a736dbd2c9030525e1fad"
+    },
+    {
+      "path": "personaje/historico/desarrollo-previo/REVISION-HOJA-PERSONAJE-DR-V6-20261026.md",
+      "source_sha256": "f55a22087dfd288dfd103bcafee1d46709daddbd7196b7438e6a642a5dd08ab7",
+      "snapshot_sha256": "ca04b22e526ede283d27b53592ae2a7e98cb33736850e6b1e4e7d038438a2e00"
+    },
+    {
+      "path": "personaje/historico/desarrollo-previo/REVISION-IDENTIDAD-20261026.md",
+      "source_sha256": "3cf881dc7b05a746dedddb29ed76e202b84627abfcdf69260ddc45a8113d33be",
+      "snapshot_sha256": "c8264ebd6155a9253da5a9cafd47085dc201d6d0f2932888058f5b91ef36fe3c"
+    },
+    {
+      "path": "personaje/historico/INDICE-VERSIONES.md",
+      "source_sha256": "553662d762c5634e6c78b80d23247a0a4ca40b4ba3024c0da550cdd5002623c4",
+      "snapshot_sha256": "fb42d2363612d9fb0cf0003b7c8b662da3ab460b9ddec50f1224bf1163e6b2f1"
+    },
+    {
+      "path": "requirements-opcional.txt",
+      "source_sha256": "95ddd37357e73bb56673706aa6be1213c7fd7325e7d77d1f5cf99f02fbf97dc3",
+      "snapshot_sha256": "adcf27213291ecd1bf6dfc5937fcd40a50f7292efe640bd463a251025807811c"
+    },
+    {
+      "path": "requirements.txt",
+      "source_sha256": "a367d08bf54cf55f177d75892e58673ce5b7ef321cb4dac660d2e97c55b681de",
+      "snapshot_sha256": "1085de95ce0d137ecae78751aa3c18115015b0c1545c69057c7d1398a2bbf472"
+    },
+    {
+      "path": "skills/el-hubiera-video/SKILL.md",
+      "source_sha256": "44682f19ced42dac325e15c8b88b8dacdcfe07edc13b46516e56df9191ce623f",
+      "snapshot_sha256": "6010fa7e2a6a3d34627b1790b7e3fe325279984ac5dba6d7596b51af2d33f710"
+    },
+    {
+      "path": "skills/escritura-guiones-ai-lab/SKILL.md",
+      "source_sha256": "f04d14db224c48d25cabb811eec1efc9304ed495cc49527ffd0c8989f5dc757a",
+      "snapshot_sha256": "1f64cc09325caee92e1d290ca435d62c44fa74c98d6bdc0780098cdbb2b3bed2"
+    },
+    {
+      "path": "skills/kit-video-ai-lab/SKILL.md",
+      "source_sha256": "0bf876947a11d8e3211a41695ca8cd43a8bb7697e156203ca0b8d9f7fc3803d1",
+      "snapshot_sha256": "6f83bd22aeff77453e630d8d031e05626b9e5f9df1c528148ca86a8d8c45d467"
+    },
+    {
+      "path": "skills/README.md",
+      "source_sha256": "85aff3c6d34082b300f8b6e93b75d56773f1311c16a23c0178a70fd1d2d22757",
+      "snapshot_sha256": "31b0273fac6e677f43e02fb126ebf345fb489a9a7242140012ce2d6ec80d7c96"
+    },
+    {
+      "path": "skills/stickman-animation-direccion/SKILL.md",
+      "source_sha256": "96c0e64dba1b8619b9c04a2f4743918b4275352777f6e28c974ac557f166c700",
+      "snapshot_sha256": "d4c9b5a2becab96aa1b2992ee155b7af9b8a2f30d4946fe046129c9487e0f710"
+    },
+    {
+      "path": "skills/stickman-animation-salidas/SKILL.md",
+      "source_sha256": "dc5d724d5787d5a5555dc4c2cf4a645deb8cca024fe70eadda06479dc764dba2",
+      "snapshot_sha256": "a63b29c1635cdcd7e87ec813f5759082c011981db3be3b00926040d2fa490229"
+    },
+    {
+      "path": "skills/stickman-animation-video/SKILL.md",
+      "source_sha256": "46743040919057c63cb456d79e0ffff5d44a9a61b7276d1e9fb4782139135cd6",
+      "snapshot_sha256": "02e661c5ff8db4c340cfa95e60e5455b1730f47b90fed72f7fff2d5dfcd1e336"
+    },
+    {
+      "path": "skills/voz-elevenlabs/SKILL.md",
+      "source_sha256": "ec03442ffb29919ae44c25922efabd69d2b94d48f9e2250d4cb543d4faeab536",
+      "snapshot_sha256": "4c09a15554fddd046b924db69d09f9fbf3b1c04f487c07aedc00116c112bea72"
+    },
+    {
+      "path": "voz/METADATOS-RECUPERADOS.json",
+      "source_sha256": "6ebc2d685707e512ca73a2202307b617dca359be1091d1341d592477a97fc833",
+      "snapshot_sha256": "773f436e8e0a82189208cf67b7b657370d11bfdd2714cecdda9d1da66b0dbf75"
+    },
+    {
+      "path": "voz/README.md",
+      "source_sha256": "25a0a3e0104919e9dfdee6c38794e918fed44186e7f4c8d1e3165d51f8fc21ed",
+      "snapshot_sha256": "c44110e1ef2711083ac8f35634ef92552554d30c339d62c7236411310b216b1d"
+    }
+  ],
+  "excluded_count": 191
+}

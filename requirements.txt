@@ -1,0 +1,5 @@
+# Núcleo: audio por código (música y efectos), mezcla, fragmentos, tablero de marca
+numpy>=1.26
+scipy>=1.11
+soundfile>=0.12
+pillow>=10.0

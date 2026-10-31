@@ -1,0 +1,26 @@
+{
+ "id": "YSS-20261029-04",
+ "slug": "ep04-cristiano-mexico",
+ "numero": 4,
+ "titulo": "¿Y si Cristiano Ronaldo hubiera nacido en México?",
+ "punto_de_quiebre": "1997 · Lisboa · prueba de 3 días en el Sporting (a los 12 años)",
+ "estado": "v1 por validar (29 oct 2026) · sin publicar",
+ "duracion_s": 209.87,
+ "proyecto": "proyecto",
+ "audio": {
+  "modo": "mezclar",
+  "script": "audio_episodio.py",
+  "voz": "proyecto/assets/voz-v3.wav",
+  "musica": "proyecto/assets/audio/musica.wav",
+  "fx": "proyecto/assets/audio/fx.wav",
+  "maestro": "audio/mezcla-final.flac"
+ },
+ "salida": "elhubiera-ep04-cristiano-mexico",
+ "clips": "clips.json",
+ "portadas": [
+  "videos/ep04-cristiano-mexico/portadas/miniatura-a-1280x720.jpg",
+  "videos/ep04-cristiano-mexico/portadas/miniatura-b-1280x720.jpg",
+  "videos/ep04-cristiano-mexico/portadas/portada-vertical.jpg"
+ ],
+ "notas": "Voz V3 (Joaquín, eleven_v4, 1 toma, 1,449 créditos, Codex). Tiempos por palabra: alineación del proveedor (voz-palabras-final.json). Persona real: sin frases atribuidas a Cristiano; stickman con el 7, sin fotos ni rostro."
+}

@@ -1,0 +1,38 @@
+{
+ "video": "render/ep02-mexico-campeon/v_raw.mp4",
+ "clips": [
+  {
+   "nombre": "ep02-parte-1-de-3",
+   "a": 0,
+   "e": 62.68,
+   "badge": "badge-1de3",
+   "fin": "fin-parte2"
+  },
+  {
+   "nombre": "ep02-parte-2-de-3",
+   "a": 59.65,
+   "e": 144.45,
+   "badge": "badge-2de3",
+   "fin": "fin-parte3"
+  },
+  {
+   "nombre": "ep02-parte-3-de-3",
+   "a": 144.47,
+   "e": 212.95,
+   "badge": "badge-3de3",
+   "fin": "fin-final"
+  },
+  {
+   "nombre": "ep02-short-corridos",
+   "a": 121.57,
+   "e": 144.45,
+   "fin": "fin-completo"
+  },
+  {
+   "nombre": "ep02-short-taco-al-pastor",
+   "a": 182.83,
+   "e": 212.95,
+   "fin": "fin-completo"
+  }
+ ]
+}

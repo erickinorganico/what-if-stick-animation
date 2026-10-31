@@ -1,0 +1,1327 @@
+{
+ "T": {
+  "inicio": 0.637,
+  "fin": 206.176,
+  "cierre": 206.52599999999998
+ },
+ "DUR": 209.87599999999998,
+ "VO": 0.5,
+ "CAPS": [
+  {
+   "t0": 0.637,
+   "t1": 2.26,
+   "words": [
+    "El",
+    "Bicho",
+    "acaba",
+    "de",
+    "meter",
+    "tres"
+   ]
+  },
+  {
+   "t0": 2.26,
+   "t1": 2.98,
+   "words": [
+    "goles."
+   ]
+  },
+  {
+   "t0": 2.98,
+   "t1": 4.14,
+   "words": [
+    "En",
+    "Tijuana."
+   ]
+  },
+  {
+   "t0": 4.26,
+   "t1": 5.38,
+   "words": [
+    "Es",
+    "domingo."
+   ]
+  },
+  {
+   "t0": 5.38,
+   "t1": 6.74,
+   "words": [
+    "Y",
+    "en",
+    "esta",
+    "realidad,"
+   ]
+  },
+  {
+   "t0": 6.74,
+   "t1": 8.579999999999998,
+   "words": [
+    "nunca",
+    "jugó",
+    "en",
+    "el",
+    "Real",
+    "Madrid."
+   ]
+  },
+  {
+   "t0": 8.58,
+   "t1": 10.34,
+   "words": [
+    "Juega",
+    "con",
+    "tenis",
+    "prestados,"
+   ]
+  },
+  {
+   "t0": 10.34,
+   "t1": 12.379999999999999,
+   "words": [
+    "pide",
+    "la",
+    "pelota",
+    "en",
+    "cada",
+    "jugada…"
+   ]
+  },
+  {
+   "t0": 12.48,
+   "t1": 14.633,
+   "words": [
+    "y",
+    "su",
+    "ídolo",
+    "es",
+    "el",
+    "Chicharito."
+   ]
+  },
+  {
+   "t0": 14.633,
+   "t1": 16.18,
+   "words": [
+    "Aunque",
+    "sea",
+    "tres",
+    "años",
+    "más",
+    "chico"
+   ]
+  },
+  {
+   "t0": 16.18,
+   "t1": 16.98,
+   "words": [
+    "que",
+    "él."
+   ]
+  },
+  {
+   "t0": 16.98,
+   "t1": 18.82,
+   "words": [
+    "Es",
+    "Cristiano",
+    "Ronaldo."
+   ]
+  },
+  {
+   "t0": 18.884,
+   "t1": 20.98,
+   "words": [
+    "Pero",
+    "aquí,",
+    "fuera",
+    "de",
+    "su",
+    "colonia,"
+   ]
+  },
+  {
+   "t0": 20.98,
+   "t1": 23.02,
+   "words": [
+    "ese",
+    "nombre",
+    "no",
+    "significa",
+    "nada."
+   ]
+  },
+  {
+   "t0": 23.14,
+   "t1": 25.86,
+   "words": [
+    "¿Y",
+    "si",
+    "Cristiano",
+    "Ronaldo",
+    "hubiera",
+    "nacido"
+   ]
+  },
+  {
+   "t0": 25.86,
+   "t1": 27.358,
+   "words": [
+    "en",
+    "México?"
+   ]
+  },
+  {
+   "t0": 27.358,
+   "t1": 28.82,
+   "words": [
+    "¿Y",
+    "si",
+    "sí?"
+   ]
+  },
+  {
+   "t0": 28.82,
+   "t1": 29.78,
+   "words": [
+    "En",
+    "la",
+    "vida",
+    "real,"
+   ]
+  },
+  {
+   "t0": 29.78,
+   "t1": 32.1,
+   "words": [
+    "Cristiano",
+    "nace",
+    "en",
+    "mil",
+    "novecientos",
+    "ochenta"
+   ]
+  },
+  {
+   "t0": 32.1,
+   "t1": 33.46,
+   "words": [
+    "y",
+    "cinco,",
+    "en",
+    "un",
+    "barrio",
+    "en"
+   ]
+  },
+  {
+   "t0": 33.46,
+   "t1": 34.58,
+   "words": [
+    "los",
+    "cerros",
+    "de",
+    "Madeira,"
+   ]
+  },
+  {
+   "t0": 34.58,
+   "t1": 36.26,
+   "words": [
+    "una",
+    "isla",
+    "de",
+    "Portugal."
+   ]
+  },
+  {
+   "t0": 36.26,
+   "t1": 38.1,
+   "words": [
+    "Su",
+    "familia",
+    "no",
+    "tiene",
+    "dinero."
+   ]
+  },
+  {
+   "t0": 38.1,
+   "t1": 39.46,
+   "words": [
+    "Su",
+    "papá",
+    "es",
+    "utilero",
+    "en",
+    "el"
+   ]
+  },
+  {
+   "t0": 39.46,
+   "t1": 40.74,
+   "words": [
+    "equipo",
+    "del",
+    "barrio."
+   ]
+  },
+  {
+   "t0": 40.74,
+   "t1": 41.78,
+   "words": [
+    "A",
+    "los",
+    "doce",
+    "años,"
+   ]
+  },
+  {
+   "t0": 41.78,
+   "t1": 43.42,
+   "words": [
+    "el",
+    "Sporting",
+    "de",
+    "Lisboa",
+    "lo",
+    "ve"
+   ]
+  },
+  {
+   "t0": 43.42,
+   "t1": 44.233,
+   "words": [
+    "tres",
+    "días…"
+   ]
+  },
+  {
+   "t0": 44.233,
+   "t1": 45.3,
+   "words": [
+    "y",
+    "lo",
+    "ficha."
+   ]
+  },
+  {
+   "t0": 45.3,
+   "t1": 46.9,
+   "words": [
+    "Se",
+    "va",
+    "solo",
+    "a",
+    "otra",
+    "ciudad,"
+   ]
+  },
+  {
+   "t0": 46.9,
+   "t1": 49.54,
+   "words": [
+    "con",
+    "escuela,",
+    "casa",
+    "y",
+    "entrenadores",
+    "pagados"
+   ]
+  },
+  {
+   "t0": 49.54,
+   "t1": 50.649,
+   "words": [
+    "por",
+    "el",
+    "club."
+   ]
+  },
+  {
+   "t0": 50.649,
+   "t1": 52.58,
+   "words": [
+    "Hoy",
+    "tiene",
+    "cinco",
+    "Balones",
+    "de",
+    "Oro"
+   ]
+  },
+  {
+   "t0": 52.58,
+   "t1": 55.62,
+   "words": [
+    "y",
+    "más",
+    "de",
+    "novecientos",
+    "goles",
+    "oficiales."
+   ]
+  },
+  {
+   "t0": 55.62,
+   "t1": 57.3,
+   "words": [
+    "Ahora,",
+    "mismo",
+    "niño,"
+   ]
+  },
+  {
+   "t0": 57.3,
+   "t1": 59.78,
+   "words": [
+    "mismo",
+    "talento,",
+    "la",
+    "misma",
+    "hambre…"
+   ]
+  },
+  {
+   "t0": 59.78,
+   "t1": 61.78,
+   "words": [
+    "pero",
+    "en",
+    "los",
+    "cerros",
+    "de",
+    "Tijuana."
+   ]
+  },
+  {
+   "t0": 61.78,
+   "t1": 62.98,
+   "words": [
+    "Escenario",
+    "uno:"
+   ]
+  },
+  {
+   "t0": 62.98,
+   "t1": 64.1,
+   "words": [
+    "el",
+    "llano."
+   ]
+  },
+  {
+   "t0": 64.1,
+   "t1": 65.98,
+   "words": [
+    "Cristiano",
+    "tiene",
+    "doce",
+    "y",
+    "quiere",
+    "una"
+   ]
+  },
+  {
+   "t0": 65.98,
+   "t1": 68.047,
+   "words": [
+    "prueba",
+    "en",
+    "un",
+    "equipo",
+    "profesional."
+   ]
+  },
+  {
+   "t0": 68.047,
+   "t1": 69.78,
+   "words": [
+    "La",
+    "primera",
+    "visoría",
+    "que",
+    "encuentra…"
+   ]
+  },
+  {
+   "t0": 69.78,
+   "t1": 71.22,
+   "words": [
+    "le",
+    "cobra",
+    "la",
+    "inscripción",
+    "a",
+    "su"
+   ]
+  },
+  {
+   "t0": 71.22,
+   "t1": 71.913,
+   "words": [
+    "mamá."
+   ]
+  },
+  {
+   "t0": 71.913,
+   "t1": 73.22,
+   "words": [
+    "La",
+    "segunda",
+    "también."
+   ]
+  },
+  {
+   "t0": 73.22,
+   "t1": 74.98,
+   "words": [
+    "Y",
+    "en",
+    "ninguna",
+    "aparece",
+    "alguien",
+    "que"
+   ]
+  },
+  {
+   "t0": 74.98,
+   "t1": 77.044,
+   "words": [
+    "de",
+    "verdad",
+    "pueda",
+    "ficharlo."
+   ]
+  },
+  {
+   "t0": 77.044,
+   "t1": 78.607,
+   "words": [
+    "Su",
+    "mamá",
+    "hace",
+    "cuentas."
+   ]
+  },
+  {
+   "t0": 78.607,
+   "t1": 80.287,
+   "words": [
+    "El",
+    "gas,",
+    "la",
+    "renta,"
+   ]
+  },
+  {
+   "t0": 80.287,
+   "t1": 81.46,
+   "words": [
+    "los",
+    "tenis."
+   ]
+  },
+  {
+   "t0": 81.46,
+   "t1": 83.1,
+   "words": [
+    "A",
+    "los",
+    "quince",
+    "entra",
+    "a",
+    "trabajar"
+   ]
+  },
+  {
+   "t0": 83.1,
+   "t1": 84.18,
+   "words": [
+    "a",
+    "un",
+    "taller."
+   ]
+  },
+  {
+   "t0": 84.18,
+   "t1": 86.14,
+   "words": [
+    "Los",
+    "domingos",
+    "es",
+    "leyenda",
+    "de",
+    "la"
+   ]
+  },
+  {
+   "t0": 86.14,
+   "t1": 87.327,
+   "words": [
+    "liga",
+    "de",
+    "su",
+    "colonia."
+   ]
+  },
+  {
+   "t0": 87.327,
+   "t1": 89.54,
+   "words": [
+    "Le",
+    "pagan",
+    "con",
+    "tacos",
+    "y",
+    "refresco."
+   ]
+  },
+  {
+   "t0": 89.54,
+   "t1": 90.447,
+   "words": [
+    "Pero…"
+   ]
+  },
+  {
+   "t0": 90.447,
+   "t1": 91.66,
+   "words": [
+    "¿y",
+    "si",
+    "no",
+    "termina",
+    "en",
+    "una"
+   ]
+  },
+  {
+   "t0": 91.66,
+   "t1": 93.487,
+   "words": [
+    "cancha",
+    "abandonada",
+    "de",
+    "Tijuana,"
+   ]
+  },
+  {
+   "t0": 93.487,
+   "t1": 94.86,
+   "words": [
+    "como",
+    "al",
+    "principio?"
+   ]
+  },
+  {
+   "t0": 94.86,
+   "t1": 96.46,
+   "words": [
+    "¿Y",
+    "si",
+    "la",
+    "Liga",
+    "MX",
+    "lo"
+   ]
+  },
+  {
+   "t0": 96.46,
+   "t1": 98.958,
+   "words": [
+    "ficha",
+    "y",
+    "llega",
+    "a",
+    "la",
+    "Selección?"
+   ]
+  },
+  {
+   "t0": 98.958,
+   "t1": 100.34,
+   "words": [
+    "¿Y",
+    "si",
+    "sí?"
+   ]
+  },
+  {
+   "t0": 100.34,
+   "t1": 101.54,
+   "words": [
+    "Escenario",
+    "dos:"
+   ]
+  },
+  {
+   "t0": 101.54,
+   "t1": 102.953,
+   "words": [
+    "la",
+    "Liga",
+    "MX…"
+   ]
+  },
+  {
+   "t0": 102.953,
+   "t1": 104.66,
+   "words": [
+    "y",
+    "el",
+    "viernes",
+    "botanero."
+   ]
+  },
+  {
+   "t0": 104.66,
+   "t1": 105.887,
+   "words": [
+    "Un",
+    "visor",
+    "lo",
+    "ve."
+   ]
+  },
+  {
+   "t0": 105.887,
+   "t1": 107.46,
+   "words": [
+    "Debuta",
+    "a",
+    "los",
+    "diecisiete",
+    "con",
+    "los"
+   ]
+  },
+  {
+   "t0": 107.46,
+   "t1": 109.46,
+   "words": [
+    "Xolos",
+    "y",
+    "se",
+    "vuelve",
+    "ídolo."
+   ]
+  },
+  {
+   "t0": 109.46,
+   "t1": 111.18,
+   "words": [
+    "Un",
+    "club",
+    "de",
+    "Europa",
+    "pregunta",
+    "por"
+   ]
+  },
+  {
+   "t0": 111.22,
+   "t1": 111.62,
+   "words": [
+    "él."
+   ]
+  },
+  {
+   "t0": 111.62,
+   "t1": 113.14,
+   "words": [
+    "Y",
+    "su",
+    "club",
+    "pide",
+    "una",
+    "cifra"
+   ]
+  },
+  {
+   "t0": 113.14,
+   "t1": 115.38,
+   "words": [
+    "que",
+    "haría",
+    "llorar",
+    "al",
+    "Real",
+    "Madrid."
+   ]
+  },
+  {
+   "t0": 115.38,
+   "t1": 117.94,
+   "words": [
+    "Además,",
+    "durante",
+    "años",
+    "existió",
+    "el",
+    "pacto"
+   ]
+  },
+  {
+   "t0": 117.94,
+   "t1": 118.98,
+   "words": [
+    "de",
+    "caballeros:"
+   ]
+  },
+  {
+   "t0": 118.98,
+   "t1": 120.66,
+   "words": [
+    "aunque",
+    "se",
+    "te",
+    "acabara",
+    "el",
+    "contrato,"
+   ]
+  },
+  {
+   "t0": 120.66,
+   "t1": 121.78,
+   "words": [
+    "no",
+    "te",
+    "podías",
+    "ir",
+    "a",
+    "otro"
+   ]
+  },
+  {
+   "t0": 121.78,
+   "t1": 123.86,
+   "words": [
+    "equipo",
+    "sin",
+    "permiso",
+    "de",
+    "tu",
+    "club."
+   ]
+  },
+  {
+   "t0": 123.86,
+   "t1": 124.98,
+   "words": [
+    "En",
+    "dos",
+    "mil",
+    "veintiuno,"
+   ]
+  },
+  {
+   "t0": 124.98,
+   "t1": 127.02,
+   "words": [
+    "la",
+    "autoridad",
+    "de",
+    "competencia",
+    "multó",
+    "a"
+   ]
+  },
+  {
+   "t0": 127.02,
+   "t1": 129.14,
+   "words": [
+    "diecisiete",
+    "clubes",
+    "por",
+    "eso."
+   ]
+  },
+  {
+   "t0": 129.14,
+   "t1": 130.98,
+   "words": [
+    "Así",
+    "que",
+    "Cristiano",
+    "se",
+    "queda."
+   ]
+  },
+  {
+   "t0": 130.98,
+   "t1": 131.86,
+   "words": [
+    "Gana",
+    "bien."
+   ]
+  },
+  {
+   "t0": 131.86,
+   "t1": 133.14,
+   "words": [
+    "Y",
+    "en",
+    "una",
+    "liga",
+    "donde",
+    "desde"
+   ]
+  },
+  {
+   "t0": 133.14,
+   "t1": 135.22,
+   "words": [
+    "dos",
+    "mil",
+    "veinte",
+    "nadie",
+    "desciende,"
+   ]
+  },
+  {
+   "t0": 135.22,
+   "t1": 136.98,
+   "words": [
+    "nadie",
+    "le",
+    "exige",
+    "nada."
+   ]
+  },
+  {
+   "t0": 136.98,
+   "t1": 138.74,
+   "words": [
+    "Llega",
+    "el",
+    "viernes",
+    "botanero."
+   ]
+  },
+  {
+   "t0": 138.74,
+   "t1": 140.66,
+   "words": [
+    "Luego,",
+    "los",
+    "tamales",
+    "de",
+    "elote."
+   ]
+  },
+  {
+   "t0": 140.66,
+   "t1": 142.473,
+   "words": [
+    "Luego,",
+    "las",
+    "guajolotas."
+   ]
+  },
+  {
+   "t0": 142.473,
+   "t1": 143.46,
+   "words": [
+    "A",
+    "los",
+    "veintiséis,"
+   ]
+  },
+  {
+   "t0": 143.46,
+   "t1": 145.18,
+   "words": [
+    "el",
+    "abdomen",
+    "de",
+    "cuadritos",
+    "ya",
+    "es"
+   ]
+  },
+  {
+   "t0": 145.18,
+   "t1": 146.5,
+   "words": [
+    "un",
+    "solo",
+    "cuadro."
+   ]
+  },
+  {
+   "t0": 146.5,
+   "t1": 147.78,
+   "words": [
+    "Sigue",
+    "metiendo",
+    "goles…"
+   ]
+  },
+  {
+   "t0": 147.78,
+   "t1": 149.727,
+   "words": [
+    "pero",
+    "puros",
+    "de",
+    "penal."
+   ]
+  },
+  {
+   "t0": 149.727,
+   "t1": 150.927,
+   "words": [
+    "Escenario",
+    "tres:"
+   ]
+  },
+  {
+   "t0": 150.927,
+   "t1": 152.74,
+   "words": [
+    "el",
+    "Cristiano",
+    "disciplinado."
+   ]
+  },
+  {
+   "t0": 152.74,
+   "t1": 154.34,
+   "words": [
+    "Nada",
+    "de",
+    "guajolotas."
+   ]
+  },
+  {
+   "t0": 154.34,
+   "t1": 156.02,
+   "words": [
+    "Gimnasio",
+    "a",
+    "las",
+    "cinco",
+    "de",
+    "la"
+   ]
+  },
+  {
+   "t0": 156.02,
+   "t1": 156.98,
+   "words": [
+    "mañana."
+   ]
+  },
+  {
+   "t0": 156.98,
+   "t1": 158.98,
+   "words": [
+    "Con",
+    "él,",
+    "los",
+    "Xolos",
+    "por",
+    "fin"
+   ]
+  },
+  {
+   "t0": 158.98,
+   "t1": 160.74,
+   "words": [
+    "vuelven",
+    "a",
+    "ser",
+    "campeones."
+   ]
+  },
+  {
+   "t0": 160.74,
+   "t1": 162.66,
+   "words": [
+    "Su",
+    "único",
+    "título",
+    "de",
+    "liga",
+    "había"
+   ]
+  },
+  {
+   "t0": 162.66,
+   "t1": 164.42,
+   "words": [
+    "sido",
+    "en",
+    "dos",
+    "mil",
+    "doce."
+   ]
+  },
+  {
+   "t0": 164.42,
+   "t1": 165.9,
+   "words": [
+    "Llega",
+    "a",
+    "la",
+    "Selección."
+   ]
+  },
+  {
+   "t0": 165.9,
+   "t1": 167.17999999999998,
+   "words": [
+    "Llega",
+    "al",
+    "Mundial."
+   ]
+  },
+  {
+   "t0": 167.22,
+   "t1": 169.14,
+   "words": [
+    "Mete",
+    "gol,",
+    "corre",
+    "a",
+    "la",
+    "esquina,"
+   ]
+  },
+  {
+   "t0": 169.14,
+   "t1": 170.527,
+   "words": [
+    "brinca,",
+    "gira…"
+   ]
+  },
+  {
+   "t0": 170.527,
+   "t1": 171.66,
+   "words": [
+    "¡Siuuu!"
+   ]
+  },
+  {
+   "t0": 171.967,
+   "t1": 174.06,
+   "words": [
+    "Pero",
+    "ni",
+    "así",
+    "pasamos",
+    "de",
+    "Cuartos,"
+   ]
+  },
+  {
+   "t0": 174.06,
+   "t1": 176.17999999999998,
+   "words": [
+    "ni",
+    "con",
+    "el",
+    "mismísimo",
+    "Bicho."
+   ]
+  },
+  {
+   "t0": 176.327,
+   "t1": 178.02,
+   "words": [
+    "El",
+    "talento",
+    "de",
+    "Cristiano",
+    "es",
+    "de"
+   ]
+  },
+  {
+   "t0": 178.02,
+   "t1": 179.34,
+   "words": [
+    "uno",
+    "en",
+    "un",
+    "millón."
+   ]
+  },
+  {
+   "t0": 179.34,
+   "t1": 180.38,
+   "words": [
+    "Pero",
+    "en",
+    "Portugal,"
+   ]
+  },
+  {
+   "t0": 180.38,
+   "t1": 181.42,
+   "words": [
+    "a",
+    "los",
+    "doce,"
+   ]
+  },
+  {
+   "t0": 181.42,
+   "t1": 182.98,
+   "words": [
+    "alguien",
+    "lo",
+    "vio",
+    "y",
+    "alguien",
+    "le"
+   ]
+  },
+  {
+   "t0": 182.98,
+   "t1": 183.94,
+   "words": [
+    "apostó."
+   ]
+  },
+  {
+   "t0": 183.94,
+   "t1": 186.5,
+   "words": [
+    "En",
+    "México,",
+    "el",
+    "talento",
+    "sí",
+    "nace."
+   ]
+  },
+  {
+   "t0": 186.5,
+   "t1": 187.46,
+   "words": [
+    "Lo",
+    "que",
+    "tiene",
+    "que",
+    "salir",
+    "a"
+   ]
+  },
+  {
+   "t0": 187.46,
+   "t1": 188.42,
+   "words": [
+    "buscarse…"
+   ]
+  },
+  {
+   "t0": 188.42,
+   "t1": 189.57999999999998,
+   "words": [
+    "es",
+    "la",
+    "oportunidad."
+   ]
+  },
+  {
+   "t0": 189.86,
+   "t1": 190.94,
+   "words": [
+    "Y",
+    "a",
+    "lo",
+    "mejor,"
+   ]
+  },
+  {
+   "t0": 190.94,
+   "t1": 193.35999999999999,
+   "words": [
+    "el",
+    "próximo",
+    "Cristiano",
+    "ya",
+    "nació",
+    "aquí."
+   ]
+  },
+  {
+   "t0": 193.68,
+   "t1": 195.016,
+   "words": [
+    "Y",
+    "este",
+    "domingo…"
+   ]
+  },
+  {
+   "t0": 195.016,
+   "t1": 197.136,
+   "words": [
+    "quizá",
+    "juega",
+    "en",
+    "una",
+    "cancha",
+    "abandonada,"
+   ]
+  },
+  {
+   "t0": 197.136,
+   "t1": 198.37599999999998,
+   "words": [
+    "como",
+    "muchos",
+    "otros."
+   ]
+  },
+  {
+   "t0": 198.798,
+   "t1": 201.496,
+   "words": [
+    "Porque",
+    "mientras",
+    "las",
+    "condiciones",
+    "no",
+    "cambien,"
+   ]
+  },
+  {
+   "t0": 201.496,
+   "t1": 203.576,
+   "words": [
+    "ese",
+    "talento",
+    "no",
+    "va",
+    "a",
+    "brillar…"
+   ]
+  },
+  {
+   "t0": 203.576,
+   "t1": 205.376,
+   "words": [
+    "y",
+    "así,",
+    "no",
+    "vamos",
+    "a",
+    "ganar"
+   ]
+  },
+  {
+   "t0": 205.376,
+   "t1": 206.37599999999998,
+   "words": [
+    "un",
+    "Mundial."
+   ]
+  }
+ ]
+}

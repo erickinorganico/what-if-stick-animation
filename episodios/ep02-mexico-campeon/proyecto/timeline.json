@@ -1,0 +1,1556 @@
+{
+ "T": {
+  "cinco": 0.74,
+  "estadio": 3.46,
+  "octavos": 5.3,
+  "mexico": 6.9,
+  "minuto": 8.66,
+  "dosados": 10.1,
+  "ochenta": 11.22,
+  "disparo": 13.78,
+  "poste": 14.9,
+  "adentro": 15.837,
+  "brinca": 17.033,
+  "sismo": 19.26,
+  "real": 21.78,
+  "perdimos": 23.46,
+  "pero": 25.22,
+  "ysisi": 26.233,
+  "cuartos": 27.46,
+  "semi": 28.66,
+  "diecinueve": 29.86,
+  "final": 31.167,
+  "mxc": 33.14,
+  "campeon": 34.153,
+  "aqui": 35.78,
+  "copa": 37.887,
+  "osi": 40.3,
+  "noche": 41.22,
+  "millones": 42.82,
+  "angel": 44.66,
+  "tijuana": 47.62,
+  "claxon": 48.82,
+  "sandiego": 51.54,
+  "nueve": 53.22,
+  "baby": 55.46,
+  "bebes": 56.34,
+  "golFinal": 58.46,
+  "cambio": 59.69,
+  "cabeza": 62.713,
+  "decadas": 64.207,
+  "chiste": 66.22,
+  "muere": 70.18,
+  "generacion": 71.14,
+  "sepuede": 73.54,
+  "pais": 74.74,
+  "plan": 77.42,
+  "cancha": 78.58,
+  "becas": 82.18,
+  "fabricas": 83.62,
+  "norte": 85.9,
+  "entonces": 86.724,
+  "chavo": 90.18,
+  "esquina": 93.54,
+  "beca": 94.98,
+  "robotica": 96.14,
+  "box": 97.78,
+  "perder": 98.233,
+  "ganar": 100.54,
+  "anio": 101.407,
+  "baja1": 102.42,
+  "baja2": 103.78,
+  "baja3": 104.767,
+  "undia": 105.7,
+  "noticiero": 107.06,
+  "celular": 109.54,
+  "metro": 110.98,
+  "altavoz": 112.38,
+  "bici": 113.3,
+  "candado": 114.22,
+  "dosdias": 115.06,
+  "mama": 117.087,
+  "ubicacion": 118.18,
+  "bueno": 119.367,
+  "costumbre": 120.7,
+  "corridos": 121.62,
+  "armas": 123.94,
+  "ciencia": 127.198,
+  "canto": 129.545,
+  "belico": 134.188,
+  "foro": 136.455,
+  "librerias": 137.48,
+  "superacion": 139.24,
+  "quemo": 142.04,
+  "basura": 143,
+  "y2036": 144.485,
+  "entra": 146.298,
+  "economias": 147.445,
+  "exporta": 150.165,
+  "carros": 150.485,
+  "chips2": 151.125,
+  "medicinas": 151.685,
+  "aguacate": 152.645,
+  "tequila": 153.285,
+  "tokio": 155.845,
+  "tablet": 158.045,
+  "hecho": 159.165,
+  "detiene": 161.065,
+  "y2040": 163.265,
+  "ia": 165.665,
+  "y2045": 167.345,
+  "espacial": 169.425,
+  "marte": 170.705,
+  "verde": 172.465,
+  "y2050": 174.993,
+  "paz": 177.265,
+  "tresdias": 179.692,
+  "olla": 181.745,
+  "y2060": 183.105,
+  "contacto": 184.625,
+  "orbita": 186.225,
+  "taco": 190.625,
+  "pina": 191.985,
+  "quedan": 193.635,
+  "celebrar": 194.605,
+  "noMundial": 197.105,
+  "universal": 199.465,
+  "finalU": 200.065,
+  "andromeda": 201.505,
+  "m89": 202.332,
+  "dos2": 203.585,
+  "disparo2": 204.603,
+  "poste3": 205.478,
+  "adentro2": 206.055,
+  "brinca2": 207.105,
+  "sismoM": 210.465,
+  "ysisiF": 211.962,
+  "noCalle": 61.22,
+  "perd1": 67.62,
+  "muere2": 70.34,
+  "crece": 72.54,
+  "escuela": 79.58,
+  "colonia": 81.38,
+  "autos": 84.74,
+  "nadie": 88.38,
+  "quince": 90.78,
+  "opcion": 92.5,
+  "ahora": 94.42,
+  "ganar2": 99.887,
+  "nada": 108.26,
+  "contestar": 111.62,
+  "sigue": 116.1,
+  "si2": 119.7,
+  "pero3": 120.287,
+  "cambian": 122.46,
+  "convoyes": 124.58,
+  "metaf": 135.175,
+  "prende": 157.325,
+  "dice": 158.725,
+  "deja": 154.565
+ },
+ "DUR": 216.565,
+ "VO": 0.5,
+ "CAPS": [
+  {
+   "t0": 0.74,
+   "t1": 2.26,
+   "words": [
+    "Cinco",
+    "de",
+    "julio",
+    "de",
+    "dos",
+    "mil"
+   ]
+  },
+  {
+   "t0": 2.26,
+   "t1": 3.3800000000000003,
+   "words": [
+    "veintiséis."
+   ]
+  },
+  {
+   "t0": 3.46,
+   "t1": 5.26,
+   "words": [
+    "Estadio",
+    "Ciudad",
+    "de",
+    "México."
+   ]
+  },
+  {
+   "t0": 5.3,
+   "t1": 6.74,
+   "words": [
+    "Octavos",
+    "de",
+    "final."
+   ]
+  },
+  {
+   "t0": 6.9,
+   "t1": 8.62,
+   "words": [
+    "México",
+    "contra",
+    "Inglaterra."
+   ]
+  },
+  {
+   "t0": 8.66,
+   "t1": 10.1,
+   "words": [
+    "Minuto",
+    "ochenta",
+    "y",
+    "nueve."
+   ]
+  },
+  {
+   "t0": 10.1,
+   "t1": 11.1,
+   "words": [
+    "Dos",
+    "a",
+    "dos."
+   ]
+  },
+  {
+   "t0": 11.22,
+   "t1": 13.7,
+   "words": [
+    "Ochenta",
+    "mil",
+    "personas",
+    "sin",
+    "respirar."
+   ]
+  },
+  {
+   "t0": 13.78,
+   "t1": 14.86,
+   "words": [
+    "Disparo..."
+   ]
+  },
+  {
+   "t0": 14.9,
+   "t1": 15.837,
+   "words": [
+    "poste..."
+   ]
+  },
+  {
+   "t0": 15.837,
+   "t1": 16.9,
+   "words": [
+    "¡y",
+    "adentro!"
+   ]
+  },
+  {
+   "t0": 17.033,
+   "t1": 19.033,
+   "words": [
+    "El",
+    "estadio",
+    "brinca",
+    "tan",
+    "fuerte..."
+   ]
+  },
+  {
+   "t0": 19.033,
+   "t1": 20.5,
+   "words": [
+    "que",
+    "los",
+    "sismógrafos",
+    "de",
+    "la",
+    "ciudad"
+   ]
+  },
+  {
+   "t0": 20.5,
+   "t1": 21.78,
+   "words": [
+    "lo",
+    "registran."
+   ]
+  },
+  {
+   "t0": 21.78,
+   "t1": 22.9,
+   "words": [
+    "En",
+    "la",
+    "vida",
+    "real,"
+   ]
+  },
+  {
+   "t0": 22.9,
+   "t1": 25.099999999999998,
+   "words": [
+    "esa",
+    "noche",
+    "perdimos",
+    "tres",
+    "a",
+    "dos."
+   ]
+  },
+  {
+   "t0": 25.22,
+   "t1": 26.233,
+   "words": [
+    "Pero..."
+   ]
+  },
+  {
+   "t0": 26.233,
+   "t1": 27.46,
+   "words": [
+    "¿y",
+    "si",
+    "sí?"
+   ]
+  },
+  {
+   "t0": 27.46,
+   "t1": 28.66,
+   "words": [
+    "Cuartos",
+    "de",
+    "final."
+   ]
+  },
+  {
+   "t0": 28.66,
+   "t1": 29.673,
+   "words": [
+    "Semifinal."
+   ]
+  },
+  {
+   "t0": 29.673,
+   "t1": 31.167,
+   "words": [
+    "Y",
+    "el",
+    "diecinueve",
+    "de",
+    "julio,"
+   ]
+  },
+  {
+   "t0": 31.167,
+   "t1": 33.14,
+   "words": [
+    "la",
+    "final",
+    "en",
+    "Nueva",
+    "Jersey."
+   ]
+  },
+  {
+   "t0": 33.14,
+   "t1": 34.153,
+   "words": [
+    "México..."
+   ]
+  },
+  {
+   "t0": 34.153,
+   "t1": 35.78,
+   "words": [
+    "campeón",
+    "del",
+    "mundo."
+   ]
+  },
+  {
+   "t0": 35.78,
+   "t1": 37.887,
+   "words": [
+    "Y",
+    "aquí",
+    "empieza",
+    "lo",
+    "interesante."
+   ]
+  },
+  {
+   "t0": 37.887,
+   "t1": 39.54,
+   "words": [
+    "Porque",
+    "una",
+    "copa",
+    "no",
+    "arregla",
+    "un"
+   ]
+  },
+  {
+   "t0": 39.54,
+   "t1": 40.3,
+   "words": [
+    "país..."
+   ]
+  },
+  {
+   "t0": 40.3,
+   "t1": 41.22,
+   "words": [
+    "¿o",
+    "sí?"
+   ]
+  },
+  {
+   "t0": 41.22,
+   "t1": 42.82,
+   "words": [
+    "Esa",
+    "noche",
+    "salen",
+    "a",
+    "la",
+    "calle"
+   ]
+  },
+  {
+   "t0": 42.82,
+   "t1": 44.66,
+   "words": [
+    "diez",
+    "millones",
+    "de",
+    "personas."
+   ]
+  },
+  {
+   "t0": 44.66,
+   "t1": 46.1,
+   "words": [
+    "El",
+    "Ángel",
+    "ya",
+    "no",
+    "se",
+    "ve:"
+   ]
+  },
+  {
+   "t0": 46.1,
+   "t1": 47.62,
+   "words": [
+    "lo",
+    "tapa",
+    "la",
+    "gente."
+   ]
+  },
+  {
+   "t0": 47.62,
+   "t1": 49.62,
+   "words": [
+    "En",
+    "Tijuana",
+    "suenan",
+    "los",
+    "cláxones",
+    "hasta"
+   ]
+  },
+  {
+   "t0": 49.62,
+   "t1": 50.42,
+   "words": [
+    "la",
+    "línea..."
+   ]
+  },
+  {
+   "t0": 50.42,
+   "t1": 51.38,
+   "words": [
+    "y",
+    "del",
+    "otro",
+    "lado,"
+   ]
+  },
+  {
+   "t0": 51.38,
+   "t1": 52.233,
+   "words": [
+    "en",
+    "San",
+    "Diego,"
+   ]
+  },
+  {
+   "t0": 52.233,
+   "t1": 53.22,
+   "words": [
+    "también."
+   ]
+  },
+  {
+   "t0": 53.22,
+   "t1": 55.46,
+   "words": [
+    "Nueve",
+    "meses",
+    "después",
+    "hay",
+    "un",
+    "pequeño"
+   ]
+  },
+  {
+   "t0": 55.46,
+   "t1": 56.34,
+   "words": [
+    "baby",
+    "boom."
+   ]
+  },
+  {
+   "t0": 56.34,
+   "t1": 57.74,
+   "words": [
+    "Miles",
+    "de",
+    "bebés",
+    "se",
+    "llaman",
+    "como"
+   ]
+  },
+  {
+   "t0": 57.74,
+   "t1": 58.74,
+   "words": [
+    "el",
+    "que",
+    "metió",
+    "el",
+    "gol",
+    "de"
+   ]
+  },
+  {
+   "t0": 58.74,
+   "t1": 59.69,
+   "words": [
+    "la",
+    "final."
+   ]
+  },
+  {
+   "t0": 59.69,
+   "t1": 61.38,
+   "words": [
+    "Pero",
+    "el",
+    "cambio",
+    "más",
+    "grande",
+    "no"
+   ]
+  },
+  {
+   "t0": 61.38,
+   "t1": 62.713,
+   "words": [
+    "está",
+    "en",
+    "la",
+    "calle."
+   ]
+  },
+  {
+   "t0": 62.713,
+   "t1": 64.207,
+   "words": [
+    "Está",
+    "en",
+    "la",
+    "cabeza."
+   ]
+  },
+  {
+   "t0": 64.207,
+   "t1": 66.22,
+   "words": [
+    "Durante",
+    "décadas",
+    "el",
+    "chiste",
+    "fue:"
+   ]
+  },
+  {
+   "t0": 66.22,
+   "t1": 67.62,
+   "words": [
+    "jugamos",
+    "como",
+    "nunca,"
+   ]
+  },
+  {
+   "t0": 67.62,
+   "t1": 69.22,
+   "words": [
+    "perdimos",
+    "como",
+    "siempre."
+   ]
+  },
+  {
+   "t0": 69.22,
+   "t1": 71.14,
+   "words": [
+    "Ese",
+    "chiste",
+    "se",
+    "muere."
+   ]
+  },
+  {
+   "t0": 71.14,
+   "t1": 73.54,
+   "words": [
+    "Una",
+    "generación",
+    "entera",
+    "crece",
+    "viendo",
+    "que"
+   ]
+  },
+  {
+   "t0": 73.54,
+   "t1": 74.74,
+   "words": [
+    "sí",
+    "se",
+    "puede."
+   ]
+  },
+  {
+   "t0": 74.74,
+   "t1": 76.58,
+   "words": [
+    "El",
+    "país",
+    "aprovecha",
+    "el",
+    "momento."
+   ]
+  },
+  {
+   "t0": 76.58,
+   "t1": 78.58,
+   "words": [
+    "Le",
+    "llaman",
+    "Plan",
+    "Campeón."
+   ]
+  },
+  {
+   "t0": 78.58,
+   "t1": 80.06,
+   "words": [
+    "Una",
+    "cancha",
+    "y",
+    "una",
+    "escuela",
+    "de"
+   ]
+  },
+  {
+   "t0": 80.06,
+   "t1": 82.18,
+   "words": [
+    "tiempo",
+    "completo",
+    "en",
+    "cada",
+    "colonia."
+   ]
+  },
+  {
+   "t0": 82.18,
+   "t1": 83.62,
+   "words": [
+    "Becas",
+    "para",
+    "ingenieros."
+   ]
+  },
+  {
+   "t0": 83.62,
+   "t1": 85.66,
+   "words": [
+    "Fábricas",
+    "de",
+    "chips",
+    "y",
+    "autos",
+    "eléctricos"
+   ]
+  },
+  {
+   "t0": 85.66,
+   "t1": 86.724,
+   "words": [
+    "en",
+    "el",
+    "norte."
+   ]
+  },
+  {
+   "t0": 86.724,
+   "t1": 88.74,
+   "words": [
+    "Y",
+    "entonces",
+    "pasa",
+    "lo",
+    "que",
+    "nadie"
+   ]
+  },
+  {
+   "t0": 88.74,
+   "t1": 90.18,
+   "words": [
+    "creía",
+    "posible."
+   ]
+  },
+  {
+   "t0": 90.18,
+   "t1": 91.7,
+   "words": [
+    "El",
+    "chavo",
+    "de",
+    "quince",
+    "años",
+    "que"
+   ]
+  },
+  {
+   "t0": 91.7,
+   "t1": 93.42,
+   "words": [
+    "antes",
+    "tenía",
+    "una",
+    "sola",
+    "opción",
+    "en"
+   ]
+  },
+  {
+   "t0": 93.42,
+   "t1": 94.42,
+   "words": [
+    "la",
+    "esquina..."
+   ]
+  },
+  {
+   "t0": 94.42,
+   "t1": 95.593,
+   "words": [
+    "ahora",
+    "tiene",
+    "beca,"
+   ]
+  },
+  {
+   "t0": 95.593,
+   "t1": 97.58,
+   "words": [
+    "taller",
+    "de",
+    "robótica",
+    "y",
+    "equipo",
+    "de"
+   ]
+  },
+  {
+   "t0": 97.78,
+   "t1": 98.233,
+   "words": [
+    "box."
+   ]
+  },
+  {
+   "t0": 98.233,
+   "t1": 99.887,
+   "words": [
+    "Tiene",
+    "algo",
+    "que",
+    "perder."
+   ]
+  },
+  {
+   "t0": 99.887,
+   "t1": 101.407,
+   "words": [
+    "Y",
+    "algo",
+    "que",
+    "ganar."
+   ]
+  },
+  {
+   "t0": 101.407,
+   "t1": 102.26,
+   "words": [
+    "Año",
+    "con",
+    "año,"
+   ]
+  },
+  {
+   "t0": 102.26,
+   "t1": 103.78,
+   "words": [
+    "la",
+    "violencia",
+    "baja."
+   ]
+  },
+  {
+   "t0": 103.78,
+   "t1": 104.767,
+   "words": [
+    "Y",
+    "baja."
+   ]
+  },
+  {
+   "t0": 104.767,
+   "t1": 105.7,
+   "words": [
+    "Y",
+    "baja."
+   ]
+  },
+  {
+   "t0": 105.7,
+   "t1": 106.953,
+   "words": [
+    "Hasta",
+    "que",
+    "un",
+    "día..."
+   ]
+  },
+  {
+   "t0": 106.953,
+   "t1": 108.82,
+   "words": [
+    "el",
+    "noticiero",
+    "no",
+    "tiene",
+    "nada",
+    "que"
+   ]
+  },
+  {
+   "t0": 108.82,
+   "t1": 109.54,
+   "words": [
+    "contar."
+   ]
+  },
+  {
+   "t0": 109.54,
+   "t1": 110.98,
+   "words": [
+    "Puedes",
+    "sacar",
+    "el",
+    "celular",
+    "en",
+    "el"
+   ]
+  },
+  {
+   "t0": 110.98,
+   "t1": 111.54,
+   "words": [
+    "Metro."
+   ]
+  },
+  {
+   "t0": 111.54,
+   "t1": 113.3,
+   "words": [
+    "Y",
+    "contestar",
+    "con",
+    "altavoz."
+   ]
+  },
+  {
+   "t0": 113.3,
+   "t1": 114.953,
+   "words": [
+    "Dejas",
+    "la",
+    "bici",
+    "sin",
+    "candado..."
+   ]
+  },
+  {
+   "t0": 114.953,
+   "t1": 117.087,
+   "words": [
+    "y",
+    "dos",
+    "días",
+    "después",
+    "sigue",
+    "ahí."
+   ]
+  },
+  {
+   "t0": 117.087,
+   "t1": 118.18,
+   "words": [
+    "Tu",
+    "mamá",
+    "ya",
+    "no",
+    "te",
+    "pide"
+   ]
+  },
+  {
+   "t0": 118.18,
+   "t1": 119.287,
+   "words": [
+    "ubicación."
+   ]
+  },
+  {
+   "t0": 119.367,
+   "t1": 120.287,
+   "words": [
+    "Bueno,",
+    "sí..."
+   ]
+  },
+  {
+   "t0": 120.287,
+   "t1": 121.62,
+   "words": [
+    "pero",
+    "por",
+    "costumbre."
+   ]
+  },
+  {
+   "t0": 121.62,
+   "t1": 123.22,
+   "words": [
+    "Y",
+    "los",
+    "corridos",
+    "cambian."
+   ]
+  },
+  {
+   "t0": 123.22,
+   "t1": 124.46,
+   "words": [
+    "Ya",
+    "no",
+    "hablan",
+    "de",
+    "armas",
+    "ni"
+   ]
+  },
+  {
+   "t0": 124.46,
+   "t1": 125.55,
+   "words": [
+    "de",
+    "convoyes."
+   ]
+  },
+  {
+   "t0": 125.55,
+   "t1": 127.07000000000001,
+   "words": [
+    "Ahora",
+    "hablan",
+    "de..."
+   ]
+  },
+  {
+   "t0": 127.198,
+   "t1": 129.14999999999998,
+   "words": [
+    "ciencia",
+    "y",
+    "filosofía."
+   ]
+  },
+  {
+   "t0": 129.445,
+   "t1": 130.89499999999998,
+   "words": [
+    "♪",
+    "¡Ay,",
+    "mamá!"
+   ]
+  },
+  {
+   "t0": 130.895,
+   "t1": 132.345,
+   "words": [
+    "Pura",
+    "ciencia..."
+   ]
+  },
+  {
+   "t0": 132.395,
+   "t1": 133.945,
+   "words": [
+    "y",
+    "filosofía ♪"
+   ]
+  },
+  {
+   "t0": 134.188,
+   "t1": 136.295,
+   "words": [
+    "El",
+    "Bélico",
+    "de",
+    "las",
+    "Metáforas",
+    "llena"
+   ]
+  },
+  {
+   "t0": 136.295,
+   "t1": 137.48,
+   "words": [
+    "el",
+    "Foro",
+    "Sol."
+   ]
+  },
+  {
+   "t0": 137.48,
+   "t1": 139.12,
+   "words": [
+    "Las",
+    "librerías",
+    "se",
+    "quedan",
+    "sin",
+    "libros"
+   ]
+  },
+  {
+   "t0": 139.12,
+   "t1": 141.35999999999999,
+   "words": [
+    "de",
+    "superación",
+    "personal",
+    "genérica..."
+   ]
+  },
+  {
+   "t0": 141.533,
+   "t1": 143,
+   "words": [
+    "porque",
+    "la",
+    "gente",
+    "los",
+    "quemó."
+   ]
+  },
+  {
+   "t0": 143,
+   "t1": 144.485,
+   "words": [
+    "Ya",
+    "no",
+    "lee",
+    "basura."
+   ]
+  },
+  {
+   "t0": 144.485,
+   "t1": 146.298,
+   "words": [
+    "Dos",
+    "mil",
+    "treinta",
+    "y",
+    "seis."
+   ]
+  },
+  {
+   "t0": 146.298,
+   "t1": 148.445,
+   "words": [
+    "México",
+    "entra",
+    "a",
+    "las",
+    "diez",
+    "economías"
+   ]
+  },
+  {
+   "t0": 148.445,
+   "t1": 150.165,
+   "words": [
+    "más",
+    "grandes",
+    "del",
+    "mundo."
+   ]
+  },
+  {
+   "t0": 150.165,
+   "t1": 152.565,
+   "words": [
+    "Exporta",
+    "carros,",
+    "chips",
+    "y",
+    "medicinas."
+   ]
+  },
+  {
+   "t0": 152.565,
+   "t1": 153.925,
+   "words": [
+    "Y",
+    "aguacate",
+    "y",
+    "tequila,"
+   ]
+  },
+  {
+   "t0": 153.925,
+   "t1": 155.845,
+   "words": [
+    "porque",
+    "eso",
+    "nunca",
+    "se",
+    "deja."
+   ]
+  },
+  {
+   "t0": 155.845,
+   "t1": 157.96499999999997,
+   "words": [
+    "En",
+    "Tokio,",
+    "una",
+    "niña",
+    "prende",
+    "su"
+   ]
+  },
+  {
+   "t0": 158.045,
+   "t1": 158.378,
+   "words": [
+    "tablet..."
+   ]
+  },
+  {
+   "t0": 158.378,
+   "t1": 160.765,
+   "words": [
+    "y",
+    "dice",
+    "Hecho",
+    "en",
+    "México."
+   ]
+  },
+  {
+   "t0": 161.065,
+   "t1": 163.265,
+   "words": [
+    "Y",
+    "México",
+    "no",
+    "se",
+    "detiene."
+   ]
+  },
+  {
+   "t0": 163.265,
+   "t1": 164.625,
+   "words": [
+    "Dos",
+    "mil",
+    "cuarenta:"
+   ]
+  },
+  {
+   "t0": 164.625,
+   "t1": 166.305,
+   "words": [
+    "gana",
+    "la",
+    "carrera",
+    "de",
+    "la",
+    "inteligencia"
+   ]
+  },
+  {
+   "t0": 166.305,
+   "t1": 167.345,
+   "words": [
+    "artificial."
+   ]
+  },
+  {
+   "t0": 167.345,
+   "t1": 168.945,
+   "words": [
+    "Dos",
+    "mil",
+    "cuarenta",
+    "y",
+    "cinco:"
+   ]
+  },
+  {
+   "t0": 168.945,
+   "t1": 170.705,
+   "words": [
+    "gana",
+    "la",
+    "carrera",
+    "espacial."
+   ]
+  },
+  {
+   "t0": 170.705,
+   "t1": 172.465,
+   "words": [
+    "La",
+    "primera",
+    "bandera",
+    "en",
+    "Marte..."
+   ]
+  },
+  {
+   "t0": 172.465,
+   "t1": 174.993,
+   "words": [
+    "es",
+    "verde,",
+    "blanca",
+    "y",
+    "roja."
+   ]
+  },
+  {
+   "t0": 174.993,
+   "t1": 176.305,
+   "words": [
+    "Dos",
+    "mil",
+    "cincuenta:"
+   ]
+  },
+  {
+   "t0": 176.305,
+   "t1": 178.105,
+   "words": [
+    "México",
+    "consigue",
+    "la",
+    "paz",
+    "en",
+    "Medio"
+   ]
+  },
+  {
+   "t0": 178.105,
+   "t1": 178.865,
+   "words": [
+    "Oriente."
+   ]
+  },
+  {
+   "t0": 178.865,
+   "t1": 180.892,
+   "words": [
+    "La",
+    "negociación",
+    "dura",
+    "tres",
+    "días..."
+   ]
+  },
+  {
+   "t0": 180.892,
+   "t1": 182.865,
+   "words": [
+    "y",
+    "termina",
+    "con",
+    "café",
+    "de",
+    "olla."
+   ]
+  },
+  {
+   "t0": 182.865,
+   "t1": 184.625,
+   "words": [
+    "Y",
+    "en",
+    "dos",
+    "mil",
+    "sesenta..."
+   ]
+  },
+  {
+   "t0": 184.625,
+   "t1": 186.225,
+   "words": [
+    "primer",
+    "contacto."
+   ]
+  },
+  {
+   "t0": 186.225,
+   "t1": 187.425,
+   "words": [
+    "En",
+    "plena",
+    "órbita,"
+   ]
+  },
+  {
+   "t0": 187.425,
+   "t1": 189.372,
+   "words": [
+    "una",
+    "astronauta",
+    "mexicana",
+    "les",
+    "ofrece",
+    "a"
+   ]
+  },
+  {
+   "t0": 189.372,
+   "t1": 190.625,
+   "words": [
+    "los",
+    "extraterrestres..."
+   ]
+  },
+  {
+   "t0": 190.625,
+   "t1": 191.985,
+   "words": [
+    "un",
+    "taco",
+    "al",
+    "pastor."
+   ]
+  },
+  {
+   "t0": 191.985,
+   "t1": 193.345,
+   "words": [
+    "Con",
+    "piña."
+   ]
+  },
+  {
+   "t0": 193.635,
+   "t1": 194.605,
+   "words": [
+    "Se",
+    "quedan."
+   ]
+  },
+  {
+   "t0": 194.605,
+   "t1": 196.425,
+   "words": [
+    "Para",
+    "celebrar,",
+    "los",
+    "invitamos",
+    "a",
+    "un"
+   ]
+  },
+  {
+   "t0": 196.425,
+   "t1": 197.105,
+   "words": [
+    "partido."
+   ]
+  },
+  {
+   "t0": 197.105,
+   "t1": 198.252,
+   "words": [
+    "Ya",
+    "no",
+    "es",
+    "Mundial..."
+   ]
+  },
+  {
+   "t0": 198.252,
+   "t1": 199.252,
+   "words": [
+    "es",
+    "el",
+    "primer"
+   ]
+  },
+  {
+   "t0": 199.465,
+   "t1": 200.065,
+   "words": [
+    "Universal."
+   ]
+  },
+  {
+   "t0": 200.065,
+   "t1": 200.785,
+   "words": [
+    "Final."
+   ]
+  },
+  {
+   "t0": 200.785,
+   "t1": 202.332,
+   "words": [
+    "México",
+    "contra",
+    "Andrómeda."
+   ]
+  },
+  {
+   "t0": 202.332,
+   "t1": 203.585,
+   "words": [
+    "Minuto",
+    "ochenta",
+    "y",
+    "nueve."
+   ]
+  },
+  {
+   "t0": 203.585,
+   "t1": 204.603,
+   "words": [
+    "Dos",
+    "a",
+    "dos."
+   ]
+  },
+  {
+   "t0": 204.603,
+   "t1": 205.478,
+   "words": [
+    "Disparo..."
+   ]
+  },
+  {
+   "t0": 205.478,
+   "t1": 206.055,
+   "words": [
+    "poste..."
+   ]
+  },
+  {
+   "t0": 206.055,
+   "t1": 207.105,
+   "words": [
+    "¡y",
+    "adentro!"
+   ]
+  },
+  {
+   "t0": 207.105,
+   "t1": 209.078,
+   "words": [
+    "El",
+    "estadio",
+    "brinca",
+    "tan",
+    "fuerte..."
+   ]
+  },
+  {
+   "t0": 209.078,
+   "t1": 210.465,
+   "words": [
+    "que",
+    "esta",
+    "vez",
+    "lo",
+    "registran",
+    "los"
+   ]
+  },
+  {
+   "t0": 210.465,
+   "t1": 211.962,
+   "words": [
+    "sismógrafos",
+    "de",
+    "Marte."
+   ]
+  },
+  {
+   "t0": 211.962,
+   "t1": 213.065,
+   "words": [
+    "¿Y",
+    "si",
+    "sí?"
+   ]
+  }
+ ]
+}

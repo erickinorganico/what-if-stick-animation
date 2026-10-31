@@ -1,0 +1,45 @@
+{
+ "id": "YSS-20261024-01",
+ "slug": "ep01-no-era-penal",
+ "numero": 1,
+ "titulo": "¿Y si no hubiera sido penal?",
+ "punto_de_quiebre": "29·06·2014 · Octavos de final, Fortaleza · Robben cae en el área y el árbitro dice que sigan",
+ "estado": "programado en YouTube; TikTok/Reels pendientes",
+ "duracion_s": 180.693,
+ "proyecto": "proyecto",
+ "audio": {
+  "modo": "maestro",
+  "script": "audio_yss.py",
+  "voz": "proyecto/assets/voz-elevenlabs.mp3",
+  "musica": "proyecto/assets/audio/musica.wav",
+  "fx": "proyecto/assets/audio/fx.wav",
+  "maestro": "audio/mezcla-final.flac"
+ },
+ "salida": "elhubiera-ep01-no-era-penal",
+ "clips": "clips.json",
+ "portadas": [
+  "ep01-miniatura-a",
+  "ep01-miniatura-b",
+  "ep01-portada-vertical"
+ ],
+ "notas": "La imagen es v5 (identidad v3) y el audio es la mezcla aprobada de la v1 (-14 LUFS), sin regenerar voz. audio_yss.py usa proyecto/timeline-v1.json si se quisiera rehacer la cama.",
+ "publicacion": {
+  "youtube_largo": {
+   "url": "https://youtu.be/rny8thYAQ7A",
+   "programado": "2026-10-26T12:00-07:00"
+  },
+  "shorts": [
+   {
+    "pieza": "ep01-short-no-era-penal",
+    "url": "https://youtube.com/shorts/QytmUO-OKNU",
+    "programado": "2026-10-27T13:00-07:00"
+   },
+   {
+    "pieza": "ep01-short-miralo-mijo",
+    "url": "https://youtube.com/shorts/N_2lUf59ILs",
+    "programado": "2026-10-28T13:00-07:00"
+   }
+  ],
+  "partes_tiktok_reels": "pendiente: cuentas de TikTok/Instagram/Facebook sin sesión (ver publicacion/2026-10-lanzamiento.md)"
+ }
+}

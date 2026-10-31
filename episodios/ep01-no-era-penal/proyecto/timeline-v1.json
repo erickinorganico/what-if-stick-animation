@@ -1,0 +1,1345 @@
+{
+ "T": {
+  "veinti": 0.58,
+  "fortaleza": 3.3,
+  "octavos": 5.14,
+  "mexGana": 6.58,
+  "conGol": 8.9,
+  "santos": 10.06,
+  "m88": 11.02,
+  "empata": 12.5,
+  "m94": 13.94,
+  "robben": 15.7,
+  "cae": 17.42,
+  "penal": 18.3,
+  "frase": 19.127,
+  "noEra": 21.94,
+  "pero": 23.533,
+  "arbitro": 24.98,
+  "sinPenal": 27.037,
+  "tuHist": 30.98,
+  "doce": 32.393,
+  "papa": 34.9,
+  "tio": 35.7,
+  "abuelo": 36.3,
+  "nunca": 37.38,
+  "quinto": 39.34,
+  "sigan": 40.58,
+  "grita": 42.237,
+  "perro": 44.02,
+  "mesa": 45.62,
+  "noPasaba": 46.34,
+  "m86": 48.26,
+  "local": 50.5,
+  "m113": 51.433,
+  "esquina": 52.78,
+  "cabezazo": 53.807,
+  "gol113": 54.8,
+  "levanta": 55.764,
+  "lleva": 57.5,
+  "brinca": 60.1,
+  "cuartos": 61.129,
+  "costa": 62.42,
+  "famoso": 63.34,
+  "existe": 65.7,
+  "penales1": 66.713,
+  "vuela": 68.82,
+  "paraDos": 69.513,
+  "top4": 70.644,
+  "llora": 73.42,
+  "cebolla": 75.14,
+  "noHay": 76.34,
+  "semi": 77.673,
+  "m120": 79.54,
+  "ceroCero": 81.193,
+  "penales2": 82.1,
+  "tapas": 83.62,
+  "quita": 85.02,
+  "miralo": 87.369,
+  "g1": 90.42,
+  "g2": 91.34,
+  "atajada": 92.18,
+  "g3": 93.12,
+  "enFinal": 94.18,
+  "trece": 96.732,
+  "maracana": 98.02,
+  "alemania": 99.38,
+  "siete": 102.74,
+  "nadie": 104.18,
+  "m80": 106.34,
+  "ale1": 107.42,
+  "m89": 109.54,
+  "centro": 110.98,
+  "remate": 111.66,
+  "gol89": 112.48,
+  "unoUno": 113.34,
+  "extra": 114.327,
+  "pais": 116.06,
+  "dePie": 117.3,
+  "m118": 118.233,
+  "contra": 119.98,
+  "piernas": 122.1,
+  "gooool": 123.527,
+  "campeon": 124.9,
+  "doce2": 127.292,
+  "escuela": 130.58,
+  "tuNo": 133.167,
+  "arbitro2": 133.82,
+  "porque": 135.54,
+  "segundo": 137.54,
+  "historia": 138.313,
+  "generacion": 140.74,
+  "casi": 142.98,
+  "y2026": 143.7,
+  "campeon2": 148.14,
+  "baston": 150.06,
+  "tribuna": 152.58,
+  "peroEse": 153.612,
+  "marco": 155.06,
+  "perdimos": 156.42,
+  "aunAsi": 157.62,
+  "misma": 162.26,
+  "ysisi": 163.767,
+  "porqueMex": 164.98,
+  "esperanza": 169.46,
+  "donde": 170.64,
+  "coment": 173.62,
+  "like": 176.38,
+  "ysisi2": 177.369
+ },
+ "DUR": 180.73,
+ "VO": 0.5,
+ "CAPS": [
+  {
+   "t0": 0.58,
+   "t1": 2.1,
+   "words": [
+    "Veintinueve",
+    "de",
+    "junio",
+    "de",
+    "dos"
+   ]
+  },
+  {
+   "t0": 2.1,
+   "t1": 3.17,
+   "words": [
+    "mil",
+    "catorce."
+   ]
+  },
+  {
+   "t0": 3.3,
+   "t1": 5.130000000000001,
+   "words": [
+    "Fortaleza,",
+    "Brasil."
+   ]
+  },
+  {
+   "t0": 5.14,
+   "t1": 6.58,
+   "words": [
+    "Octavos",
+    "de",
+    "final."
+   ]
+  },
+  {
+   "t0": 6.58,
+   "t1": 7.913,
+   "words": [
+    "México",
+    "le",
+    "gana",
+    "uno",
+    "a"
+   ]
+  },
+  {
+   "t0": 7.913,
+   "t1": 8.9,
+   "words": [
+    "cero",
+    "a",
+    "Holanda..."
+   ]
+  },
+  {
+   "t0": 8.9,
+   "t1": 10.06,
+   "words": [
+    "con",
+    "gol",
+    "de",
+    "Giovani",
+    "dos"
+   ]
+  },
+  {
+   "t0": 10.06,
+   "t1": 11.02,
+   "words": [
+    "Santos."
+   ]
+  },
+  {
+   "t0": 11.02,
+   "t1": 12.49,
+   "words": [
+    "Minuto",
+    "ochenta",
+    "y",
+    "ocho..."
+   ]
+  },
+  {
+   "t0": 12.5,
+   "t1": 13.94,
+   "words": [
+    "empata",
+    "Sneijder."
+   ]
+  },
+  {
+   "t0": 13.94,
+   "t1": 15.7,
+   "words": [
+    "Minuto",
+    "noventa",
+    "y",
+    "cuatro."
+   ]
+  },
+  {
+   "t0": 15.7,
+   "t1": 17.369999999999997,
+   "words": [
+    "Robben",
+    "entra",
+    "al",
+    "área..."
+   ]
+  },
+  {
+   "t0": 17.42,
+   "t1": 18.3,
+   "words": [
+    "cae..."
+   ]
+  },
+  {
+   "t0": 18.3,
+   "t1": 19.127,
+   "words": [
+    "penal."
+   ]
+  },
+  {
+   "t0": 19.127,
+   "t1": 20.57,
+   "words": [
+    "Y",
+    "una",
+    "frase",
+    "que",
+    "México"
+   ]
+  },
+  {
+   "t0": 20.58,
+   "t1": 21.93,
+   "words": [
+    "nunca",
+    "olvidó:"
+   ]
+  },
+  {
+   "t0": 21.94,
+   "t1": 23.533,
+   "words": [
+    "no",
+    "era",
+    "penal."
+   ]
+  },
+  {
+   "t0": 23.533,
+   "t1": 24.607,
+   "words": [
+    "Pero..."
+   ]
+  },
+  {
+   "t0": 24.607,
+   "t1": 25.78,
+   "words": [
+    "¿y",
+    "si",
+    "el",
+    "árbitro",
+    "no"
+   ]
+  },
+  {
+   "t0": 25.78,
+   "t1": 26.78,
+   "words": [
+    "lo",
+    "marca?"
+   ]
+  },
+  {
+   "t0": 27.037,
+   "t1": 28.46,
+   "words": [
+    "Sin",
+    "penal,",
+    "el",
+    "partido",
+    "se"
+   ]
+  },
+  {
+   "t0": 28.46,
+   "t1": 29.82,
+   "words": [
+    "va",
+    "a",
+    "tiempo",
+    "extra."
+   ]
+  },
+  {
+   "t0": 29.82,
+   "t1": 30.98,
+   "words": [
+    "Y",
+    "esta",
+    "versión..."
+   ]
+  },
+  {
+   "t0": 30.98,
+   "t1": 32.393,
+   "words": [
+    "es",
+    "tu",
+    "historia."
+   ]
+  },
+  {
+   "t0": 32.393,
+   "t1": 33.78,
+   "words": [
+    "Tienes",
+    "doce",
+    "años."
+   ]
+  },
+  {
+   "t0": 33.78,
+   "t1": 34.74,
+   "words": [
+    "Estás",
+    "en",
+    "la",
+    "sala",
+    "con"
+   ]
+  },
+  {
+   "t0": 34.74,
+   "t1": 36.3,
+   "words": [
+    "tu",
+    "papá,",
+    "tu",
+    "tío..."
+   ]
+  },
+  {
+   "t0": 36.3,
+   "t1": 37.38,
+   "words": [
+    "y",
+    "tu",
+    "abuelo."
+   ]
+  },
+  {
+   "t0": 37.38,
+   "t1": 38.607,
+   "words": [
+    "Tu",
+    "abuelo",
+    "nunca",
+    "ha",
+    "visto"
+   ]
+  },
+  {
+   "t0": 38.607,
+   "t1": 39.62,
+   "words": [
+    "a",
+    "México",
+    "en",
+    "un",
+    "quinto"
+   ]
+  },
+  {
+   "t0": 39.62,
+   "t1": 40.58,
+   "words": [
+    "partido."
+   ]
+  },
+  {
+   "t0": 40.58,
+   "t1": 42.237,
+   "words": [
+    "El",
+    "árbitro",
+    "dice",
+    "que",
+    "sigan."
+   ]
+  },
+  {
+   "t0": 42.237,
+   "t1": 43.913,
+   "words": [
+    "Tu",
+    "tío",
+    "grita",
+    "tan",
+    "fuerte..."
+   ]
+  },
+  {
+   "t0": 43.913,
+   "t1": 45.02,
+   "words": [
+    "que",
+    "el",
+    "perro",
+    "se",
+    "esconde"
+   ]
+  },
+  {
+   "t0": 45.02,
+   "t1": 46.34,
+   "words": [
+    "debajo",
+    "de",
+    "la",
+    "mesa."
+   ]
+  },
+  {
+   "t0": 46.34,
+   "t1": 47.86,
+   "words": [
+    "México",
+    "no",
+    "pasaba",
+    "de",
+    "octavos"
+   ]
+  },
+  {
+   "t0": 47.86,
+   "t1": 49.62,
+   "words": [
+    "desde",
+    "mil",
+    "novecientos",
+    "ochenta",
+    "y"
+   ]
+  },
+  {
+   "t0": 49.62,
+   "t1": 51.433,
+   "words": [
+    "seis,",
+    "cuando",
+    "fue",
+    "local."
+   ]
+  },
+  {
+   "t0": 51.433,
+   "t1": 52.78,
+   "words": [
+    "Minuto",
+    "ciento",
+    "trece."
+   ]
+  },
+  {
+   "t0": 52.78,
+   "t1": 53.807,
+   "words": [
+    "Tiro",
+    "de",
+    "esquina."
+   ]
+  },
+  {
+   "t0": 53.807,
+   "t1": 54.8,
+   "words": [
+    "Cabezazo..."
+   ]
+  },
+  {
+   "t0": 54.8,
+   "t1": 55.764,
+   "words": [
+    "¡Gol!"
+   ]
+  },
+  {
+   "t0": 55.764,
+   "t1": 56.9,
+   "words": [
+    "Tu",
+    "abuelo",
+    "se",
+    "levanta",
+    "del"
+   ]
+  },
+  {
+   "t0": 56.9,
+   "t1": 57.5,
+   "words": [
+    "sillón."
+   ]
+  },
+  {
+   "t0": 57.5,
+   "t1": 59.69,
+   "words": [
+    "Lleva",
+    "treinta",
+    "años",
+    "sin",
+    "brincar..."
+   ]
+  },
+  {
+   "t0": 60.1,
+   "t1": 61.129,
+   "words": [
+    "y",
+    "brinca."
+   ]
+  },
+  {
+   "t0": 61.129,
+   "t1": 62.74,
+   "words": [
+    "Cuartos",
+    "de",
+    "final,",
+    "contra",
+    "Costa"
+   ]
+  },
+  {
+   "t0": 62.74,
+   "t1": 63.34,
+   "words": [
+    "Rica."
+   ]
+  },
+  {
+   "t0": 63.34,
+   "t1": 65.22,
+   "words": [
+    "El",
+    "famoso",
+    "quinto",
+    "partido..."
+   ]
+  },
+  {
+   "t0": 65.22,
+   "t1": 66.713,
+   "words": [
+    "por",
+    "fin",
+    "existe."
+   ]
+  },
+  {
+   "t0": 66.713,
+   "t1": 67.82,
+   "words": [
+    "Se",
+    "va",
+    "a",
+    "penales."
+   ]
+  },
+  {
+   "t0": 67.82,
+   "t1": 69.513,
+   "words": [
+    "El",
+    "portero",
+    "mexicano",
+    "vuela..."
+   ]
+  },
+  {
+   "t0": 69.513,
+   "t1": 70.644,
+   "words": [
+    "y",
+    "para",
+    "dos."
+   ]
+  },
+  {
+   "t0": 70.644,
+   "t1": 72.1,
+   "words": [
+    "México",
+    "está",
+    "entre",
+    "los",
+    "cuatro"
+   ]
+  },
+  {
+   "t0": 72.1,
+   "t1": 73.42,
+   "words": [
+    "mejores",
+    "del",
+    "mundo."
+   ]
+  },
+  {
+   "t0": 73.42,
+   "t1": 74.54,
+   "words": [
+    "Tu",
+    "papá",
+    "llora."
+   ]
+  },
+  {
+   "t0": 74.54,
+   "t1": 76.09,
+   "words": [
+    "Dice",
+    "que",
+    "es",
+    "la",
+    "cebolla..."
+   ]
+  },
+  {
+   "t0": 76.34,
+   "t1": 77.673,
+   "words": [
+    "no",
+    "hay",
+    "cebolla."
+   ]
+  },
+  {
+   "t0": 77.673,
+   "t1": 79.54,
+   "words": [
+    "Semifinal,",
+    "contra",
+    "Argentina."
+   ]
+  },
+  {
+   "t0": 79.54,
+   "t1": 81.193,
+   "words": [
+    "Ciento",
+    "veinte",
+    "minutos..."
+   ]
+  },
+  {
+   "t0": 81.193,
+   "t1": 82.1,
+   "words": [
+    "cero",
+    "a",
+    "cero."
+   ]
+  },
+  {
+   "t0": 82.1,
+   "t1": 83.62,
+   "words": [
+    "Otra",
+    "vez",
+    "penales."
+   ]
+  },
+  {
+   "t0": 83.62,
+   "t1": 85.02,
+   "words": [
+    "Te",
+    "tapas",
+    "los",
+    "ojos."
+   ]
+  },
+  {
+   "t0": 85.02,
+   "t1": 86.1,
+   "words": [
+    "Tu",
+    "abuelo",
+    "te",
+    "quita",
+    "las"
+   ]
+  },
+  {
+   "t0": 86.1,
+   "t1": 87.369,
+   "words": [
+    "manos",
+    "de",
+    "la",
+    "cara."
+   ]
+  },
+  {
+   "t0": 87.369,
+   "t1": 88.5,
+   "words": [
+    "Míralo,",
+    "mijo."
+   ]
+  },
+  {
+   "t0": 88.5,
+   "t1": 89.54,
+   "words": [
+    "Esto",
+    "no",
+    "se",
+    "ve",
+    "dos"
+   ]
+  },
+  {
+   "t0": 89.54,
+   "t1": 91.34,
+   "words": [
+    "veces.",
+    "Gol..."
+   ]
+  },
+  {
+   "t0": 91.34,
+   "t1": 92.18,
+   "words": [
+    "gol..."
+   ]
+  },
+  {
+   "t0": 92.18,
+   "t1": 93.12,
+   "words": [
+    "atajada..."
+   ]
+  },
+  {
+   "t0": 93.12,
+   "t1": 94.12,
+   "words": [
+    "¡gol!"
+   ]
+  },
+  {
+   "t0": 94.18,
+   "t1": 95.62,
+   "words": [
+    "México",
+    "está",
+    "en",
+    "la",
+    "final"
+   ]
+  },
+  {
+   "t0": 95.62,
+   "t1": 96.732,
+   "words": [
+    "del",
+    "Mundial."
+   ]
+  },
+  {
+   "t0": 96.732,
+   "t1": 98.01,
+   "words": [
+    "Trece",
+    "de",
+    "julio."
+   ]
+  },
+  {
+   "t0": 98.02,
+   "t1": 99.38,
+   "words": [
+    "Estadio",
+    "Maracaná."
+   ]
+  },
+  {
+   "t0": 99.38,
+   "t1": 101.1,
+   "words": [
+    "México",
+    "contra",
+    "Alemania..."
+   ]
+  },
+  {
+   "t0": 101.1,
+   "t1": 102.22,
+   "words": [
+    "la",
+    "selección",
+    "que",
+    "le",
+    "acaba"
+   ]
+  },
+  {
+   "t0": 102.22,
+   "t1": 104.17,
+   "words": [
+    "de",
+    "meter",
+    "siete",
+    "a",
+    "Brasil."
+   ]
+  },
+  {
+   "t0": 104.18,
+   "t1": 105.46,
+   "words": [
+    "Nadie",
+    "da",
+    "un",
+    "peso",
+    "por"
+   ]
+  },
+  {
+   "t0": 105.46,
+   "t1": 106.34,
+   "words": [
+    "México."
+   ]
+  },
+  {
+   "t0": 106.34,
+   "t1": 107.42,
+   "words": [
+    "Minuto",
+    "ochenta:"
+   ]
+  },
+  {
+   "t0": 107.42,
+   "t1": 109.54,
+   "words": [
+    "Alemania",
+    "uno,",
+    "México",
+    "cero."
+   ]
+  },
+  {
+   "t0": 109.54,
+   "t1": 110.97,
+   "words": [
+    "Minuto",
+    "ochenta",
+    "y",
+    "nueve."
+   ]
+  },
+  {
+   "t0": 110.98,
+   "t1": 111.66,
+   "words": [
+    "Centro..."
+   ]
+  },
+  {
+   "t0": 111.66,
+   "t1": 112.48,
+   "words": [
+    "remate..."
+   ]
+  },
+  {
+   "t0": 112.48,
+   "t1": 113.34,
+   "words": [
+    "¡gol!"
+   ]
+  },
+  {
+   "t0": 113.34,
+   "t1": 114.327,
+   "words": [
+    "Uno",
+    "a",
+    "uno."
+   ]
+  },
+  {
+   "t0": 114.327,
+   "t1": 116.06,
+   "words": [
+    "Tiempo",
+    "extra",
+    "otra",
+    "vez."
+   ]
+  },
+  {
+   "t0": 116.06,
+   "t1": 117.46,
+   "words": [
+    "El",
+    "país",
+    "entero",
+    "está",
+    "de"
+   ]
+  },
+  {
+   "t0": 117.46,
+   "t1": 118.233,
+   "words": [
+    "pie."
+   ]
+  },
+  {
+   "t0": 118.233,
+   "t1": 119.98,
+   "words": [
+    "Minuto",
+    "ciento",
+    "dieciocho."
+   ]
+  },
+  {
+   "t0": 119.98,
+   "t1": 120.94,
+   "words": [
+    "Contragolpe..."
+   ]
+  },
+  {
+   "t0": 120.94,
+   "t1": 122.1,
+   "words": [
+    "el",
+    "balón",
+    "pasa",
+    "entre",
+    "las"
+   ]
+  },
+  {
+   "t0": 122.1,
+   "t1": 123.527,
+   "words": [
+    "piernas",
+    "del",
+    "defensa..."
+   ]
+  },
+  {
+   "t0": 123.527,
+   "t1": 124.73,
+   "words": [
+    "¡Gooool!"
+   ]
+  },
+  {
+   "t0": 124.9,
+   "t1": 125.82,
+   "words": [
+    "México..."
+   ]
+  },
+  {
+   "t0": 125.82,
+   "t1": 127.292,
+   "words": [
+    "campeón",
+    "del",
+    "mundo."
+   ]
+  },
+  {
+   "t0": 127.292,
+   "t1": 129.02,
+   "words": [
+    "Tienes",
+    "doce",
+    "años",
+    "y",
+    "acabas"
+   ]
+  },
+  {
+   "t0": 129.02,
+   "t1": 130.58,
+   "words": [
+    "de",
+    "ver",
+    "lo",
+    "imposible."
+   ]
+  },
+  {
+   "t0": 130.58,
+   "t1": 132.02,
+   "words": [
+    "En",
+    "la",
+    "escuela,",
+    "todos",
+    "quieren"
+   ]
+  },
+  {
+   "t0": 132.02,
+   "t1": 133.167,
+   "words": [
+    "ser",
+    "futbolistas."
+   ]
+  },
+  {
+   "t0": 133.167,
+   "t1": 133.82,
+   "words": [
+    "Tú",
+    "no."
+   ]
+  },
+  {
+   "t0": 133.82,
+   "t1": 135.54,
+   "words": [
+    "Tú",
+    "quieres",
+    "ser",
+    "árbitro."
+   ]
+  },
+  {
+   "t0": 135.54,
+   "t1": 137.22,
+   "words": [
+    "Porque",
+    "aprendiste",
+    "que",
+    "una",
+    "decisión"
+   ]
+  },
+  {
+   "t0": 137.22,
+   "t1": 138.313,
+   "words": [
+    "de",
+    "un",
+    "segundo..."
+   ]
+  },
+  {
+   "t0": 138.313,
+   "t1": 139.7,
+   "words": [
+    "puede",
+    "cambiar",
+    "la",
+    "historia",
+    "de"
+   ]
+  },
+  {
+   "t0": 139.7,
+   "t1": 140.74,
+   "words": [
+    "un",
+    "país."
+   ]
+  },
+  {
+   "t0": 140.74,
+   "t1": 142.66,
+   "words": [
+    "Una",
+    "generación",
+    "entera",
+    "crece",
+    "sin"
+   ]
+  },
+  {
+   "t0": 142.66,
+   "t1": 143.69,
+   "words": [
+    "el",
+    "casi."
+   ]
+  },
+  {
+   "t0": 143.7,
+   "t1": 145.38,
+   "words": [
+    "Y",
+    "en",
+    "dos",
+    "mil",
+    "veintiséis,"
+   ]
+  },
+  {
+   "t0": 145.38,
+   "t1": 146.94,
+   "words": [
+    "México",
+    "llega",
+    "a",
+    "su",
+    "Mundial"
+   ]
+  },
+  {
+   "t0": 146.94,
+   "t1": 148.14,
+   "words": [
+    "en",
+    "casa..."
+   ]
+  },
+  {
+   "t0": 148.14,
+   "t1": 150.06,
+   "words": [
+    "como",
+    "campeón",
+    "del",
+    "mundo."
+   ]
+  },
+  {
+   "t0": 150.06,
+   "t1": 151.42,
+   "words": [
+    "Y",
+    "tu",
+    "abuelo,",
+    "ya",
+    "con"
+   ]
+  },
+  {
+   "t0": 151.42,
+   "t1": 153.21,
+   "words": [
+    "bastón,",
+    "está",
+    "en",
+    "la",
+    "tribuna."
+   ]
+  },
+  {
+   "t0": 153.612,
+   "t1": 154.93,
+   "words": [
+    "Pero",
+    "ese",
+    "penal..."
+   ]
+  },
+  {
+   "t0": 155.06,
+   "t1": 156.25,
+   "words": [
+    "sí",
+    "se",
+    "marcó."
+   ]
+  },
+  {
+   "t0": 156.42,
+   "t1": 157.49,
+   "words": [
+    "Perdimos."
+   ]
+  },
+  {
+   "t0": 157.62,
+   "t1": 159.5,
+   "words": [
+    "Y",
+    "aun",
+    "así,",
+    "doce",
+    "años"
+   ]
+  },
+  {
+   "t0": 159.5,
+   "t1": 161.74,
+   "words": [
+    "después,",
+    "un",
+    "país",
+    "entero",
+    "volvió"
+   ]
+  },
+  {
+   "t0": 161.74,
+   "t1": 163.65,
+   "words": [
+    "a",
+    "decir",
+    "la",
+    "misma",
+    "frase:"
+   ]
+  },
+  {
+   "t0": 163.767,
+   "t1": 164.81,
+   "words": [
+    "¿Y",
+    "si",
+    "sí?"
+   ]
+  },
+  {
+   "t0": 164.98,
+   "t1": 166.82,
+   "words": [
+    "Porque",
+    "los",
+    "mexicanos",
+    "podemos",
+    "perder"
+   ]
+  },
+  {
+   "t0": 166.82,
+   "t1": 167.78,
+   "words": [
+    "un",
+    "partido..."
+   ]
+  },
+  {
+   "t0": 167.78,
+   "t1": 169.38,
+   "words": [
+    "lo",
+    "que",
+    "no",
+    "perdemos",
+    "es"
+   ]
+  },
+  {
+   "t0": 169.38,
+   "t1": 170.45000000000002,
+   "words": [
+    "la",
+    "esperanza."
+   ]
+  },
+  {
+   "t0": 170.64,
+   "t1": 172.02,
+   "words": [
+    "¿Dónde",
+    "estabas",
+    "tú",
+    "cuando",
+    "no"
+   ]
+  },
+  {
+   "t0": 172.02,
+   "t1": 172.94,
+   "words": [
+    "era",
+    "penal?"
+   ]
+  },
+  {
+   "t0": 172.94,
+   "t1": 174.54,
+   "words": [
+    "Cuéntamelo",
+    "en",
+    "los",
+    "comentarios."
+   ]
+  },
+  {
+   "t0": 174.54,
+   "t1": 176.38,
+   "words": [
+    "Y",
+    "si",
+    "todavía",
+    "te",
+    "duele..."
+   ]
+  },
+  {
+   "t0": 176.38,
+   "t1": 177.369,
+   "words": [
+    "dale",
+    "like."
+   ]
+  },
+  {
+   "t0": 177.369,
+   "t1": 178.33,
+   "words": [
+    "¿Y",
+    "si",
+    "sí?"
+   ]
+  }
+ ]
+}
