@@ -1,0 +1,66 @@
+{
+ "partes": [
+  {
+   "a": 0.0,
+   "e": 61.72,
+   "nombre": "ep04-parte-1-de-3",
+   "fin": "fin-parte2",
+   "dur": 63.52,
+   "badge": "badge-1de3"
+  },
+  {
+   "a": 58.62,
+   "e": 136.92,
+   "nombre": "ep04-parte-2-de-3",
+   "fin": "fin-parte3",
+   "dur": 80.1,
+   "badge": "badge-2de3"
+  },
+  {
+   "a": 134.38,
+   "e": 206.53,
+   "nombre": "ep04-parte-3-de-3",
+   "fin": "fin-final",
+   "dur": 73.95,
+   "badge": "badge-3de3"
+  }
+ ],
+ "shorts": [
+  {
+   "a": 22.99,
+   "e": 55.56,
+   "dur": 34.4,
+   "puntos": 2,
+   "texto": "¿y si cristiano ronaldo hubiera nacido en méxico? ¿y si sí? en la vida real, cristiano nac"
+  },
+  {
+   "a": 61.63,
+   "e": 84.12,
+   "dur": 24.3,
+   "puntos": 2,
+   "texto": "escenario uno: el llano. cristiano tiene doce y quiere una prueba en un equipo profesional"
+  },
+  {
+   "a": 98.81,
+   "e": 129.08,
+   "dur": 32.1,
+   "puntos": 2,
+   "texto": "¿y si sí? escenario dos: la liga mx… y el viernes botanero. un visor lo ve. debuta a los d"
+  },
+  {
+   "a": 136.83,
+   "e": 156.92,
+   "dur": 21.9,
+   "puntos": 2,
+   "texto": "llega el viernes botanero. luego, los tamales de elote. luego, las guajolotas. a los veint"
+  },
+  {
+   "a": 160.59,
+   "e": 183.88,
+   "dur": 25.1,
+   "puntos": 2,
+   "texto": "su único título de liga había sido en dos mil doce. llega a la selección. llega al mundial"
+  }
+ ],
+ "avisos": []
+}

@@ -1,0 +1,46 @@
+{
+ "id": "YSS-20261025-02",
+ "slug": "ep02-mexico-campeon",
+ "numero": 2,
+ "titulo": "¿Y si México ganaba el Mundial?",
+ "punto_de_quiebre": "05·07·2026 · Octavos de final, Estadio Ciudad de México · el disparo pega en el poste… y entra",
+ "estado": "programado en YouTube; TikTok/Reels pendientes",
+ "duracion_s": 216.565,
+ "proyecto": "proyecto",
+ "audio": {
+  "modo": "mezclar",
+  "script": "audio_ep02.py",
+  "voz": "proyecto/assets/voz-v3.wav",
+  "musica": "proyecto/assets/audio/musica.wav",
+  "fx": "proyecto/assets/audio/fx.wav",
+  "maestro": "audio/mezcla-final.flac"
+ },
+ "salida": "elhubiera-ep02-mexico-campeon",
+ "clips": "clips.json",
+ "portadas": [
+  "ep02-miniatura-a",
+  "ep02-miniatura-b",
+  "ep02-portada-vertical"
+ ],
+ "notas": "Voz v3 = toma ElevenLabs aprobada + líneas nuevas (empalme_v2.py) + '¡Ay, mamá!' del clip del usuario (aymama_v3.py). Riesgo de Content ID por ese clip.",
+ "publicacion": {
+  "youtube_largo": {
+   "url": "https://youtu.be/mVXMWuggRmU",
+   "programado": "2026-10-29T12:00-07:00",
+   "content_id": "sin reclamos"
+  },
+  "shorts": [
+   {
+    "pieza": "ep02-short-corridos",
+    "url": "https://youtube.com/shorts/SeN_rgbgxsA",
+    "programado": "2026-10-30T13:00-07:00"
+   },
+   {
+    "pieza": "ep02-short-taco-al-pastor",
+    "url": "https://youtube.com/shorts/2n5nd-6NWEQ",
+    "programado": "2026-10-31T13:00-07:00"
+   }
+  ],
+  "partes_tiktok_reels": "pendiente: cuentas de TikTok/Instagram/Facebook sin sesión (ver publicacion/2026-10-lanzamiento.md)"
+ }
+}

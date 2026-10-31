@@ -1,0 +1,38 @@
+{
+ "video": "render/ep01-no-era-penal/v_raw.mp4",
+ "clips": [
+  {
+   "nombre": "ep01-parte-1-de-3",
+   "a": 0,
+   "e": 61.1,
+   "badge": "badge-1de3",
+   "fin": "fin-parte2"
+  },
+  {
+   "nombre": "ep01-parte-2-de-3",
+   "a": 61.1,
+   "e": 127.26,
+   "badge": "badge-2de3",
+   "fin": "fin-parte3"
+  },
+  {
+   "nombre": "ep01-parte-3-de-3",
+   "a": 118.08,
+   "e": 178.25,
+   "badge": "badge-3de3",
+   "fin": "fin-final"
+  },
+  {
+   "nombre": "ep01-short-no-era-penal",
+   "a": 0,
+   "e": 32.35,
+   "fin": "fin-completo"
+  },
+  {
+   "nombre": "ep01-short-miralo-mijo",
+   "a": 77.6,
+   "e": 96.7,
+   "fin": "fin-completo"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "what-if-stick-animation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "2D stickman animation production toolkit: scripts, direction skills, procedural visuals, audio workflow, rendering and QA.",
+  "type": "module",
+  "scripts": {
+    "setup": "npx playwright install chromium",
+    "probe": "node herramientas/probe.mjs",
+    "snap": "node herramientas/snap.mjs",
+    "render": "node herramientas/render.mjs",
+    "timeline": "node herramientas/timeline.mjs"
+  },
+  "dependencies": {
+    "playwright": "1.63.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

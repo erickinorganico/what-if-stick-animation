@@ -1,0 +1,38 @@
+{
+ "video": "render/ep04-cristiano-mexico/v_raw.mp4",
+ "clips": [
+  {
+   "nombre": "ep04-parte-1-de-3",
+   "a": 0.0,
+   "e": 61.72,
+   "badge": "badge-1de3",
+   "fin": "fin-parte2"
+  },
+  {
+   "nombre": "ep04-parte-2-de-3",
+   "a": 58.62,
+   "e": 136.92,
+   "badge": "badge-2de3",
+   "fin": "fin-parte3"
+  },
+  {
+   "nombre": "ep04-parte-3-de-3",
+   "a": 134.38,
+   "e": 206.53,
+   "badge": "badge-3de3",
+   "fin": "fin-final"
+  },
+  {
+   "nombre": "ep04-short-viernes-botanero",
+   "a": 129.0,
+   "e": 149.55,
+   "fin": "fin-completo"
+  },
+  {
+   "nombre": "ep04-short-siuuu",
+   "a": 152.55,
+   "e": 176.15,
+   "fin": "fin-completo"
+  }
+ ]
+}
