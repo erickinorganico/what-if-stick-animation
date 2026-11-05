@@ -24,12 +24,12 @@ Regla de ahorro: **no se escribe storyboard de una locución no aprobada.** En e
 - Crear las dos skills costó ~260 mil tokens adicionales.
 - La etapa 1 de una premisa nueva («¿Y si el Metro de la CDMX fuera gratis para siempre?») se escribió leyendo solo `guion-hubiera/SKILL.md`. Su costo no se midió por separado.
 
-Decisión de Erick (5 nov): para guiones **no se usa el modelo más grande** por rutina. Opus o Sonnet con estas skills.
+Decisión de Erick (5 nov): para guiones **no se usa el modelo más grande** por rutina; basta el modelo habitual con estas skills.
 
 ## Qué modelo para qué
 
-- **Etapas 1 y 2 (creativas):** el modelo habitual de razonamiento alto (Opus). El hook, el giro y el remate son decisiones de gusto.
-- **Etapa 2b, etapa 3 y auditoría mecánica:** un modelo más económico (Sonnet) sigue bien las convenciones del storyboard y de la versión para voz.
+- **Etapas 1 y 2 (creativas):** el modelo habitual de razonamiento alto. El hook, el giro y el remate son decisiones de gusto.
+- **Etapa 2b, etapa 3 y auditoría mecánica:** un modelo más económico sigue bien las convenciones del storyboard y de la versión para voz.
 - **Medir, contar y verificar:** sin modelo. `medir_guion.py` y `qa_guiones.py` dan palabras, duración, hook, remate, bloques largos, cifras en dígitos, `.txt` = LOCUCION, líneas literales y presupuesto de palabras.
 
 ## Trabajo en lote (series y muchos episodios)
