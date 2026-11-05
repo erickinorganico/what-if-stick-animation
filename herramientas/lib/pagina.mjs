@@ -34,7 +34,7 @@ export async function abrir(html, { vertical = false, qs = '', navegador = null 
 }
 
 // argumentos estilo --clave valor / --bandera (las banderas conocidas nunca se comen el siguiente valor)
-const BANDERAS = new Set(['v', 'vertical', 'force']);
+const BANDERAS = new Set(['v', 'vertical', 'force', 'pantallazo']);
 export function args(argv = process.argv.slice(2)) {
   const pos = [], op = {};
   for (let i = 0; i < argv.length; i++) {

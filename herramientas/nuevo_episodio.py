@@ -77,6 +77,10 @@ def main():
         sys.exit(f'Ya existe {dst}')
     base, cfg_b = episodio(a.base)
     pb = base / cfg_b['proyecto']
+    requeridos = [pb / 'src' / f for f in MOTOR] + [pb / 'fonts', pb / cfg_b['audio']['script'], pb / 'index.html']
+    faltan = [str(x) for x in requeridos if not x.exists()]
+    if faltan:
+        sys.exit('La base ' + a.base + ' no tiene: ' + ', '.join(faltan) + '. No se creó nada.')
     num = int(''.join(ch for ch in a.slug.split('-')[0] if ch.isdigit()) or 0)
     p = dst / 'proyecto'
     (p / 'src').mkdir(parents=True)
@@ -84,9 +88,13 @@ def main():
         shutil.copy2(pb / 'src' / f, p / 'src' / f)
     shutil.copytree(pb / 'fonts', p / 'fonts')
     (p / 'assets' / 'audio').mkdir(parents=True)
-    for f in (pb / 'assets' / 'audio').iterdir():
-        if f.suffix in ('.mp3', '.ogg') or f.name == 'latido.wav':
-            shutil.copy2(f, p / 'assets' / 'audio' / f.name)
+    audio_base = pb / 'assets' / 'audio'
+    if audio_base.exists():
+        for f in audio_base.iterdir():
+            if f.suffix in ('.mp3', '.ogg') or f.name == 'latido.wav':
+                shutil.copy2(f, p / 'assets' / 'audio' / f.name)
+    else:
+        print(f'Aviso: {audio_base} no existe (los medios no están en Git). Restaura música y efectos aprobados antes de producir.')
     shutil.copy2(pb / cfg_b['audio']['script'], p / 'audio_episodio.py')
     (p / 'src' / 'words_ep.js').write_text(WORDS_DEMO, encoding='utf-8')
     titulo_may = a.titulo.upper()

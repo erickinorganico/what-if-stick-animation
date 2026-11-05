@@ -33,12 +33,21 @@ def leer_palabras(proy: Path, carpeta: Path):
     js = proy / 'src' / 'words_ep.js'
     if not js.exists():
         js = next((x for x in sorted((proy / 'src').glob('*.js')) if 'const WORDS_EP' in x.read_text(encoding='utf-8')), js)
+    j = carpeta / 'revision' / 'voz-palabras.json'
     if js.exists():
         txt = js.read_text(encoding='utf-8')
-        return json.loads(txt[txt.index('['): txt.rindex(']') + 1])
-    j = carpeta / 'revision' / 'voz-palabras.json'
+        W = json.loads(txt[txt.index('['): txt.rindex(']') + 1])
+        if len(W) > 5:
+            return W
+        if not j.exists():
+            raise SystemExit(f'{js.name} tiene {len(W)} palabras (relleno de nuevo_episodio.py) y no hay revision/voz-palabras.json. '
+                             'Genera la voz y corre palabras_a_js.py antes del esqueleto.')
+        print(f'Aviso: {js.name} es el relleno de nuevo_episodio.py; uso revision/voz-palabras.json. Corre palabras_a_js.py para el motor.')
     d = json.loads(j.read_text(encoding='utf-8'))
-    return d['words'] if isinstance(d, dict) else d
+    W = d['words'] if isinstance(d, dict) else d
+    # mismas reglas que palabras_a_js.convertir: sin etiquetas [..], espacios ni eventos de audio
+    return [w for w in W if (w.get('text') or '').strip() and not re.match(r'^\[[^\]]*\]$', (w.get('text') or '').strip())
+            and w.get('type') not in ('spacing', 'audio_event')]
 
 
 def beats_de(W, vo, mn, mx):

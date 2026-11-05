@@ -14,7 +14,7 @@ from comun import duracion, ffmpeg_bin
 
 def medir(archivo: Path) -> dict:
     archivo = Path(archivo)
-    r = subprocess.run([ffmpeg_bin(), '-hide_banner', '-nostats', '-i', str(archivo), '-af', 'ebur128=peak=true', '-f', 'null', '-'],
+    r = subprocess.run([ffmpeg_bin(), '-hide_banner', '-nostats', '-i', str(archivo), '-vn', '-af', 'ebur128=peak=true', '-f', 'null', '-'],
                        capture_output=True, text=True, encoding='utf-8', errors='replace')
     resumen = r.stderr[r.stderr.rfind('Summary:'):] if 'Summary:' in r.stderr else ''
     lufs = re.search(r'I:\s+(-?[\d.]+) LUFS', resumen)
