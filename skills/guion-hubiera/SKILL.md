@@ -15,8 +15,8 @@ Trabaja por etapas y **para al final de cada una** a esperar al humano, salvo qu
 |---|---|---|
 | **1 · Idea** | Ficha de 10 líneas + 3 hooks, cada uno con 20–30 s de continuación (50–70 palabras). Tabla de hermanos si es serie. **Para.** | nada más |
 | **2 · Locución** | LOCUCION completa + mapa dopamínico + `.txt` idéntico + FUENTES-Y-SUPUESTOS + riesgos para el humano + salida de `scripts/medir_guion.py`. **Para.** | `references/ejemplos-v3.md` si dudas del tono o de cómo trocear datos |
-| **2b · Versión para voz** | Solo con la locución aprobada y si trabajas en el repo: `episodios/<slug>/guion/guion-voz-v1.txt` con etiqueta de emoción solo donde cambia el registro, números con letra y **sin cambiar palabras** (son las anclas `A3('…')` del motor). Reglas en `docs/02-guion-y-voz.md`. | nada más |
-| **3 · Storyboard** | Tabla de planos sobre la locución aprobada. Solo cuando lo pidan o aprueben la voz. | `references/storyboard.md` |
+| **2b · Versión para voz** | Solo con la locución aprobada y si trabajas en el repo: `episodios/<slug>/guion/guion-voz-v1.txt`: una frase o párrafo por línea con etiqueta de emoción al inicio (`[tense]`, `[playful]`…), números con letra y **sin cambiar palabras** (son las anclas `A3('…')` del motor). Reglas en `docs/02-guion-y-voz.md`. | nada más |
+| **3 · Storyboard** | Tabla de planos sobre la locución aprobada. Solo cuando lo pidan o aprueben la voz. En el repo va en `episodios/<slug>/guion/storyboard-v1.md` (no en `revision/storyboard.md`: `esqueleto.py` lo sobrescribe). | `references/storyboard.md` |
 
 Por qué: en el lote v3 cada agente gastó la mayor parte de los tokens releyendo guías y rehaciendo storyboards de locuciones que luego cambiaban. La etapa 1 cuesta poco y es donde el humano más decide.
 

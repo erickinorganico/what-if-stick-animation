@@ -19,10 +19,11 @@ Se escribe con la skill **`guion-hubiera`**, por etapas y con parada: **1)** fic
 ### Versión para voz (`guion/guion-voz-v1.txt`)
 
 1. Parte del `.txt` aprobado y **no cambies palabras**: las frases del storyboard («Cita inicial → final») son las anclas `A3('…')` del motor.
-2. Etiqueta de emoción al inicio del párrafo **solo cuando cambia el registro** (lista abajo); no una por línea.
+2. Formato real del motor (ver `episodios/ep04-cristiano-mexico/guion/guion-voz-v3.txt`): una frase o párrafo por línea, **etiqueta de emoción al inicio de cada línea** (lista abajo) y línea en blanco entre bloques. Borra las dos líneas `#` de la plantilla que deja `nuevo_episodio.py`.
 3. Números con letra, siglas como se pronuncian, nombres raros en forma fonética. `medir_guion.py` avisa de cifras en dígitos.
 4. Los diálogos los actúa el narrador; si cambia el registro dentro del diálogo, marca la etiqueta (`[whispers]`, `[shouting]`).
 5. Una vez generada la voz, todo cambio de palabra es un empalme (sección «Cambiar líneas sin regenerar todo»), nunca una toma nueva por rutina.
+6. **Ninguna herramienta lee el guion**: entra al motor solo por los tiempos de la voz (`voz-palabras.json` → `palabras_a_js.py` → `words_ep.js` → `esqueleto.py`). El storyboard escrito de `guion-hubiera` va en `guion/storyboard-v1.md`: `esqueleto.py` **sobrescribe** `revision/storyboard.md` en cada corrida. Al dirigir, se usa el escrito para llenar la columna «Toma» del que genera el esqueleto.
 
 ### Histórico · fórmula de ep01/ep02 (no es plantilla)
 
