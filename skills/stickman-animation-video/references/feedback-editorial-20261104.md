@@ -1,3 +1,5 @@
+> Propuesta 5 nov 2026: la guía operativa de escritura es ahora [`skills/guion-hubiera`](../../guion-hubiera/SKILL.md); este archivo se conserva como fuente y procedencia del criterio.
+
 # El Hubiera · sátira, escalada y lenguaje directo
 
 Fuente: feedback explícito de Erick, 4 de noviembre de 2026, revisión del lote de guiones del mismo día. Ámbito: El Hubiera. Evidencia: preferencia humana; no hay nuevos datos de rendimiento. Mantener las decisiones posteriores de cada pieza.

@@ -4,10 +4,12 @@ Copia esta lista a `episodios/<slug>/revision/checklist.md` y márcala conforme 
 
 ## Preproducción
 
-- [ ] Punto de quiebre con fecha, lugar y hecho real verificado (fuente anotada).
+- [ ] Premisa «¿Y si…?» definida; si usa hechos reales, fuente con unidad y periodo anotada (no hace falta abrir con fecha).
 - [ ] Título "¿Y si…?" y remate de miniatura de 1 a 3 palabras.
 - [ ] `python herramientas/nuevo_episodio.py epNN-slug "¿Y si …?"`
-- [ ] Guion en `guion/guion-voz-v1.txt` con la fórmula de [02](02-guion-y-voz.md): gancho con fecha, la realidad, "¿y si sí?", escalada, giro, vuelta al quiebre, lo real y lo inventado, y CTA para comentar y seguir.
+- [ ] Etapa 1 de `guion-hubiera`: ficha de 10 líneas + 3 hooks; Erick eligió hook.
+- [ ] Etapa 2: locución con mapa dopamínico; `python3 skills/guion-hubiera/scripts/medir_guion.py <guion>.md --txt <guion>.txt --ventanas` sin avisos pendientes (o justificados); Erick aprobó la locución.
+- [ ] Versión para voz en `guion/guion-voz-v1.txt` (etiquetas de emoción, números con letra; ver [02](02-guion-y-voz.md)). Después de la voz no se cambian palabras: rompen las anclas `A3('…')`.
 - [ ] Números escritos con letra y nombres raros en forma fonética.
 
 ## Voz

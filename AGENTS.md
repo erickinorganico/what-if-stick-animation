@@ -2,7 +2,7 @@
 
 # What If Stick Animation · instrucciones
 
-Leer README.md, skills/README.md, docs/00-modus-operandi.md y la ficha de la pieza antes de cambiar código. Aplicar las skills stickman-animation-video, stickman-animation-direccion y stickman-animation-salidas según la tarea; escritura-guiones-ai-lab para guion y voz-elevenlabs antes de cualquier voz.
+Leer README.md, skills/README.md, docs/00-modus-operandi.md y la ficha de la pieza antes de cambiar código. Aplicar las skills stickman-animation-video, stickman-animation-direccion y stickman-animation-salidas según la tarea; guion-hubiera para escribir o reescribir guiones de El Hubiera y revision-enganche-hubiera para auditarlos (escritura-guiones-ai-lab sólo para piezas AI Lab de 55–70 s); voz-elevenlabs antes de cualquier voz.
 
 Este repositorio es una copia versionada del sistema, no el calendario operativo. No cambiar cuentas, voz, modelo, permisos, producción activa ni publicar sin instrucciones humanas vigentes. No sintetizar audios ausentes por defecto. No incluir secretos, sesiones, datos personales o medios de producción en commits.
 

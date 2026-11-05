@@ -7,8 +7,8 @@ Cómo se hace un episodio de **El Hubiera**, de la idea a la publicación. La an
 ## La idea del canal
 
 - **Premisa:** un momento real de la historia de México, el punto de quiebre, se parte en dos. La línea gris es lo que pasó; la rosa es lo que hubiera pasado.
-- **Tono:** segunda persona ("Tienes doce años…"), humor mexicano, nostalgia y un remate que duele un poquito.
-- **Cierre:** siempre "¿Y si sí?", seguido de una pregunta para comentar y de la invitación a seguir.
+- **Tono:** sátira de instituciones, incentivos y contradicciones, con humor mexicano y un remate con riesgo elegido por la premisa (sátira negra, distopía, horror u optimismo). La segunda persona y la nostalgia de ep01/ep02 son opciones, no regla. Método: skill `guion-hubiera`.
+- **Cierre:** en la voz, un remate seco que paga el loop del inicio (sin moraleja ni resumen). El sello «¿Y si sí?», comentar y seguir viven en `endCard3()` y en los copys; en la voz solo si nacen de la pieza (los episodios de visitas cierran con una pregunta de identificación). *Propuesta 5 nov: confirmar con Erick.*
 - **Líneas de contenido:**
   - **El hubiera:** lo que pudo pasar (un penal, una final, la historia de México).
   - **¿Y si sí?:** México potencia, como el ep. 02.
@@ -19,7 +19,7 @@ Cómo se hace un episodio de **El Hubiera**, de la idea a la publicación. La an
 | # | Paso | Qué sale | Herramienta o skill | Quién |
 | --- | --- | --- | --- | --- |
 | 1 | **Idea y punto de quiebre** | Fecha, lugar, hecho real y qué cambia | `estrategia-contenido`, investigación web | Claude propone, el usuario elige |
-| 2 | **Guion** (2:30–3:40 por ahora; la meta es 6–10 min) | `guion/guion-voz-v1.txt` con etiquetas de emoción | [02-guion-y-voz](02-guion-y-voz.md) | Claude |
+| 2 | **Guion** por etapas (la duración la decide la escalada) | Etapa 1: ficha + 3 hooks → Erick elige. Etapa 2: locución + `medir_guion.py`. Luego `guion/guion-voz-v1.txt` con etiquetas de emoción | Skill `guion-hubiera`, [26-guiones-flujo](26-guiones-flujo-eficiente.md), [02-guion-y-voz](02-guion-y-voz.md) | Claude escribe, **Erick elige hook y aprueba locución** |
 | 3 | **Voz**, una sola toma | `proyecto/assets/voz-elevenlabs.mp3` + manifiesto | Conector ElevenLabs + skill `voz-elevenlabs` | Claude |
 | 4 | **Tiempos por palabra** | `revision/voz-palabras.json` → `src/words_ep.js` | ElevenLabs Scribe (0 créditos) o `transcribir.py` | Claude |
 | 5a | **Esqueleto y animatic** | Beats `B.bN`, `revision/storyboard.md`, animatic con voz | `esqueleto.py`, `producir.py --animatic` | Claude; el usuario aprueba el ritmo |

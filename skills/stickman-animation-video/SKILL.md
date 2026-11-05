@@ -5,7 +5,7 @@ description: "Úsala para producir de principio a fin un video de animación sti
 
 # Stickman animation · video completo
 
-Producción de un episodio animado por código, con personajes stickman 2D sobre un motor canvas determinista. El caso principal es el canal **Aquí el hubiera sí existe** (@aquielhubierasiexiste). El repo está en `<LOCAL_PATH> Lab School\Automatizacion\el-hubiera\`, con `.venv`, Playwright y modelos listos. En la nube de Cowork, súbelo con el puente: solo lo que el paso necesita.
+Producción de un episodio animado por código, con personajes stickman 2D sobre un motor canvas determinista. El caso principal es el canal **Aquí el hubiera sí existe** (@aquielhubierasiexiste). El repo está en `<LOCAL_PATH>\Ai Lab School\Automatizacion\el-hubiera\`, con `.venv`, Playwright y modelos listos. En la nube de Cowork, súbelo con el puente: solo lo que el paso necesita.
 
 ## Lee primero
 
@@ -18,7 +18,7 @@ Medidos en la nube de Cowork con 2 núcleos; en la PC, con más núcleos, es má
 | # | Paso | Comando o skill | Tiempo |
 |---|---|---|---|
 | 1 | Idea y punto de quiebre | `estrategia-contenido` + investigación | — |
-| 2 | Guion | `docs/02` como referencia flexible (su orden es una opción; no exige fecha ni contexto antes del primer pago) y [`references/guion-enganche-hubiera.md`](references/guion-enganche-hubiera.md): abrir dentro de la acción, causa, giro, gag visual y callback. Validación ligera de la idea que Erick autorice antes de pagar voz | — |
+| 2 | Guion | Skill **`guion-hubiera`**: etapa 1 (ficha + 3 hooks) → Erick elige → etapa 2 (locución + `scripts/medir_guion.py`) → versión para voz `guion/guion-voz-v1.txt` (docs/02). Storyboard escrito solo con la locución aprobada. Auditoría: `revision-enganche-hubiera` | — |
 | 3 | Voz (1 sola toma) | Skill **`voz-elevenlabs`**: candado, `generations_count=1`, sin reintentos. Joaquín `rtQzMJmQhSg0YB7cp3ed`, `eleven_v4` | 1–3 min |
 | 4 | Tiempos por palabra | Scribe (0 créditos) → `palabras_a_js.py` → `src/words_ep.js` | 1 min |
 | 5 | Episodio nuevo | `python herramientas/nuevo_episodio.py epNN-slug "¿Y si …?"` (instala el kit de dirección) | segundos |
@@ -105,4 +105,4 @@ Ver `archivo/casos/ep04-cristiano-mexico-pipeline.md` del kit.
 
 ## Feedback editorial del canal
 
-Antes de escribir o revisar guiones de El Hubiera, aplicar [la referencia narrativa](references/guion-enganche-hubiera.md) y [el aprendizaje editorial de Erick del4nov2026](references/feedback-editorial-20261104.md). Son criterios de sátira, escalada, lenguaje directo y evaluación creativa; no cambian voces, cuentas, renderer, modelo ni autorizaciones. Las preferencias humanas posteriores prevalecen. UnPASS de formato/timing no equivale a aprobación editorial.
+Para escribir o revisar guiones de El Hubiera usar las skills [`guion-hubiera`](../guion-hubiera/SKILL.md) y [`revision-enganche-hubiera`](../revision-enganche-hubiera/SKILL.md), que destilan [la referencia narrativa](references/guion-enganche-hubiera.md) y [el aprendizaje editorial de Erick del4nov2026](references/feedback-editorial-20261104.md) (se conservan como fuente). Son criterios de sátira, escalada, lenguaje directo y evaluación creativa; no cambian voces, cuentas, renderer, modelo ni autorizaciones. Las preferencias humanas posteriores prevalecen. UnPASS de formato/timing no equivale a aprobación editorial.

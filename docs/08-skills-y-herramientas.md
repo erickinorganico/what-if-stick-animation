@@ -6,12 +6,12 @@ Las skills de video viven en `<LOCAL_PROJECT_PATH>`. El catálogo completo está
 
 | Paso | Skill | Para qué la usamos |
 | --- | --- | --- |
-| Todo el flujo | **`el-hubiera-video`** (este repo, `skills/`) | Receta del canal: qué correr, en qué orden y con qué reglas |
-| Dirección de tomas | **`el-hubiera-direccion`** (este repo, `skills/`) | Storyboard, actuación, cámara, luz, gráficos, transiciones y sonido por acción con el kit |
-| Salidas | **`el-hubiera-salidas`** (este repo, `skills/`) | Cortes, fragmentos, portadas, copys y QA de un episodio aprobado |
+| Todo el flujo | **`stickman-animation-video`** (este repo, `skills/`; sustituye a la obsoleta `el-hubiera-video`) | Receta del canal: qué correr, en qué orden y con qué reglas |
+| Dirección de tomas | **`stickman-animation-direccion`** (este repo, `skills/`) | Storyboard, actuación, cámara, luz, gráficos, transiciones y sonido por acción con el kit |
+| Salidas | **`stickman-animation-salidas`** (este repo, `skills/`) | Cortes, fragmentos, portadas, copys y QA de un episodio aprobado |
 | Elegir skills | `kit-video-ai-lab` | Mapa de las skills de video instaladas |
 | Idea, serie, títulos | `estrategia-contenido`, `mk-content-strategy` | Temas, secuelas, títulos "¿Y si…?" |
-| Guion | `video-storytelling`, `ai-lab-school-guiones`, `better-writing` | Estructura de gancho → escalada → giro → CTA |
+| Guion | **`guion-hubiera`** (este repo) · auditoría: **`revision-enganche-hubiera`** · piezas AI Lab de 55–70 s: `escritura-guiones-ai-lab` | Ficha + 3 hooks → locución con estructura dopamínica → storyboard; medición con `scripts/medir_guion.py` |
 | Voz | **`voz-elevenlabs`** | Candado y manifiesto: una sola toma, cero duplicados |
 | Dirección de tomas | **`motion-studio-by-buck`**, `motion-design`, `director-de-foto-ia` | Anticipación, la cámara que aterriza, una idea por toma, sonido por acción |
 | Efectos de sonido | **`sound-effects`** | Buscar o generar efectos (Freesound, Kenney, ElevenLabs) |
@@ -39,7 +39,8 @@ Las skills de video viven en `<LOCAL_PROJECT_PATH>`. El catálogo completo está
 | `herramientas/codificar.py` | Python | `final` (grano, crf 21, 6M, AAC 192k) y `ligero` (2 pasadas a ≤ N MB) |
 | `herramientas/fragmentos.py` | Python | Partes y Shorts verticales con barra, etiqueta, tarjeta final y SFX. v2: PNG decodificados una vez y `--workers` (idéntico píxel a píxel) |
 | `herramientas/overlays_fragmentos.mjs` | Node | Regenera los PNG de las tarjetas de fragmentos con la marca v3 |
-| `herramientas/medir.py` | Python | Duración, resolución, MB, LUFS y pico real |
+| `herramientas/medir.py` | Python | Duración, resolución, MB, LUFS y pico real (audio/video; no confundir con `medir_guion.py`) |
+| `herramientas/qa_guiones.py` | Python | Control en lote de una carpeta de guiones `.md`+`.txt`: secciones, `.txt` = LOCUCION, líneas literales, fórmulas prohibidas y presupuesto de palabras contra la versión previa |
 | `herramientas/partes.py` | Python | Divide en partes de 20 MB y une verificando SHA-256 |
 | `herramientas/palabras_a_js.py` | Python | `voz-palabras.json` (Scribe) → `src/words_ep.js` |
 | `herramientas/separar_voz.py` | Python | Voz e instrumental de un clip (MDX-Net Kim_Vocal_2, ONNX, CPU) |

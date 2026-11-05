@@ -7,7 +7,7 @@ description: Úsala para producir, corregir o re-renderizar un episodio del cana
 
 # El Hubiera · producción de episodios
 
-El repo vive en la PC en `<LOCAL_PATH> Lab School\Automatizacion\el-hubiera\`. Ya está configurado: tiene `.venv`, Playwright con Chromium y los modelos. Si estás en la nube de Cowork, pásalo a la nube con el puente o trabaja con la copia del proyecto.
+El repo vive en la PC en `<LOCAL_PATH>\Ai Lab School\Automatizacion\el-hubiera\`. Ya está configurado: tiene `.venv`, Playwright con Chromium y los modelos. Si estás en la nube de Cowork, pásalo a la nube con el puente o trabaja con la copia del proyecto.
 
 ## Lee primero
 

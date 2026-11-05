@@ -12,7 +12,7 @@ Sistema de producción de animación stickman 2D mediante Canvas y herramientas 
 
 ## Qué incluye
 
-- `skills/`: ocho skills vigentes de guion, voz, dirección, producción y salidas; la anterior se conserva marcada obsoleta.
+- `skills/`: diez skills vigentes de guion, revisión de guion, voz, dirección, producción, salidas y miniaturas; la anterior se conserva marcada obsoleta.
 - `herramientas/`: motor de producción, esqueleto, animatic, tomas, mezcla, render horizontal/vertical, fragmentos y QA.
 - `episodios/`: código, guiones, storyboard, tiempos y configuración histórica de ep01, ep02 y ep04 como referencias editables.
 - `docs/`: método, diseño, audio, eficiencia y lecciones de producción.
@@ -35,14 +35,14 @@ cd what-if-stick-animation
 
 Puedes descargar **Code → Download ZIP** y descomprimirlo si no utilizas Git. Conserva esta carpeta: las skills necesitan sus herramientas, documentación y episodios de referencia, no sólo el texto de `SKILL.md`.
 
-### 2. Instalar las ocho skills en el proyecto
+### 2. Instalar las diez skills en el proyecto
 
 Ejecuta **un solo bloque**, según tu terminal, desde la raíz del clon. Crea ambas ubicaciones para poder usar los dos agentes; si utilizas sólo uno, deja únicamente su ruta en la lista. Las carpetas existentes se omiten para no sobrescribir tus personalizaciones. No instales `el-hubiera-video`: es la versión obsoleta.
 
 **Windows · PowerShell:**
 
 ```powershell
-$skillNames = @('kit-video-ai-lab', 'escritura-guiones-ai-lab', 'voz-elevenlabs', 'stickman-animation-video', 'stickman-animation-direccion', 'stickman-animation-salidas', 'miniaturas-el-hubiera', 'miniaturas-pi')
+$skillNames = @('kit-video-ai-lab', 'guion-hubiera', 'revision-enganche-hubiera', 'escritura-guiones-ai-lab', 'voz-elevenlabs', 'stickman-animation-video', 'stickman-animation-direccion', 'stickman-animation-salidas', 'miniaturas-el-hubiera', 'miniaturas-pi')
 foreach ($base in @('.claude/skills', '.agents/skills')) {
     New-Item -ItemType Directory -Path $base -Force | Out-Null
     foreach ($skillName in $skillNames) {
@@ -61,7 +61,7 @@ foreach ($base in @('.claude/skills', '.agents/skills')) {
 ```sh
 for base in .claude/skills .agents/skills; do
   mkdir -p "$base"
-  for name in kit-video-ai-lab escritura-guiones-ai-lab voz-elevenlabs stickman-animation-video stickman-animation-direccion stickman-animation-salidas miniaturas-el-hubiera miniaturas-pi; do
+  for name in kit-video-ai-lab guion-hubiera revision-enganche-hubiera escritura-guiones-ai-lab voz-elevenlabs stickman-animation-video stickman-animation-direccion stickman-animation-salidas miniaturas-el-hubiera miniaturas-pi; do
     if [ -e "$base/$name" ]; then
       printf 'Ya existe; se conserva: %s\n' "$base/$name"
     else
@@ -75,7 +75,7 @@ Ubicaciones de descubrimiento: Claude Code usa `.claude/skills/<nombre>/SKILL.md
 
 ### 3. Abrir e invocar las skills
 
-**Claude Code:** inicia `claude` desde la raíz del clon o abre esa carpeta como proyecto local. Usa `/stickman-animation-video` en el chat; para guion usa `/escritura-guiones-ai-lab` y para una escena `/stickman-animation-direccion`. Abre una sesión nueva si no aparecen en el menú `/`. Pídele leer también `AGENTS.md`, porque este repo no incluye un `CLAUDE.md` raíz.
+**Claude Code:** inicia `claude` desde la raíz del clon o abre esa carpeta como proyecto local. Usa `/stickman-animation-video` en el chat; para guion usa `/guion-hubiera` (y `/revision-enganche-hubiera` para auditar uno existente) y para una escena `/stickman-animation-direccion`. Abre una sesión nueva si no aparecen en el menú `/`. Pídele leer también `AGENTS.md`, porque este repo no incluye un `CLAUDE.md` raíz.
 
 **Codex:** abre la carpeta del clon en la app, extensión o CLI. En CLI/extensión puedes consultar `/skills` o escribir `$stickman-animation-video`; también puedes pedir la skill por su nombre. Si no se detecta, reinicia la sesión/app y comprueba que el archivo no quedó anidado como `.../nombre/nombre/SKILL.md`.
 
@@ -141,7 +141,7 @@ Documentación de referencia: [skills en Claude Code](https://code.claude.com/do
 
 ## Reglas conservadas
 
-Estructura editorial: hook → contexto → bifurcación clara y «¿y si sí?» → desarrollo → conclusión → CTA. Una idea por plano, cambios visuales con intención aproximadamente cada 3–5 segundos, contacto físico y continuidad espacial; QA por formato y revisión con audio. Dr. narrador en momentos puntuales, no presente permanentemente.
+Estructura editorial vigente: skill `guion-hubiera` (hook en acción en los primeros 3 s, promesa y primer pago antes de 15 s, loop con callback, escalada causal con giro a la mitad, remate seco). La fórmula histórica de ep01/ep02 (fecha → realidad → «¿y si sí?» → … → CTA) queda como referencia en docs/02, no como plantilla. Una idea por plano, cambios visuales con intención aproximadamente cada 3–5 segundos, contacto físico y continuidad espacial; QA por formato y revisión con audio. Dr. narrador en momentos puntuales, no presente permanentemente.
 
 Voz: una sola toma autorizada, manifiesto y candado antes de cualquier servicio pagado. No duplicar llamadas inciertas. Modelos, cuentas y voces requieren configuración del propietario: este repositorio no concede permisos de gasto ni publicación.
 

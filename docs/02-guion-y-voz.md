@@ -2,7 +2,31 @@
 
 # 02 · Guion y voz
 
-## Fórmula del guion
+## Guion vigente (propuesta 5 nov 2026)
+
+Se escribe con la skill **`guion-hubiera`**, por etapas y con parada: **1)** ficha de 10 líneas + 3 hooks → Erick elige; **2)** locución con mapa dopamínico, medida con `skills/guion-hubiera/scripts/medir_guion.py` → Erick aprueba; **3)** storyboard escrito solo sobre la locución aprobada. Para auditar un guion ya escrito: **`revision-enganche-hubiera`**. Flujo, costos y trabajo en lote: [26 · Guiones: flujo eficiente](26-guiones-flujo-eficiente.md).
+
+| Tramo | Cuándo (145 ppm) | Qué pasa | Ejemplo (guiones/propuestas/nuevos-v3) |
+| --- | --- | --- | --- |
+| **Hook** | 0–3 s (7–9 palabras) | Acción absurda o en riesgo, dibujable, sin fecha ni contexto | «Un cirujano entra al quirófano en el piso doce. Cuando sale, el hospital tiene veinte.» |
+| **Promesa y primer pago** | 3–15 s | «En esta realidad…» una sola vez; primer gag o revelación que se ve antes de decirse | 08: la señora abre la llave, sale agua y el diputado se queda con la cubeta en el aire |
+| **Loop** | antes de 20 s | Objeto o frase que el final devuelve transformado | 08: cubeta rechazada → folder aceptado |
+| **Escalada** | 50–70 % | Causal («por eso»), un escalón por beat; micro-pago cada 15–25 s, re-gancho específico cada 30–45 s | 16: alarmas → cuotas de caseta → país de casetas |
+| **Giro** | 40–60 % | Reencuadre que se entiende en una frase | 16: «Nunca vendió seguridad. Vendió plusvalía.» |
+| **Clímax y remate** | final | Remate ≤ 15 palabras, palabra clave al final, paga el loop, corte seco | 08: «Ahora se va la mañana.» |
+| **Cierre de marca** | `endCard3()` | «¿Y si sí?», comentar y seguir en la tarjeta y en los copys; en la voz solo si nace de la pieza | 22–24: pregunta de identificación de una respuesta |
+
+### Versión para voz (`guion/guion-voz-v1.txt`)
+
+1. Parte del `.txt` aprobado y **no cambies palabras**: las frases del storyboard («Cita inicial → final») son las anclas `A3('…')` del motor.
+2. Etiqueta de emoción al inicio del párrafo **solo cuando cambia el registro** (lista abajo); no una por línea.
+3. Números con letra, siglas como se pronuncian, nombres raros en forma fonética. `medir_guion.py` avisa de cifras en dígitos.
+4. Los diálogos los actúa el narrador; si cambia el registro dentro del diálogo, marca la etiqueta (`[whispers]`, `[shouting]`).
+5. Una vez generada la voz, todo cambio de palabra es un empalme (sección «Cambiar líneas sin regenerar todo»), nunca una toma nueva por rutina.
+
+### Histórico · fórmula de ep01/ep02 (no es plantilla)
+
+> Funcionó para los episodios del Mundial. Abrir con fecha, narrar «lo real y lo inventado» y cerrar siempre con CTA en voz contradice el criterio del 4 nov (docs/24, FEEDBACK-HUMANO). Úsala solo si una premisa histórica lo pide y Erick lo aprueba.
 
 Los eps. 01 y 02 siguen la misma estructura, que funciona. Las duraciones son proporcionales a 3 minutos.
 
@@ -17,7 +41,7 @@ Los eps. 01 y 02 siguen la misma estructura, que funciona. Las duraciones son pr
 | **Lo real y lo inventado** | 5 s | Una frase que separa hechos de ficción | "Lo real: … Lo inventado: …" |
 | **CTA** | 8 s | Pregunta para **comentar** + **seguir**/like + "¿Y si sí?" | "¿Qué arreglarías tú primero? Te leo en los comentarios." |
 
-**Reglas de escritura:**
+**Reglas de escritura de entonces** (las de números con letra y frases animables siguen vigentes):
 
 - **Frases cortas** que se puedan animar: una frase, una imagen.
 - **Números escritos con letra** ("dos mil veintiséis"), para que la voz los lea bien y las anclas coincidan.

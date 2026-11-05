@@ -1,3 +1,5 @@
+> Propuesta 5 nov 2026: la guía operativa de escritura es ahora [`skills/guion-hubiera`](../../guion-hubiera/SKILL.md); este archivo se conserva como fuente y procedencia del criterio.
+
 # El Hubiera · guion que engancha (referencia del canal, ~1 página)
 
 Referencia del canal en `stickman-animation-video/references/guion-enganche-hubiera.md`. `docs/02` es una referencia flexible: su orden (fecha → realidad → «¿y si sí?» → escalada…) es una opción, no una exigencia; no hace falta fecha ni contexto antes del primer pago. Solo para El Hubiera, en cortos y piezas medias/largas; ajustar la extensión a la idea. No aplica a piezas AI Lab de 55–70 s ni a su CTA de agente/clientes.
