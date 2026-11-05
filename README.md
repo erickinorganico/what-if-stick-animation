@@ -1,6 +1,6 @@
 # El Hubiera · repositorio consolidado
 
-Actualización local4nov2026. [Continuidad](CONTINUIDAD.md) · [Criterio vigente](docs/24-criterio-vigente-20261104.md) · [Guiones nuevos y anteriores](guiones/README.md) · [Skills](skills/README.md) · [Cómo hacer miniaturas](docs/25-miniaturas-paso-a-paso.md) · [Referencias blancas](docs/referencias/miniaturas-blancas/)
+Consolidación4nov2026 en main. [Revisión de Claude Cloud y entrega por ZIP](CLAUDE-CLOUD.md). [Continuidad](CONTINUIDAD.md) · [Criterio vigente](docs/24-criterio-vigente-20261104.md) · [Guiones nuevos y anteriores](guiones/README.md) · [Skills](skills/README.md) · [Cómo hacer miniaturas](docs/25-miniaturas-paso-a-paso.md) · [Referencias blancas](docs/referencias/miniaturas-blancas/)
 
 Conserva el motor, rig, animación habitual, código y ejemplos anteriores. Incorpora25 guiones nuevos revisados y pendientes de aprobación, archivo histórico con procedencia, skills actuales y miniaturas blancas con image_gen. Las instrucciones vigentes prevalecen sobre el snapshot histórico que sigue. No incluye MP4, voces, credenciales o dependencias y no activa producción/publicación. Originales previos a la consolidación: archivo/previo-consolidacion-20261104/.
 
