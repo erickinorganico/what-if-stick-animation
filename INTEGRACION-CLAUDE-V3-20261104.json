@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-04",
+  "authorization": "Erick respondió Sí a integrar los seis commits en main manteniendo CTA pendiente.",
+  "base": "d09ecd2ff887e2999c5a3002d0b340e61061a222",
+  "claude_commits_preserved": [
+    "96b6375e513181315ee571d7621b53644bbf3d18",
+    "8fefc383afa05beec669bfc14c13e8102cf07016",
+    "384623d0139d44c1655083d83e35fddfbc1a7715",
+    "3deefc83fe2b0afc6fc65e98dd576e9ddc9d214b",
+    "8ce4ffa9da3d6513f1792848044ec4b1068ef71c",
+    "6b1ef73766f4b3e2aba592fc3df096426b35ee3c"
+  ],
+  "verification": {
+    "manifest_files": 110,
+    "source_and_git_blob_hashes_match": true,
+    "scripts_structure_errors": 0,
+    "word_budget_warnings": 8,
+    "syntax": "6 Python /1 Node PASS",
+    "ep04_beats_storyboard": "identical base/proposal",
+    "new_episode_preflight": "PASS",
+    "placeholder_rejection": "PASS",
+    "pantallazo_argument": "PASS",
+    "measurement": "equivalent synthetic fixture; speedup not certified"
+  },
+  "cta_policy": "PENDING_HUMAN_DECISION; not a global production rule",
+  "voices_v3": "25 existing takes confirmed by other chat; no regeneration or new synthesis here",
+  "scope": "Repo integration only; no render, publication, new voice or account/model changes."
+}
