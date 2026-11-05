@@ -1,0 +1,62 @@
+[firm] Los mexicanos saldrán de Estados Unidos mañana.
+[firm] Todos.
+[conversational] Los que cosechan las fresas. Los que levantan las casas. Los que cocinan en el restaurante donde pediste uno de pastor, please.
+[amused] Tienen veinticuatro horas para empacar. Y la cobija del tigre no cabe.
+[intriguing, slow] ¿Qué pasaría si todos los mexicanos salieran de Estados Unidos mañana?
+
+[conversational] Primero: ¿cuántos son? Si cuentas a todos los de origen mexicano, más de treinta y siete millones. Pero la mayoría nació allá.
+[firm] Aquí contamos sólo a los que nacieron en México, con o sin papeles: unos once millones.
+[amused] Más gente que toda la Ciudad de México.
+[informative] Seis de cada diez trabajadores del campo allá nacieron en México. Y el año pasado mandaron a casa casi sesenta y dos mil millones de dólares.
+
+[storytelling] En esta historia, Donald Trump se cansó de los mexicanos.
+[storytelling] Firma una orden: todos fuera. Mañana.
+[amused] Sin excepciones. Sin tribunales. Sin quiero hablar con el gerente.
+[serious] En nuestra realidad, la presión sí subió: entre enero de dos mil veinticinco y agosto de dos mil veintiséis, México recibió a más de doscientas setenta mil personas repatriadas.
+[serious] Pero los mexicanos siguen allá. Cosechando, construyendo y cocinando.
+[intriguing] En esta otra realidad… no. Aquí se separan las historias.
+[intriguing, slow] ¿Y si todos los mexicanos salieran de Estados Unidos mañana?
+[epic, slow] ¿Y si sí?
+
+[tense] La orden empieza por los que no tienen papeles: más de cuatro millones de personas nacidas en México.
+[tense] Tu tío Chuy es uno. Veinte años construyendo casas en Los Ángeles. Le caben en cuatro maletas.
+[amused] La cobija del tigre se va en las piernas de tu tía. Toda la carretera.
+[amused] En la garita, la fila para entrar a México da vuelta a la cuadra. Luego a la colonia. Luego llega a Ensenada.
+[amused] En el módulo le piden a Chuy un comprobante de domicilio. Él pregunta: ¿de cuál? Le piden dos copias.
+[conversational] Del otro lado, el lunes amanece raro. Las obras, solas. Las fresas, en la mata. Y en una empacadora de Nebraska, la línea se detiene.
+[informative] Allá, más de cuatro de cada diez peones de construcción y de trabajadores de empacadoras nacieron en otro país.
+[amused] El gobierno lanza el programa Cosecha Patriótica. El lunes llegan cuarenta voluntarios. El miércoles quedan tres. Uno vino por la foto.
+[firm] Pero la orden dice todos. Y el gobierno se lo toma en serio.
+[firm] Siguen los que tienen papeles. Residentes. Y hasta ciudadanos: uno de cada tres ya lo era.
+[informative] Ahora no sólo se van albañiles y cocineras. Se van ingenieras, doctores, maestras, contadores y licenciados.
+[amused] En Silicon Valley, una aplicación de inteligencia artificial que vale mil millones de dólares deja de funcionar. Nadie sabe por qué.
+[amused] Le preguntan a su propia inteligencia artificial cómo arreglarla. Contesta: pregúntenle a Memo.
+[amused] Memo es de Guadalajara. Va en el avión.
+[playful] Las Grandes Ligas pierden a sus once peloteros nacidos en México. Un equipo se queda sin pitcher abridor un día antes del juego.
+[building excitement] Y entonces llega la crisis que nadie vio venir: la comida.
+[conversational] Las taquerías bajan la cortina. Nadie sabe hacer una salsa que pique de verdad.
+[amused] En todo el país sólo queda una opción de comida mexicana: Taco Bell.
+[amused] Un mes después, Estados Unidos descubre lo que nosotros ya sabíamos: eso no era comida mexicana.
+[building excitement] Así que hacen lo único que les queda: cruzar a Tijuana.
+[amused] Por primera vez en la historia, la fila de la garita es para entrar a México. Y es más larga que la de Chuy.
+[amused] Un turista de Ohio prueba un taco de adobada. Llora. Dice que en treinta años nadie le había dicho la verdad.
+[playful] El taquero atiende en tres idiomas: español, inglés y el universal: ¿otro?
+[soft] Mientras, en Michoacán, es día quince. Tu abuela va a cobrar el envío.
+[soft] No hay envío. El que lo mandaba está sentado en su cocina. Y las varillas del segundo piso siguen esperando, como hace quince años.
+[informative] México recibe a once millones de personas en una semana. Todos necesitan trabajo, casa, escuela y doctor. Al mismo tiempo.
+[soft] Tu prima Vale nació en Los Ángeles. Aquí, en la secundaria, le dicen la gringa. Allá le decían la mexicana.
+[warm] Pero también regresan las doctoras, los maestros, los que levantan una casa en tres meses. Y regresa Memo.
+[amused] Memo abre una empresa de inteligencia artificial en Guadalajara. Su primer cliente: la empresa de Silicon Valley que se quedó sin él. Le cobra en dólares.
+[amused] Un año después, Washington anuncia un programa urgente de visas de trabajo temporal. ¿Para quién? Adivinaste.
+[serious] Y no sería la primera vez. En los años treinta, Estados Unidos expulsó a cientos de miles de personas de origen mexicano. Unos años después creó el Programa Bracero… para pedirlas de vuelta.
+[warm] Chuy no vuelve. Abre una constructora en Michoacán. Su primera clienta es tu abuela.
+[warm] Quince años esperando las varillas. Tres meses para terminar el segundo piso.
+
+[thoughtful] Lo real: once millones de personas nacidas en México viven allá, sostienen campos, obras y cocinas… y a millones de familias de este lado.
+[thoughtful] Lo inventado: que una firma pudiera sacarlos a todos en un día. Y lo de Memo. Bueno… casi.
+[firm] Porque Estados Unidos podría construir un muro. Lo que no puede construir es un taco de adobada.
+
+[conversational] ¿Qué crees que extrañaría primero Estados Unidos: a los ingenieros, a los albañiles… o a los taqueros?
+[conversational] Te leo en los comentarios. Y síguenos para el próximo ¿y si…?
+[warm] Y si quieres todavía más contenido, sigue a Pensamientos Inorgánicos en YouTube. Y a Así llegamos hasta aquí, para contenido histórico real.
+[epic, slow] ¿Y si sí?

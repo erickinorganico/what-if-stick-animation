@@ -1,3 +1,5 @@
+> Actualización4nov2026: leer primero 24-criterio-vigente-20261104.md. Sus reglas actuales prevalecen sobre cantidades, herramientas, voz y fórmulas históricas de este documento.
+
 # 02 · Guion y voz
 
 ## Fórmula del guion

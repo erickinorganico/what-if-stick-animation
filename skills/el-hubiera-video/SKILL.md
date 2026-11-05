@@ -7,7 +7,7 @@ description: Úsala para producir, corregir o re-renderizar un episodio del cana
 
 # El Hubiera · producción de episodios
 
-El repo vive en la PC en `<LOCAL_PROJECT_PATH>`. Ya está configurado: tiene `.venv`, Playwright con Chromium y los modelos. Si estás en la nube de Cowork, pásalo a la nube con el puente o trabaja con la copia del proyecto.
+El repo vive en la PC en `<LOCAL_PATH> Lab School\Automatizacion\el-hubiera\`. Ya está configurado: tiene `.venv`, Playwright con Chromium y los modelos. Si estás en la nube de Cowork, pásalo a la nube con el puente o trabaja con la copia del proyecto.
 
 ## Lee primero
 
@@ -25,7 +25,7 @@ idea → guion → voz (1 toma) → tiempos por palabra → tomas en el motor �
 | Paso | Comando o skill |
 | --- | --- |
 | Episodio nuevo | `python herramientas/nuevo_episodio.py epNN-slug "¿Y si …?"` |
-| Voz | Skill **`voz-elevenlabs`**: revisa el manifiesto y el candado, pide `generations_count=1` y no reintentes. Voz Joaquín `<APPROVED_VOICE_ID>`, `eleven_v4` |
+| Voz | Skill **`voz-elevenlabs`**: revisa el manifiesto y el candado, pide `generations_count=1` y no reintentes. Voz Joaquín `rtQzMJmQhSg0YB7cp3ed`, `eleven_v4` |
 | Tiempos | Scribe → `python herramientas/palabras_a_js.py revision/voz-palabras.json proyecto/src/words_ep.js` |
 | Tomas | `proyecto/src/ep.js` con `S(t0, fn, vx)` y anclas `A3('frase')`. Guía en `docs/03-motor.md` |
 | Revisión | `node herramientas/probe.mjs <ep> [--v]` · `node herramientas/snap.mjs <ep> out --hoja 6 [--v]` |

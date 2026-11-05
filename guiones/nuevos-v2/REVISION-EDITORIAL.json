@@ -1,0 +1,327 @@
+{
+  "01-batman-mexico": {
+    "result": "revisado_por_codex_pendiente_humano",
+    "markdownSha256": "6ec9b58cc1322a77ae5635d684a8ccb19b0c8b8b9e009bb426955310e47e0335",
+    "review": {
+      "opening": "Atraco del camión enPeriférico: los detenidos muestran charolas y preguntan por permiso de capa. El conflicto institucional entra desde el gag inicial.",
+      "escalation": "Batman paga nómina honesta; cártel duplica; subasta privada convierte al justiciero en otra organización y su símbolo en franquicia. Ya no es cuento de familia.",
+      "ending": "Cielo lleno de señales rivales; regresan los policías del camión, ahora con capa. Callback negro del primer atraco, con coste para el supuesto héroe.",
+      "feedback": "Incluye Gótica/menosagua/mejorestacos y ofrecimiento deGuadalajara rechazado con la línea pedida. Desarrolla instituciones, violencia e incentivos; voz directa, storyboard con gags y reacción. No atribuye datos reales a su hipérbole."
+    },
+    "humanApproval": "pendiente",
+    "dateLocal": "2026-11-04",
+    "scope": "lectura editorial de texto y storyboard; no revisión audiovisual ni garantía deentretenimiento"
+  },
+  "06-quesadilla-queso-cdmx": {
+    "result": "revisado_por_codex_pendiente_humano",
+    "markdownSha256": "7f73389a2e963f34ce83c1e924c20ebcfee3c8dc9b1ffb2a3347de6844dbb482",
+    "review": {
+      "opening": "Mary escribe menú y agentes grises corrigen nombre con cortesía burocrática; el gag ya muestra control semántico.",
+      "escalation": "Marcha y carpetas ignoradas→INICIATIVAQUESADILLA→foráneos felices/capitalinos ensayando→Secretaría dePrecisión yGranComal→reescritura del pasado y renombrar problemas→castigoCuarto101. Escala nacional, no pelea de comal.",
+      "ending": "Pizca dequeso permite obedecer; un hombre sale delCuarto101 amando alGranComal. Ciudad homogénea y cierre humano literal«HayprogresoenMéxico,pero¿aqué costo?».",
+      "feedback": "DoñaMary, prioridad gubernamental fácil, neolengua representada con ahorita/alrato/mande, referencias1984 y paz administrativa explícita. Delito renombrado no equivale a desaparición real; hechos históricos no se inventan."
+    },
+    "humanApproval": "pendiente",
+    "dateLocal": "2026-11-04",
+    "scope": "lectura editorial de texto y storyboard; no revisión audiovisual ni garantía deentretenimiento"
+  },
+  "08-agua-cdmx": {
+    "result": "revisado_por_codex_pendiente_humano",
+    "markdownSha256": "409a5e1f7eed388292153026ea42b772de7726bde4655164ffc2ada092e3bc6a",
+    "review": {
+      "opening": "Diputado ofrece cubeta para foto; la señora abre su llave y el fotógrafo baja cámara. Abasto desactiva el favor desde el primer gag.",
+      "escalation": "Pozos/Lerma/Cutzamala llegan a colonias; pierden valor pipas clientelares; alcaldía inventa comprobante y regresa mercado de turnos. Cambia el negocio de escasez sin quedarse en junta vecinal.",
+      "ending": "El diputado ahora ofrece carpeta a la misma señora. Ella la toma: ya no se va el agua, se va la mañana. Callback objeto/coste distinto, no abrazo.",
+      "feedback": "Sátira institucional y de incentivos. Sólo las fuentes reales de suministro sonhecho; trámite, políticos yrecorridos soninvención genérica. Agua continua se conserva como regla de esta versión."
+    },
+    "humanApproval": "pendiente",
+    "dateLocal": "2026-11-04",
+    "scope": "lectura editorial de texto y storyboard; no revisión audiovisual ni garantía deentretenimiento"
+  },
+  "10-agua-guadalajara": {
+    "result": "revisado_por_codex_pendiente_humano",
+    "markdownSha256": "630aaeee0d8a699b7364171ad75635299d1cede98f1776cc69ae3b329edd1b78",
+    "review": {
+      "opening": "Gobernador bebe en televisión; familia lo mira y usa garrafón. Contradicción visual de confianza, sin sermón previo.",
+      "escalation": "Agua segura hipotética hasta toma→campaña no convence→garrafoneros certifican misma agua→notarios/obispo/oposición→Estado entra al mercado y financia infraestructura con el envase.",
+      "ending": "Misma agua vuelve a la misma casa dentro de garrafónoficial; gobernador ahora la sirve deeseenvase ysube aprobación20puntos inventados. Callback de confianza/marketing con costo institucional.",
+      "feedback": "Reemplaza negocio familiar tierno por sátira cultural y política; mantiene Chapala y límite sanitario hasta toma. Los puntos deaprobación, organismo ycampaña sonhipérboles, no encuesta ni gobierno reales."
+    },
+    "humanApproval": "pendiente",
+    "dateLocal": "2026-11-04",
+    "scope": "lectura editorial de texto y storyboard; no revisión audiovisual ni garantía deentretenimiento"
+  },
+  "11-mexico-pib-10": {
+    "result": "revisado_por_codex_pendiente_humano",
+    "markdownSha256": "5cfb37399c6051234fa64975878556549116615ef904990ce9a00a8d6c5e7114",
+    "review": {
+      "opening": "Pedro busca trabajo y en15minutos acepta siete; brazos y letreros lo jalan desde los primerossegundos.",
+      "escalation": "Competencia por trabajadores→cuellos físicos→fila de transformadores convertida en colonia→ventanillas recursivas→ahoritómetro y tiempo escaso→Pedro gana más pero no habita su departamento. El personaje recorre un sistema nacional.",
+      "ending": "Vitrina subasta domingo libre y letrero«Se solicita alguien que viva aquí»enel departamento dePedro. Paga el primer letrero con coste sobre uso deltiempo, sin moraleja de delegación.",
+      "feedback": "Cambio integral respecto herrería/familia. Humor de incentivos, trabajo, infraestructura y cultura. 10%real2027–36base2026/multiplicador2.5937se conserva, sueldos ilustrativos sujetos a competencia no multiplicación automática."
+    },
+    "humanApproval": "pendiente",
+    "dateLocal": "2026-11-04",
+    "scope": "lectura editorial de texto y storyboard; no revisión audiovisual ni garantía deentretenimiento"
+  },
+  "17-territorio-instituciones": {
+    "result": "revisado_por_codex_pendiente_humano",
+    "markdownSha256": "96b457774b289519c813e7a12242168be1ff5baba2735bca6cd142b31a5e4c46",
+    "review": {
+      "opening": "Tania sube altren para negociar pacto fiscal y recibe amenaza de secesión en el asiento de enfrente; voluntad y riesgo institucional desde el arranque.",
+      "escalation": "Distancia ytransferenciasfiscales→listasregionales→consejooriginario conacuerdo propio→negociaciónbloqueada→capitalitinerante conpoderesenvagones→estadossepeleanporhospedarla. La geografía se vuelve regla depoder, no sólo relato de recaudador.",
+      "ending": "Capital/tribunal quedan atrapados en el mismo tren fronterizo que debe resolver ellitigio; conservarterritorio produjo el problema de dónde dejar capital. Remate espacial/institucional propio.",
+      "feedback": "Transformaciónnacional y humordepoder/federalismo;1848,Texas yMesillaseparados,divergenciapre1846 explícita.180años/pactos/referéndums sonficción yconsejoindígena conservaagencia. Elotrocamino18seestádiferenciando para noclonar estemotor."
+    },
+    "humanApproval": "pendiente",
+    "dateLocal": "2026-11-04",
+    "scope": "lectura editorial de texto y storyboard; no revisión audiovisual ni garantía deentretenimiento"
+  },
+  "20-guerra-fria": {
+    "result": "revisado_por_codex_pendiente_humano",
+    "markdownSha256": "5c4d8512ea9e9383cac8e94a160d951fe444ee00d6fc573afa60ea1cfa3eb48a",
+    "review": {
+      "opening": "Embajadores compiten con una ydosantenas enManzanillo; aduanero sellasinpreferencias. Rivalidad absurda pagada antes delextractohistórico.",
+      "escalation": "Pacto1991renovado→SecretaríaEquidistancia→doblescostes,trenesyMundial→redesincompatibles→GranAdaptador/peaje→espíasypropaganda→error detraduccióncorrigeMarisol→acercamientoamenazaingresos→México saboteapaz. Cadagolpe aumenta dependencia ycoste.",
+      "ending": "Memorándum«traduzcaunpoquitopeor»,peajesuben yremate«Méxiconoladejó». Agencia mexicana oscura nacida del incentivo, no nostalgia decartas ni clasegeopolítica.",
+      "feedback": "Reescritura íntegra con humorinstitucional,paranoia,tecnología yconflictoconcreto. Divergencia1991 declarada,URSSrealdisuelta,redes/fechas2022–26/porcentajesnuevos sonsátira. Existeinternet,deformaindependiente; nofalsaafirmaciónhistórica. Storyboard32escenas cubrevoz,cues yacting."
+    },
+    "humanApproval": "pendiente",
+    "dateLocal": "2026-11-04",
+    "scope": "lectura editorial de texto y storyboard; no revisión audiovisual ni garantía deentretenimiento"
+  },
+  "03-mexico-sin-inflacion": {
+    "result": "revisado_por_codex_pendiente_humano",
+    "markdownSha256": "d6e289a97119e45a0b3765cc6efa3b843c484659dabec80cd1a2b5062ac33b98",
+    "review": {
+      "opening": "MonumentoalCero enReforma y«porfinalgoenestepaísquenosube»: absurdo nacional pagado temprano, no compra de lavadora.",
+      "escalation": "Cero por oferta funcional→micro condosagujas distingue estabilidad/actividadapagada→metabajapositiva→leyCeroEterno→choque deoferta yestanflación→adulteración delboletín. Se explica el conceptocon imágenes e incentivos.",
+      "ending": "Llavero comoúnico producto dela canasta, boletín en cero mientras preciosreales suben; pintada«elpaís». ParchesClaude distinguenposibilidaddeceroapagadoyíndicefraudulento de inflaciónreal.",
+      "feedback": "Reconstrucción completa y explicación legible: estanflación noes0; metaspositivas bajas tienen colchón, margen monetario y ajuste relativo.3%Banxico tieneuniversoanual;no se dicequeinflaciónpositivasealey universal. Fuentesfuera devozsalvoelconceptoque hacefalta. Board22escenas/anchorscorregidos."
+    },
+    "humanApproval": "pendiente",
+    "dateLocal": "2026-11-04",
+    "scope": "lectura editorial de texto y storyboard; no revisión audiovisual ni garantía deentretenimiento"
+  },
+  "04-mexico-sin-corrupcion": {
+    "result": "revisado_por_codex_pendiente_humano",
+    "markdownSha256": "9cb31f3b0cf45a597eaf69fb82f602be1307540e7d9663f90cc06fe854ff228c",
+    "review": {
+      "opening": "Güero ofrece billete, licenciado lo ve/devuelve y dice«¿Eso fueunsoborno?Aquínohacemoseso». SinRocío ni alisarconlapalma.",
+      "escalation": "Mismobillete entráfico,oficial«Pues sino soyperro»ymulta→concesión/compadre→sobrino/aduana→desaparecenincentivosdeatrasar→obras,seguridadyconfianza→inversiónycrecimiento. Años y resultados sonhipótesis, no teoremaempírico.",
+      "ending": "Billete viejo termina enMuseodelaTransa yporprimeravezabrepuerta mediantepasegratis. Vuelve elobjeto delinicio transformado.",
+      "feedback": "Recorridos y líneas humanas conservados, calles/trámites/instituciones ycrecimientomayorqueChinacomo desenlaceficticio. El rojo ocurreANTESdecruzar enboardcorregidoporClaude. ENCIGsólofundamentapreguntasdeexperiencia,no cifrasinventadas."
+    },
+    "humanApproval": "pendiente",
+    "dateLocal": "2026-11-04",
+    "scope": "lectura editorial de texto y storyboard; no revisión audiovisual ni garantía deentretenimiento"
+  },
+  "05-prohibido-bolillo": {
+    "result": "revisado_por_codex_pendiente_humano",
+    "markdownSha256": "ef48e886c01684cf851db13d0777f57b9410dfb37cb0b89bab2e789cc4bd68d0",
+    "review": {
+      "opening": "DonPancho mete tamal enbolillo;14patrullas gritan«ALTOAHÍ,ESOESILEGAL». Primera prohibición directa, sindisclaimer narrado.",
+      "escalation": "MismoPancho vuelvepuestoMOLLETES yelinspectormideconREGLA→70%CDMX enhipérbole→tortasextintas→costratérmicayexportaciones→navepropiaMigajón→naveencontradagóticaimposible→pasillos/latidos→núcleotortadetamal.",
+      "ending": "La abertura tamaño humano y Chuyconcostra anticipan horror; gritodeliniciose cortaen«ILE—»por glitch. Naveencontradanorevelapanporfuera;revelaciónreservadaalnúcleo.",
+      "feedback": "Sigue todas lasescalas humanas,horror cósmicovisualysonoro, resumenEventHorizonbreveparafraseadosinclipsnidialogos. Misma persona,molletes,regla,jamón/helado,viajeduranteañosydistanciaañosluzcoherentes.70%/costra/naves sonabsurdoficticio,norealestadística."
+    },
+    "humanApproval": "pendiente",
+    "dateLocal": "2026-11-04",
+    "scope": "lectura editorial de texto y storyboard; no revisión audiovisual ni garantía deentretenimiento"
+  },
+  "07-agua-tijuana": {
+    "result": "revisado_por_codex_pendiente_humano",
+    "markdownSha256": "71aebd26ee52b43e4a123a124688c96bdf2cd96f19cfb7b47f1b0d2050a17aaf",
+    "review": {
+      "opening": "Neto toca claxon3amynadiesale:ya hayagua. Gag laboral ylocal inmediatos.",
+      "escalation": "AguaColorado/bombeo continuo→economíaescasezsecontrae→atracciónurbana→dependenciaeléctrica→respaldoDIÉSELmantieneagua→piperoscontrolanlogística/contratos→poderse desplazaconcostepúblicoyhumo.",
+      "ending": "Mismapipa3am,ahoralosingenieroscorrenconcontrato yNeto pregunta«¿Y si mañanano llego?». Muestra incentivodepoder sinhaber cortadoelagua.",
+      "feedback": "Premisadeaguacontinuaseconserva inclusoapagón, motorenergéticodistintodeMonterrey. Se ampliaduraciónpropuestabreve paradesarrollarlasinacelerar. Bombeohechoreal;respaldo,contratosyfacturas sonsátira,sindatosnuevosactuales."
+    },
+    "humanApproval": "pendiente",
+    "dateLocal": "2026-11-04",
+    "scope": "lectura editorial de texto y storyboard; no revisión audiovisual ni garantía deentretenimiento"
+  },
+  "09-agua-monterrey": {
+    "result": "revisado_por_codex_pendiente_humano",
+    "markdownSha256": "1433a237059fe24d9c0000c94b296b699e9e6e7914366cc8f522ad76bdc81c5c",
+    "review": {
+      "opening": "Mangueracocheradomingo,vecinoserepersigna;callecambiaa lavadoencoreografía.",
+      "escalation": "Abastodomésticocontinuo inclusoensequía→industriaobligadaareúso→patentesregias/innovación→límitedeconsumodominguero→permisosmunicipalessorteados→especulación/mercadodecocheras.",
+      "ending": "La cuadra ve lavarcochera como finaldeportiva; vecinoque antes sepersignabaahoracobraentrada. Callback transformaterroraunconsumoenmercado deespectáculo.",
+      "feedback": "Ya no terminacongentesinagua ni copiaTijuanavenderciudad/fallobombeo. Conservar2022yobrasanunciadascomohistoria,continuidadyreúso7vecessonhipótesis,casasnuncasufrencorte. Efectosindustriales/institucionalesdibujables yrematepropio."
+    },
+    "humanApproval": "pendiente",
+    "dateLocal": "2026-11-04",
+    "scope": "lectura editorial de texto y storyboard; no revisión audiovisual ni garantía deentretenimiento"
+  },
+  "12-mexico-pib-20": {
+    "result": "revisado_por_codex_pendiente_humano",
+    "markdownSha256": "6de6c7246ed79e3d0e0124d491f9050afc2922f548ab6b86c8cc13429fdf8a11",
+    "review": {
+      "opening": "Presidente anuncia×6;Javiermultiplicanómina yexige«páguemimiseis». Gráficapasteldesigualpagaexpectativa.",
+      "escalation": "Coordinaciónderecursos/OficinaRitmo→territoriosrecibendesigual→movimiento¿ymiseis?→promesaselectorales→Seisómetropersonal→malestarenplazas→aplicaciónocultanúmerosindividuales.",
+      "ending": "Appmuestra6,nóminasigueigual yjefefelicitaaJavier. El multiplicadornacionalno esingresopersonal, chistepagaconindicador falseado.",
+      "feedback": "Dejapersonajedomésticopararecorrer distribuciónyinstituciones.1.2^10≈6.1917correcto;×30/×1.5/1.4/31soncasos ficticios, noobservaciones ni garantías. Seretiróconfeti ornamentalmedianteparchedeClaude,fuentes yactuación conservadas."
+    },
+    "humanApproval": "pendiente",
+    "dateLocal": "2026-11-04",
+    "scope": "lectura editorial de texto y storyboard; no revisión audiovisual ni garantía deentretenimiento"
+  },
+  "13-mexico-pib-30": {
+    "result": "revisado_por_codex_pendiente_humano",
+    "markdownSha256": "07267b97a1ee579732350a442e38f187a4de31a6be11ef6ca22212ccd4133751",
+    "review": {
+      "opening": "Hospitalseinaugura mientrasgrúaponemás pisos;planosquedanobsoletosduranteaplauso.",
+      "escalation": "×13.8real→tráficovertical→formaciónaceleradainsuficiente→ofertasterrenoyrentasdesiguales→migracióninversa→faltatiempo→reformalegaldía26horas.",
+      "ending": "Relojesoficialesmarcan25/26perosolsemetedeigualmanera;Tierranoseenteró ygrúasiguedando pisosconlámpara. Rematecontra límitefísico.",
+      "feedback": "Reescrituraextrema, nofondafamiliar. ParchesdeClaudeeliminanimplicaciónPIBduplicapatrimonios/rentasindividuales.1.3^10≈13.7858yduplicación2.64años,pruebatensiónno pronóstico,restohipérbole."
+    },
+    "humanApproval": "pendiente",
+    "dateLocal": "2026-11-04",
+    "scope": "lectura editorial de texto y storyboard; no revisión audiovisual ni garantía deentretenimiento"
+  },
+  "14-mexico-como-china": {
+    "result": "revisado_por_codex_pendiente_humano",
+    "markdownSha256": "08a1c8fba191155dcc4e87c402c07b627035b81b60a3ba988d55c3dfdb92b4b5",
+    "review": {
+      "opening": "Maletadelmodelochino contieneúnicamenteservilleta9.8. Promesadeltítulocontrasta tasa ymecanismo.",
+      "escalation": "Comisión9.8→fábricas/aprendizaje→trenes/puntualidad→costeambientalcielomostaza→exportaciónsinofertalocal→celebraciónnúmero→descubren29añosdelperiodohistórico.",
+      "ending": "Comisiónvota19añosmásdemostaza;relojcorregidoa10cumplidos/29paraquesiga voz. Sátiradecopiarúnicamentemétrica.",
+      "feedback": "ReferenciaChina1979–2007/promedio9.8históricoseparadade10añosmexicanoshipotéticos,no caricaturniétnica nicopiarrégimen.1.098^10≈2.547correcto;costesBMencuadradosyconsecuenciascielo/pueblo inventadas."
+    },
+    "humanApproval": "pendiente",
+    "dateLocal": "2026-11-04",
+    "scope": "lectura editorial de texto y storyboard; no revisión audiovisual ni garantía deentretenimiento"
+  },
+  "15-mexico-como-eua": {
+    "result": "revisado_por_codex_pendiente_humano",
+    "markdownSha256": "74e17b0c0c226d1d71c14de6139513f23ac8af01c315b900f60f1ed35e0069f1",
+    "review": {
+      "opening": "Cuartainauguración depuenteinconcluso,empresariodetijerasfeliz:explica beneficiario deobrainacabada.",
+      "escalation": "2.8%real máscontratos/presupuestoscumplidoscomoSUPUESTO→obrasseacaban→crisisdeindustriainauguraciones→políticosinauguranbaches→Ramiroensayapaquetes→exportatijerasapaísesconobrainconclusa.",
+      "ending": "Ramirorecibepremioexportador,inaugurabodegaypreguntasilepuedenvolverainaugurareljueves. Callbackdeseo/incentivo propio, sinTV ni colchones.",
+      "feedback": "MotorrehechodistintodeArgentina. BEA2024ediciónenero2025/2.8anual,1.028^10≈1.318;igualporcentajemantieneproporción,nobrechaabsoluta,boardbarras correcto. Contratosnofingenderivacióndel2.8 niingresosHouston."
+    },
+    "humanApproval": "pendiente",
+    "dateLocal": "2026-11-04",
+    "scope": "lectura editorial de texto y storyboard; no revisión audiovisual ni garantía deentretenimiento"
+  },
+  "16-mexico-seguridad-japon": {
+    "result": "revisado_por_codex_pendiente_humano",
+    "markdownSha256": "e10d4002dbef0d9d66f519f725c0371e94691ee27a5c5224ebdbbb79d4940864",
+    "review": {
+      "opening": "Vendedorgolpea blindaje ycliente pregunta¿paraqué?:elnegociodelmiedoesblancosatírico,no víctimas.",
+      "escalation": "Tasabajahomicidiointencional→demanda/blindaje/nota roja→campañaparareavivarmiedo→casetaprivada sostienevalorinmobiliario aunqueotrosdelitossiguen→cuotas crecen.",
+      "ending": "Germánvendetrenquilidadencaseta,vecino repite¿paraqué? yrecibe«Parasutranquilidad». Industria seadaptaincentivo, nosermóncultural.",
+      "feedback": "Claudeacotó muerteviolenta aHOMICIDIO,paísseguroseformulabajoeseindicador;robo/fraude/choquescontinúan.0.23/100milJapón2021correcto, cifraMexomitada porcolumna noinequívoca. Confianzaexageradapersonajeses ficción, noseguridadabsoluta."
+    },
+    "humanApproval": "pendiente",
+    "dateLocal": "2026-11-04",
+    "scope": "lectura editorial de texto y storyboard; no revisión audiovisual ni garantía deentretenimiento"
+  },
+  "18-territorio-optimista": {
+    "result": "revisado_por_codex_pendiente_humano",
+    "markdownSha256": "c88f20c1ebb277182eabf63c4719283c392bc63d6e33215c97e6da9269ac07f8",
+    "review": {
+      "opening": "PremiofílmicoenLosÁngeles/AltaCaliforniaen español;extranjerosdependendetraducción. Poder cultural visible desdeprimergag.",
+      "escalation": "Arreglopre1846+instituciones inclusivas/inversión→escuelas/studiospúblicos→pueblooriginarioarrendatierra yreciberegalías/voto→cineglobalenespañol→EUA pideprotección→negociacióncomercial→faltaconflictoclásico→películadenuestromundorealcomocienciaficción.",
+      "ending": "Film¿y siMéxicohubieraperdido...? triunfaEUAyenMéxiconadieselocree. Remateoptimista/metacultural, nootrotrennihomelesspor defecto.",
+      "feedback": "Nuevaestrategiapropiaconprogresonacionalycostedramaturgico. Tratado1848/Texas/Mesillaseparados;supuestoscausalesexplícitos,no riquezaautomáticaporelsuelo. SeomitióColoradocursoentero. ContrasteprotegertelcineMexrespaldadoporfuentecomplementarialegislativa,mundo/mesadelfilmsonsátira."
+    },
+    "humanApproval": "pendiente",
+    "dateLocal": "2026-11-04",
+    "scope": "lectura editorial de texto y storyboard; no revisión audiovisual ni garantía deentretenimiento"
+  },
+  "19-mexico-wwii": {
+    "result": "revisado_por_codex_pendiente_humano",
+    "markdownSha256": "e42f2191cada732be602cf3d246126e0b3691e13f70e5e09944338869b806984",
+    "review": {
+      "opening": "Flotadepotencialejanaparada porrefacciónmexicana;ventanillaQuerétaro responde vuelvalunes. Pagopronto antesdeexplicarorigen.",
+      "escalation": "VictoriamexicanarealAliados/201→máscapacidadindustrialficticiapre1942→reconversióntractoresregalodiplomático→monopoliorefacciones→ventanillasevuelvecentropoder→barcos/satélitesdependen inventario.",
+      "ending": "Síhay3piezasperoempleadaveviernes2:58yrespondevuelvalunes. Callback conpoderindustrial yfricciónburocrática,no molino tierno.",
+      "feedback": "Reformularvictoriacomomayorpesoindustrial,noMéxicoganósolo. Fechas1942/27mar1945conservadas,ningunaoperación201inventada. Flotasmonopolio/paísgenéricosficción. Claudequitóconfeti sin cambiarfábricavacía."
+    },
+    "humanApproval": "pendiente",
+    "dateLocal": "2026-11-04",
+    "scope": "lectura editorial de texto y storyboard; no revisión audiovisual ni garantía deentretenimiento"
+  },
+  "21-canal-10mil": {
+    "result": "revisado_por_codex_pendiente_humano",
+    "markdownSha256": "303d814487a65ba3f07c8e4def867ed50df98656028c1de33046aa7c0c0fd4f0",
+    "review": {
+      "opening": "Contadorinventado10mil,unmonitolevantamano ytodoslosafectadosaparecen. Guiñometadesdelaprimerainterrupción.",
+      "escalation": "Personajescomparancostesdelashistorias→SindicatoMonitos→rechazanrematetierno/café→huelga→seborraelmundoyqueda narrador sinpresupuesto→suscripciónconriesgodepagaralosmonitos.",
+      "ending": "Manitainicialregresaconrecibolargo. La comunidadseconstruyeconconflictodeautoría/figuras,nocurso motivacional.",
+      "feedback": "Númeroimaginarioexplicitado,unasolainvitación,noingresossorteosnuevaproducción. ParchesdeClaude sustituyenesposasinexistentespor14patrullasrealesdelahistoria05yretiranconfeti;guionnoinsinúa actualaudienciamedida."
+    },
+    "humanApproval": "pendiente",
+    "dateLocal": "2026-11-04",
+    "scope": "lectura editorial de texto y storyboard; no revisión audiovisual ni garantía deentretenimiento"
+  },
+  "25-cuenta-100mil-italia": {
+    "result": "revisado_por_codex_pendiente_humano",
+    "markdownSha256": "6718c2e5bae44ca6bb4f3009e7a10c58b8c4af7f05a3cfbf4157e16a0d8341d5",
+    "review": {
+      "opening": "FrasehumanaliteralItalia,lacamisadelaesposasequedaamediodoblar;promesaactivauncontratoficticio.",
+      "escalation": "Ellatomaorganizacióndelcontenido→trabajo en exceso→cada1kalfilerItalia/costosueño→90khablavideofuera de cámara→maletaúnica→100kimaginadoscumplencondicióncongirodelapromesa.",
+      "ending": "Ella viaja,élqueda comoguíavirtual/transmisorensillóndurante2semanas. Remate deliberadamentetramposodelcontrato,costodelacuentayagenciadepareja, no moralejalinda.",
+      "feedback": "Promesaexactapreservada,desarrollocomoficciónyMETAsinestadoreal,fechasreservasciudades/biografíaconfirmadas. Esposasinidentidadrealatribuida,personajeyaccionespendientesderevisiónhumana. ConfetiretiradoporparchesdeClaude;no ejecución de calendario o compra."
+    },
+    "humanApproval": "pendiente",
+    "dateLocal": "2026-11-04",
+    "scope": "lectura editorial de texto y storyboard; no revisión audiovisual ni garantía deentretenimiento"
+  },
+  "26-argentina-sin-inflacion": {
+    "result": "revisado_por_codex_pendiente_humano",
+    "markdownSha256": "56f96ac526da20bdc9a50ddc0806dc3f88a41da5da488414a76d777a7301bd13",
+    "review": {
+      "opening": "EconomistasdeTVquedansilenciososante0;cartelÚLTIMOMOMENTONOPASONADA. Delruido a lasinstituciones, sinalmacenera/pizarra central.",
+      "escalation": "Cero máscontratos/confianzaenpeso comosupuestos→cambio/TVpierdenurgencia→paritariasnegocianreparto→cuotasno selicúan→créditolargo ycolchonesfinos→yerbasube sinmoveragregado→pánicovuelve.",
+      "ending": "TVgritaVOLVIÓ ylascolchoneríasagotanmodelogrueso. Confianzaheredadaymiedose conviertenenmotorcómico propio.",
+      "feedback": "ParchesdeClaude retiranpoderdecompraexactodelhogar,preciosindividualesquietosyúnicotemahistóricodesindicatos. Créditos/FXno sederivansólo de0;haycondicionesficticiasexplícitas. DatoINDECSep2026+1.9mensualconfecha, noanual ni realidad0."
+    },
+    "humanApproval": "pendiente",
+    "dateLocal": "2026-11-04",
+    "scope": "lectura editorial de texto y storyboard; no revisión audiovisual ni garantía deentretenimiento"
+  },
+  "22-visitas-10mil": {
+    "result": "revisado_por_codex_pendiente_humano",
+    "markdownSha256": "5477253d93bb0f8e9ba832151f52ab0720d6a5a35448d78e988d612c7c905aca",
+    "review": {
+      "opening": "Equipo prepara10milsillas ysolamente llegaPepe; variasreproduccionespuedenseruna persona. Métricasedesinflanenacción.",
+      "escalation": "Llenanplazacon grupoimaginario6+México→dato2024de16.9%nointernet→personajeselegidosdesconocencanal→sólolosnoconectados miranescenario→conductorolvidaguion→comentarabajo setomaliteral.",
+      "ending": "1690sentadosenpisocomentaenvozalta,tamales/sonido/peinado,conductorhuye. Preguntaidentificaciónbreve,no abrazo deabuela.",
+      "feedback": "Dato2024claramente separado del desconocimiento elegido paraesta fiestaficticia por parchedeClaude.1690proporción/10mil6+correcto;noaudienciarealni regla deconteoplataforma. Actuación yremate mantienen oralidadmeta."
+    },
+    "humanApproval": "pendiente",
+    "dateLocal": "2026-11-04",
+    "scope": "lectura editorial de texto y storyboard; no revisión audiovisual ni garantía deentretenimiento"
+  },
+  "23-visitas-100mil": {
+    "result": "revisado_por_codex_pendiente_humano",
+    "markdownSha256": "2694c7a5c1d3da7155530091252c9be55ee2d1946b97b9dc212f01d0d057c9c9",
+    "review": {
+      "opening": "Showdeestadio pide linterna/laptop yuno levantaambos. Gag demuestra categorías superpuestas.",
+      "escalation": "100milpersonasimaginarias6+México→81700usocelular/36600usocomputadora→inspectorsumaaparatos ymideaforomal→formulariopersonadoble/puerta3→máximounaparato→cuentacabezasydeclaraaforo→públicocansado no prende show.",
+      "ending": "Estadiollenooscuro yúnicaluz esinspectorsostienelaptop. Hipocresía/reglaspaganelgag,conpreguntadefila al espectador.",
+      "feedback": "Claude corrigió MÁXIMOunaparato y conteo de PERSONAS en vezde100milaparatos;admitegruponeither. Usodevsposesiónclaroyaparatoprestado dibujado;nointerseccióncalculada ni100milcasas. Distinguidodelnuevo24comercial, nootrocomitéexpulsor."
+    },
+    "humanApproval": "pendiente",
+    "dateLocal": "2026-11-04",
+    "scope": "lectura editorial de texto y storyboard; no revisión audiovisual ni garantía deentretenimiento"
+  },
+  "24-visitas-millon": {
+    "result": "revisado_por_codex_pendiente_humano",
+    "markdownSha256": "84c0864ba361bc158f236f3b8205abbc5576f645c83a872bdfe0f44a79d4d29b",
+    "review": {
+      "opening": "Truequemasivode1millónhipotético;Brendacontomouno frenteaseñordecarretilladenovelas. Deseoconcretoentramaantesdeestadísticas.",
+      "escalation": "Grupoalfabeta12+México/625milLECTORESlibros12meses/209milLECTOREScómic→inventariovoluntarioficticio→Brendabuscatomodos→appcobra/ranquea→especulación→tomo2cotizaencarretillas→tomounoescasea yhabilitatrueque.",
+      "ending": "Brendaconsiguetomodosperoentregóeluno;especuladorsevalacajasleer. Ironíacomercial/métricasdemanda, noautoridadleyendocómicniconsolacióndelabuelo.",
+      "feedback": "Rehechoparadiferenciarsede23ycorregirmultitudvaciadasinbase. ParchesdeClaude separanLECTORESdeEJEMPLARES,montañasypreciosdemercadoficticios;ningunaproporción3:1deobjetos ni5mesescalculadosdesdelos lectores. Noaudienciareal niinterseccióninventada. Una pregunta detítulo."
+    },
+    "humanApproval": "pendiente",
+    "dateLocal": "2026-11-04",
+    "scope": "lectura editorial de texto y storyboard; no revisión audiovisual ni garantía deentretenimiento"
+  }
+}

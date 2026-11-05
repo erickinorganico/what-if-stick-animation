@@ -1,0 +1,65 @@
+# Guion de voz v1 · ¿Y si Cristiano Ronaldo hubiera nacido en México?
+# Narrador: Joaquín (rtQzMJmQhSg0YB7cp3ed) · eleven_v4 · español de México · una sola toma
+# Una línea, una imagen. Funciona solo: no depende de otros episodios.
+
+[intriguing, slow] Es domingo. En un llano de Tijuana, un señor de cuarenta y un años mete tres goles.
+Los de su equipo le dicen "el Bicho".
+[conversational] Juega con tenis prestados, pide la pelota en cada jugada y celebra brincando con los brazos abiertos.
+Fuera de su colonia… nadie sabe quién es.
+[firm] Se llama Cristiano Ronaldo.
+[intriguing, slow] ¿Y si Cristiano Ronaldo hubiera nacido en México?
+[epic, slow] ¿Y si sí?
+
+[conversational] En la vida real, Cristiano nace en mil novecientos ochenta y cinco, en un barrio en los cerros de Madeira, una isla de Portugal.
+Su familia no tiene dinero. Su papá es utilero en el equipo del barrio.
+A los doce años, el Sporting de Lisboa lo ve tres días… y lo ficha.
+Se va solo a otra ciudad, con escuela, casa y entrenadores pagados por el club.
+[firm] Hoy tiene cinco Balones de Oro y más de novecientos goles oficiales.
+[reflective] Ahora, mismo niño, mismo talento, la misma hambre… pero en un barrio en los cerros de Tijuana.
+Y hay tres finales posibles.
+
+[tense] Escenario uno: el llano.
+Cristiano tiene doce y quiere una prueba en un equipo profesional.
+La primera visoría que encuentra… le cobra la inscripción a su mamá.
+La segunda también. Y en ninguna aparece alguien que de verdad pueda ficharlo.
+[soft] Su mamá hace cuentas. El gas, la renta, los tenis.
+A los quince entra a trabajar a un taller.
+[amused] Los domingos es leyenda de la liga de su colonia. Le pagan con tacos y refresco.
+[reflective] Y así llegamos al llano del principio.
+
+[conversational] Escenario dos: la Liga MX.
+Ahora sí, un visor lo ve y entra a fuerzas básicas.
+Debuta a los diecisiete, mete goles y se vuelve ídolo.
+Un club de Europa pregunta por él.
+[amused] Y su club responde con una cifra que haría llorar al Real Madrid.
+[conversational] Durante años, además, en México existía el "pacto de caballeros":
+aunque se te acabara el contrato, no te podías ir a otro equipo sin permiso de tu club.
+En dos mil veintiuno, la autoridad de competencia multó a diecisiete clubes por eso.
+[firm] Cristiano se queda. Gana bien. Está cómodo.
+Y en una liga donde desde dos mil veinte nadie desciende, quedar último… no cuesta nada.
+[tense] Con la Selección, llega a los Mundiales.
+México solo ha llegado a cuartos de final dos veces, en mil novecientos setenta y en mil novecientos ochenta y seis.
+En el Mundial de dos mil veintiséis, jugando en casa, se fue otra vez antes de cuartos.
+[amused] Cristiano termina como el mejor jugador de la Concacaf… y comentarista de la tele los domingos.
+
+[building excitement] Escenario tres: el que se escapa.
+Cristiano no espera a que lo vendan. A los diecinueve se va a Europa, aunque sea a un equipo chico.
+Le cuesta el idioma, el frío y la comida. Pero mete goles.
+[conversational] Y no sería el primero: en los ochenta, Hugo Sánchez se fue de México a España y ganó cinco veces el título de goleador.
+[epic] En este escenario, Cristiano sí llega a la cima.
+[reflective] Pero llega a pesar de todo… no gracias a nada.
+
+[reflective] Ahora, lo honesto.
+Nadie sabe qué habría pasado. El talento de Cristiano es de uno en un millón.
+Pero en Portugal, a los doce, alguien lo vio y alguien le apostó.
+En México, el talento sí nace.
+Lo que tiene que salir a buscarse… es la oportunidad.
+[soft] Y a lo mejor, el próximo Cristiano ya nació aquí.
+[soft smile] Y este domingo… juega en un llano.
+
+[conversational] Lo real: la historia de Cristiano, el pacto de caballeros, la multa, la liga sin descenso y los Mundiales.
+Lo inventado: el Cristiano de Tijuana y sus tres finales.
+
+[intriguing] ¿Cuál crees que habría pasado: el llano, la Liga MX o Europa?
+Te leo en los comentarios. Y síguenos para el próximo "¿y si…?".
+[epic, slow] ¿Y si sí?

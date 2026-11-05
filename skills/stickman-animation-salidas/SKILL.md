@@ -38,10 +38,12 @@ python herramientas/salidas.py salidas.json                              # todo 
 
 ## Reglas de portada (canal)
 
-- Remate de 1–3 palabras en serif itálica que termina en punto rosa.
-- Fecha o punto de quiebre en Geist Mono.
-- Personaje grande (30–50 %) con expresión fuerte y el objeto de la premisa; fondo oscuro con brillo.
-- **Revisa:** la etiqueta mono no tapa caras ni props legibles; la tarjeta final no choca con un título grande; el título del vertical no toca el badge PARTE N/3 (x 849–1026, y 148–169).
+Aplicar [miniaturas-el-hubiera](../miniaturas-el-hubiera/SKILL.md), adaptada de miniaturas-pi por solicitud de Erick el 1/nov/2026. Esa guía sustituye la receta fija de personaje grande, expresión fuerte y fondo oscuro con brillo.
+
+- Una relación narrativa visible y propia por fragmento; no repetir cuadro/layout cambiando sólo título o número.
+- Conservar stickman, paleta y fuentes vigentes; texto complementario normalmente de 0–4 palabras. Serif itálica/punto rosa como recursos, sin sacrificar lectura móvil.
+- Los generadores y cuadros reales son herramientas de ejecución, no conceptos aprobados. Recomponer horizontal/vertical según la idea y revisar la hoja de serie a 168 px de ancho.
+- Revisión esencial y correcciones sólo donde fallen: legibilidad, recortes, identidad, coherencia con el fragmento y diferenciación. Versionar propuestas, conservar anteriores y registrar aprobación por archivo.
 
 ## Copys (`copys/copys.md`, skill `copy-redes-ai-lab`)
 
@@ -57,3 +59,14 @@ python herramientas/salidas.py salidas.json                              # todo 
 - Si el largo pasa de ~4:30, las partes duran más de 90 s: avísalo y ofrece 4 partes.
 - Entrega `fragmentos/`, `portadas/`, `copys/` y la evidencia (`tiempos.json`, `qa.json`, hojas). Responde con las rutas.
 - **No publiques ni programes** sin aprobación explícita.
+## Portadas desde cuadros reales y partes N/5 (ep06 R2, 31 oct 2026)
+
+- **5 partes:** `overlays_fragmentos.mjs <ep> <dir_temporal>` genera `badge-NdeM` y `fin-parteN`. Copia sólo las que falten a `herramientas/overlays/`, sin sobrescribir las existentes.
+- **Shorts ≤ 35 s:** revisa los `clips.json` heredados. En ep06 el Short de Taco Bell venía de 44.5 s y se recortó a 29.8 s, entre oraciones completas.
+- **Portadas sin generador nuevo:**
+  1. Corre `node portadas_r2.mjs <ep> <salida> portadas.json`. Toma el cuadro limpio (`?noui=1`) y apaga los sellos de escena.
+  2. En vertical, amplía la ventana de escena a pantalla completa.
+  3. Compón texto y marca según miniaturas-el-hubiera; no impongas el mismo remate/layout a todos los clips.
+  4. Usa `top` para mover marca y etiqueta si chocan con un letrero.
+  5. Revisa la hoja de todas las portadas en una sola imagen.
+  6. Corrige sólo las que fallen: en ep06 se rehicieron 3 de 11, por texto cortado, un personaje fuera de cuadro y un letrero sobre la marca.

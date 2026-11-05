@@ -1,0 +1,1860 @@
+{
+  "scope": "local consolidated documentation snapshot; no remote push",
+  "new_scripts": 25,
+  "new_storyboards": 25,
+  "historical_documents": 70,
+  "historical_episodes": 23,
+  "omitted_inherited_templates": 11,
+  "records": [
+    {
+      "path": "skills/README.md",
+      "source": "channel-current-skills",
+      "source_sha256": "85aff3c6d34082b300f8b6e93b75d56773f1311c16a23c0178a70fd1d2d22757",
+      "output_sha256": "8eb76b90952299bb968fb25783314885fde6686e325d603a6a64a5cfbcdbd18a",
+      "bytes": 1170,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/el-hubiera-video/SKILL.md",
+      "source": "channel-current-skills",
+      "source_sha256": "44682f19ced42dac325e15c8b88b8dacdcfe07edc13b46516e56df9191ce623f",
+      "output_sha256": "260389d6cb8e4584f3c3b0ec8a2b241255d8698230efe9ff3d013fc93bf6f9ba",
+      "bytes": 3994,
+      "portable_transform": true
+    },
+    {
+      "path": "skills/escritura-guiones-ai-lab/SKILL.md",
+      "source": "channel-current-skills",
+      "source_sha256": "9cbf6d555fe5e6f63441a2c6206004b9046eb9800288f1d2ffb0157f141181c7",
+      "output_sha256": "6dafd3efafa01d665f0983e58005e4fe206beb2e46068ebfc1a1153f3e036bf5",
+      "bytes": 6550,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/kit-video-ai-lab/SKILL.md",
+      "source": "channel-current-skills",
+      "source_sha256": "0bf876947a11d8e3211a41695ca8cd43a8bb7697e156203ca0b8d9f7fc3803d1",
+      "output_sha256": "8d793612811f3490c5d057811de3a4334ed416984cbab0decdae54d836b50e43",
+      "bytes": 4894,
+      "portable_transform": true
+    },
+    {
+      "path": "skills/miniaturas-el-hubiera/SKILL.md",
+      "source": "channel-current-skills",
+      "source_sha256": "540568a47754731c73437b6bd005c772e84d5727d20d978b12ac3b92ee5bc197",
+      "output_sha256": "e790750915221f7d5bcc1e536bbe0c373071136a87f36547cb271dbd98d14800",
+      "bytes": 8789,
+      "portable_transform": true
+    },
+    {
+      "path": "skills/stickman-animation-direccion/SKILL.md",
+      "source": "channel-current-skills",
+      "source_sha256": "832c64dcefa477964296427927020c0c37bddd3432709e14734938666eebc75c",
+      "output_sha256": "683b2521d482432b6ff85b5e823e5b8c231bcedd21eba4ec7de44e6fdb0e2f48",
+      "bytes": 10027,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/stickman-animation-salidas/SKILL.md",
+      "source": "channel-current-skills",
+      "source_sha256": "00347717b3fcc41a11e38e9c9f9c986426659f33b1fd3ee4dd57c337989d3685",
+      "output_sha256": "0e64c7b29e5ea737a99997ef94a9df141aa8d060426a6da37c7ebed6985869e5",
+      "bytes": 5330,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/stickman-animation-video/SKILL.md",
+      "source": "channel-current-skills",
+      "source_sha256": "e78260fe209408e3e2489e9074b5a335e337a67f76bc7fd8f605d5e4fae3cf6f",
+      "output_sha256": "c87d4e5c29cc6e2c90da3fc46d6fe6be47a4d4e3946ef4c9426a482464c31563",
+      "bytes": 9739,
+      "portable_transform": true
+    },
+    {
+      "path": "skills/voz-elevenlabs/SKILL.md",
+      "source": "channel-current-skills",
+      "source_sha256": "ec03442ffb29919ae44c25922efabd69d2b94d48f9e2250d4cb543d4faeab536",
+      "output_sha256": "ec03442ffb29919ae44c25922efabd69d2b94d48f9e2250d4cb543d4faeab536",
+      "bytes": 3207,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/stickman-animation-video/references/feedback-editorial-20261104.md",
+      "source": "channel-current-skills",
+      "source_sha256": "9b44403cac10935251211880c45d8cd3ac17519414a6fb2ba91db3b2e2173e36",
+      "output_sha256": "22e680f7aba5c303993502a9114eee8a564ff4aa04bde2182164b98bf3888e5e",
+      "bytes": 4642,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/stickman-animation-video/references/guion-enganche-hubiera.md",
+      "source": "channel-current-skills",
+      "source_sha256": "6f25e39be2e5e0cb2f9903e207a02a69ca7a7f108443c0bb3992e9e2d4b03e20",
+      "output_sha256": "e3c8af989bc4da9e0b383d449bb8e0160d8b830bbb9cec712fd224776f07e98d",
+      "bytes": 5138,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/SKILL.md",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "bb930a2d2a686cba83dbf3c33a33c394834322ce9f8d9ccb55af5ee36d0fd015",
+      "output_sha256": "13ae525d5fd7122f618597c873095894b6fb50216ee1eeb6967695ccf36c8544",
+      "bytes": 7433,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/registro-generaciones.md",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "185408035be5c87b332097f17929ba5f1101e4dfc30a3a1b483ede280370c097",
+      "output_sha256": "e3772af93223a1add518826a24ac4f45fcd97f46af5e0e96a9f833c91fcfd4f1",
+      "bytes": 1253,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/references/analisis-visual.md",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "4f5c11510e8a838c0ba445bbc6e5b2be51f1f267429ff5470e7e48fabe2a10fd",
+      "output_sha256": "4f5c11510e8a838c0ba445bbc6e5b2be51f1f267429ff5470e7e48fabe2a10fd",
+      "bytes": 20026,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/references/control-previo-prompt.md",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "a65c26c37977a35e791a4f4e9c04781311c07146dfea76579bf40f7db92e5ea1",
+      "output_sha256": "ce9855fc19201826d1ebf7226168f397cbee69afd2a3f78e1fe1d5fbe0d118b1",
+      "bytes": 4539,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/references/direccion-de-arte.md",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "4728b23aad73b68268a395b465d54f24722c6753ab446ee728acb2ba14e9b96c",
+      "output_sha256": "4728b23aad73b68268a395b465d54f24722c6753ab446ee728acb2ba14e9b96c",
+      "bytes": 14065,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/references/direccion-y-variantes.md",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "1f0837482e0a4a669d29017632038570faaa144687a48bf7288a1946f699ba54",
+      "output_sha256": "1f0837482e0a4a669d29017632038570faaa144687a48bf7288a1946f699ba54",
+      "bytes": 4702,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/references/plantillas-higgsfield.md",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "1ec6f6f026bd16b8345a2cee6dac2484813f9254ffc48db00d8c4ea2f0c48a28",
+      "output_sha256": "5693ffb0fb52b1d66ea5e391ebcc23d03d2bef9d0bffbd8d489b65fcb0a4ffa8",
+      "bytes": 7903,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/references/revision-miniatura.md",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "79dfd008759c23344d60d6eff800553550b8ae62e4e109874e6da063cc6083cd",
+      "output_sha256": "e413727c3004d2d3a9e7988d76e1f0bfd30ed2c7bacf64851d29916ae5fb136d",
+      "bytes": 4554,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/scripts/componer_texto.py",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "68b600312efd7fd405f0d5bdcde36491c67ff2d8ca007890b0ea51fe0acda1c5",
+      "output_sha256": "68b600312efd7fd405f0d5bdcde36491c67ff2d8ca007890b0ea51fe0acda1c5",
+      "bytes": 6881,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/scripts/preview_movil.sh",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "c43624d3b5a220ea82c78956b50382973eb412014f9c1f4058389627ddc4d537",
+      "output_sha256": "c43624d3b5a220ea82c78956b50382973eb412014f9c1f4058389627ddc4d537",
+      "bytes": 2090,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/01a-pi-actual.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "ddbf3c1168efd9bb482dd9604e114bf42599a92162905075bc186c9b69719427",
+      "output_sha256": "ddbf3c1168efd9bb482dd9604e114bf42599a92162905075bc186c9b69719427",
+      "bytes": 191142,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/01b-pi-actual.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "b85203c63bb6ebfc8b0d9ac63697584c7c0d59d8de19b831d3e30349ce67323c",
+      "output_sha256": "b85203c63bb6ebfc8b0d9ac63697584c7c0d59d8de19b831d3e30349ce67323c",
+      "bytes": 137381,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/01c-pi-actual.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "1e1dbd8ce4b702a37cb1090ff3685e7b4bbdc7c5ecc78659256231beaa5fb4f9",
+      "output_sha256": "1e1dbd8ce4b702a37cb1090ff3685e7b4bbdc7c5ecc78659256231beaa5fb4f9",
+      "bytes": 177970,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/02-nothing-is-safe.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "496b58d8d5270f26cf591d9900fddb356307cf8702a5cd3273b7f064df12898f",
+      "output_sha256": "496b58d8d5270f26cf591d9900fddb356307cf8702a5cd3273b7f064df12898f",
+      "bytes": 40814,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/03a-tech-diseno.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "208f2e7ae727cacfe530737dc69f4c57e805d775f661196b87e7165eebab31fa",
+      "output_sha256": "208f2e7ae727cacfe530737dc69f4c57e805d775f661196b87e7165eebab31fa",
+      "bytes": 98623,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/03b-tech-diseno.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "9f3b2053231e015a5d7f9c69936ac3de946af796ed9e0614126f26b707c899a5",
+      "output_sha256": "9f3b2053231e015a5d7f9c69936ac3de946af796ed9e0614126f26b707c899a5",
+      "bytes": 94264,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/03c-tech-diseno.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "e3c8fd2ba2f9d151429b9dadf5c9bbd74fef1dae8122b10afa8e4667d88cf1d8",
+      "output_sha256": "e3c8fd2ba2f9d151429b9dadf5c9bbd74fef1dae8122b10afa8e4667d88cf1d8",
+      "bytes": 126065,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/03d-tech-diseno.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "b40fcee5dbd94d4712d4814ab2d293ec9195aa3c9809bd133384872b842f43e2",
+      "output_sha256": "b40fcee5dbd94d4712d4814ab2d293ec9195aa3c9809bd133384872b842f43e2",
+      "bytes": 68907,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/03e-tech-diseno.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "8cbebd366060957343f47a830a1f5806adb584839df385b0aa5672191cbd47c0",
+      "output_sha256": "8cbebd366060957343f47a830a1f5806adb584839df385b0aa5672191cbd47c0",
+      "bytes": 62590,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/03f-tech-diseno.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "87ea74ee02b8f124741bb3a43404f70a2ee1ae0b4351d5cc324176447ac9d7bb",
+      "output_sha256": "87ea74ee02b8f124741bb3a43404f70a2ee1ae0b4351d5cc324176447ac9d7bb",
+      "bytes": 108210,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/04a-tech-psicologia.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "ff7c4fefaa6a8737d62a2bd2c785960f5896fd11b059d0380db51de027f782f6",
+      "output_sha256": "ff7c4fefaa6a8737d62a2bd2c785960f5896fd11b059d0380db51de027f782f6",
+      "bytes": 149539,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/04b-tech-psicologia.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "18e6d67235ee7bff17bbf9e5335ba91d4eb949cb4b7fd4c81c6ef8d91e0e17bd",
+      "output_sha256": "18e6d67235ee7bff17bbf9e5335ba91d4eb949cb4b7fd4c81c6ef8d91e0e17bd",
+      "bytes": 62866,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/04c-tech-psicologia.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "539272e9dec210155f2e43b63ee66dc13d0a2a507bee71962e497c48f37b2476",
+      "output_sha256": "539272e9dec210155f2e43b63ee66dc13d0a2a507bee71962e497c48f37b2476",
+      "bytes": 95715,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/04d-tech-psicologia.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "0a7233a606c273db4add05c1168c9c55500dfe37e2ce2bc9fc51fbf1cd7eb025",
+      "output_sha256": "0a7233a606c273db4add05c1168c9c55500dfe37e2ce2bc9fc51fbf1cd7eb025",
+      "bytes": 149952,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/04e-tech-psicologia.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "02aea33ad4e1263c0b65a9d2e94f4308367c08fae548e0f7ff12ac06ac51179d",
+      "output_sha256": "02aea33ad4e1263c0b65a9d2e94f4308367c08fae548e0f7ff12ac06ac51179d",
+      "bytes": 92810,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/04f-tech-psicologia.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "7c3df4f9c7ec22fdb5e7b237b1fb9b44b186c43397e15ba5500e91b27e238fae",
+      "output_sha256": "7c3df4f9c7ec22fdb5e7b237b1fb9b44b186c43397e15ba5500e91b27e238fae",
+      "bytes": 98753,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/05a-ensayo-cine.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "fbbe70e34eaf11586ec93a6698485ad713613abb1877e189d5a2d198eec2a818",
+      "output_sha256": "fbbe70e34eaf11586ec93a6698485ad713613abb1877e189d5a2d198eec2a818",
+      "bytes": 213578,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/05b-ensayo-cine.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "7ca0d4f25cc5f11309c5fdba679d8edbd78efaeaf8fb6c2bbac85a67e9faf669",
+      "output_sha256": "7ca0d4f25cc5f11309c5fdba679d8edbd78efaeaf8fb6c2bbac85a67e9faf669",
+      "bytes": 227361,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/05c-ensayo-cine.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "7cf9ccda2b6a234bd2eb47731dc7cbb68f6f1643c39ad5ca1d92944a32cd5dcd",
+      "output_sha256": "7cf9ccda2b6a234bd2eb47731dc7cbb68f6f1643c39ad5ca1d92944a32cd5dcd",
+      "bytes": 226518,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/05d-ensayo-cine.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "ef19d5d647c89f9de3e05f7285fb83a7ef1ed4e8757a5f4d9328b263bd85df86",
+      "output_sha256": "ef19d5d647c89f9de3e05f7285fb83a7ef1ed4e8757a5f4d9328b263bd85df86",
+      "bytes": 160013,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/05e-ensayo-cine.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "0d0fb738f66d54f1c10174f84108474a4fb42cb7f61dcca679ed7ece85ec3413",
+      "output_sha256": "0d0fb738f66d54f1c10174f84108474a4fb42cb7f61dcca679ed7ece85ec3413",
+      "bytes": 210366,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/05f-ensayo-cine.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "e5aaea08d8f79961b01f662ddbdc93a7c34f00ff06b824ebc17dc674625400a7",
+      "output_sha256": "e5aaea08d8f79961b01f662ddbdc93a7c34f00ff06b824ebc17dc674625400a7",
+      "bytes": 106167,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/05g-ensayo-cine.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "e36c44bdc497eb8ae502c8ad62d28ac4433671279a4c2da600a30eae935a8cdd",
+      "output_sha256": "e36c44bdc497eb8ae502c8ad62d28ac4433671279a4c2da600a30eae935a8cdd",
+      "bytes": 233148,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/05h-ensayo-cine.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "65035f41b0cf03958a1f24f752a8937f9d0c1bebdbd12fa054274af42e866323",
+      "output_sha256": "65035f41b0cf03958a1f24f752a8937f9d0c1bebdbd12fa054274af42e866323",
+      "bytes": 210190,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/05i-ensayo-cine.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "a86c3c134df1848717c0d734bf8ce0f969ddfbf0b5861cec6d8e68ac5e7235d9",
+      "output_sha256": "a86c3c134df1848717c0d734bf8ce0f969ddfbf0b5861cec6d8e68ac5e7235d9",
+      "bytes": 163515,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-fv01-frame-video.jpg",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "cfe5ed41b00034c31160067ba1418c7e9032d3144b94116234d059636c5f1743",
+      "output_sha256": "cfe5ed41b00034c31160067ba1418c7e9032d3144b94116234d059636c5f1743",
+      "bytes": 44598,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-fv02-frame-video.jpg",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "052d0d0f5eded59e4855cb8a31f98beffcae287f05abb2f2e5f1ae078544c78c",
+      "output_sha256": "052d0d0f5eded59e4855cb8a31f98beffcae287f05abb2f2e5f1ae078544c78c",
+      "bytes": 14925,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-fv03-frame-video.jpg",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "6eed3d13a2ae9282b8499e563e9e4eefaeb3bd82939e5d98ec033dcfc2ed5a41",
+      "output_sha256": "6eed3d13a2ae9282b8499e563e9e4eefaeb3bd82939e5d98ec033dcfc2ed5a41",
+      "bytes": 20974,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-fv04-frame-video.jpg",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "1abf52a80fa5fe875063b2f51090ecc52b3a76fc04ec5b7a32ef769ab6f7b62e",
+      "output_sha256": "1abf52a80fa5fe875063b2f51090ecc52b3a76fc04ec5b7a32ef769ab6f7b62e",
+      "bytes": 126590,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-fv05-frame-video.jpg",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "ce7a7ea812e64cdbeea38ae4044cadc28967f59851acae13a118949b0dd737c9",
+      "output_sha256": "ce7a7ea812e64cdbeea38ae4044cadc28967f59851acae13a118949b0dd737c9",
+      "bytes": 129821,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-fv06-frame-video.jpg",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "cafedfa1a86979f9d9660d641a661e34a3ca7a36012942121cdc4268a009df3c",
+      "output_sha256": "cafedfa1a86979f9d9660d641a661e34a3ca7a36012942121cdc4268a009df3c",
+      "bytes": 84611,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-fv07-frame-video.jpg",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "b8051f48cc1af23bddf474fafc9905d65cecec1faa459b76f665649ea4865b35",
+      "output_sha256": "b8051f48cc1af23bddf474fafc9905d65cecec1faa459b76f665649ea4865b35",
+      "bytes": 86497,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-fv08-frame-video.jpg",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "e19ccaa7cf2591cf5f5fe25fb43900bd35329ea59c37dd9409050c62eaaff9a5",
+      "output_sha256": "e19ccaa7cf2591cf5f5fe25fb43900bd35329ea59c37dd9409050c62eaaff9a5",
+      "bytes": 166071,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-fv09-frame-video.jpg",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "69ccc7ac39123ff439528fa79a055d6a0ae0bcc593a4050f729fc651f48e4855",
+      "output_sha256": "69ccc7ac39123ff439528fa79a055d6a0ae0bcc593a4050f729fc651f48e4855",
+      "bytes": 156820,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-fv10-frame-video.jpg",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "ff7bda5109c5de38046d0ff815ea84637f6fc6f1868d45b267ea82fac4092233",
+      "output_sha256": "ff7bda5109c5de38046d0ff815ea84637f6fc6f1868d45b267ea82fac4092233",
+      "bytes": 80463,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-fv11-frame-video.jpg",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "6eee1ab4caed7cf4bf694ff9c32d138c334d32c37518f3cc0d04efe92e89a5f6",
+      "output_sha256": "6eee1ab4caed7cf4bf694ff9c32d138c334d32c37518f3cc0d04efe92e89a5f6",
+      "bytes": 155951,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-fv12-frame-video.jpg",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "16d263671c183cbd2b8646d94babdd0776f1c0c86fe20fce37a1284878c14bb4",
+      "output_sha256": "16d263671c183cbd2b8646d94babdd0776f1c0c86fe20fce37a1284878c14bb4",
+      "bytes": 121477,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-rh1.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "ff1fffa21326f3a21ff015d49c00620c61a51b0462eb3bf2362f02086a56db02",
+      "output_sha256": "ff1fffa21326f3a21ff015d49c00620c61a51b0462eb3bf2362f02086a56db02",
+      "bytes": 57380,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-rh2.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "b0eba4e8794afd865aac5fa6eef4558a436fde2ee971c00bcd6c54dc225b41fe",
+      "output_sha256": "b0eba4e8794afd865aac5fa6eef4558a436fde2ee971c00bcd6c54dc225b41fe",
+      "bytes": 62623,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-rh3.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "cf49471d1e50f20cd16fb14c44b8bc24be24723da57f6e3a8dc0012d358777ff",
+      "output_sha256": "cf49471d1e50f20cd16fb14c44b8bc24be24723da57f6e3a8dc0012d358777ff",
+      "bytes": 54154,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-rh4.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "dbd098f7631e87535ad77d3daabecddf2b0697efcd5590e8d876e8cf7f137f07",
+      "output_sha256": "dbd098f7631e87535ad77d3daabecddf2b0697efcd5590e8d876e8cf7f137f07",
+      "bytes": 46046,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-rk1.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "f48896d7bf202ccab6b60329b145e2a122bf03e29ff7d4f683954d3a2ca8eafa",
+      "output_sha256": "f48896d7bf202ccab6b60329b145e2a122bf03e29ff7d4f683954d3a2ca8eafa",
+      "bytes": 42697,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-rk2.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "862a6b19fcf05ba9bfeb4f09c08f9487d114c496c8d8881d95f8ea2c68f828dd",
+      "output_sha256": "862a6b19fcf05ba9bfeb4f09c08f9487d114c496c8d8881d95f8ea2c68f828dd",
+      "bytes": 37182,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-rk3.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "3dc46838e8147d5dc62a95816465b7dc91d71acb10d34d78c89e8e4e3fa00977",
+      "output_sha256": "3dc46838e8147d5dc62a95816465b7dc91d71acb10d34d78c89e8e4e3fa00977",
+      "bytes": 52717,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-rk4.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "d8c749d22a0ff218d28f8d1189480cc1badf2f29ab3090726c2bd3811557697c",
+      "output_sha256": "d8c749d22a0ff218d28f8d1189480cc1badf2f29ab3090726c2bd3811557697c",
+      "bytes": 49841,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-rk5.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "66c1767a50ccdf0d1a9c50ac9e1273f93971b126802fe3a6a63b44cb3925f86d",
+      "output_sha256": "66c1767a50ccdf0d1a9c50ac9e1273f93971b126802fe3a6a63b44cb3925f86d",
+      "bytes": 53668,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-rk6.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "2c908eb50088eb09ffd28e7bbc8fb44ef55fee6f3de3ccf2bf791ab32bc910d3",
+      "output_sha256": "2c908eb50088eb09ffd28e7bbc8fb44ef55fee6f3de3ccf2bf791ab32bc910d3",
+      "bytes": 31414,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-rk7.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "5ffc0a4362862f41307c3a34cb764db1da007efb4588d2d6e356dad07a0a2324",
+      "output_sha256": "5ffc0a4362862f41307c3a34cb764db1da007efb4588d2d6e356dad07a0a2324",
+      "bytes": 38891,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-rk8.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "a38411805d31e30a5b7ad31190a1d42e03471400f91801aeb78ba3749bfd7ece",
+      "output_sha256": "a38411805d31e30a5b7ad31190a1d42e03471400f91801aeb78ba3749bfd7ece",
+      "bytes": 79050,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-vc1.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "39410003cd8056e65e401677e0a2b2050d56ee3d3ff37705b44ac67d5b22875f",
+      "output_sha256": "39410003cd8056e65e401677e0a2b2050d56ee3d3ff37705b44ac67d5b22875f",
+      "bytes": 81622,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-vc2.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "6bbf4841ce0ce8bc999dc3989e662648ead84c564b1949238db3958e2cbbd857",
+      "output_sha256": "6bbf4841ce0ce8bc999dc3989e662648ead84c564b1949238db3958e2cbbd857",
+      "bytes": 71095,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-vc3.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "e3283d0a3d44f8742d6154fa02b868b6684e9619e7c9cca8851d9f1d5e050075",
+      "output_sha256": "e3283d0a3d44f8742d6154fa02b868b6684e9619e7c9cca8851d9f1d5e050075",
+      "bytes": 81678,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-vc4.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "1aef7ff834cebb56ffb37fe20c10db0f6beed4b90e4c250958f24308819d37f8",
+      "output_sha256": "1aef7ff834cebb56ffb37fe20c10db0f6beed4b90e4c250958f24308819d37f8",
+      "bytes": 30202,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-vc5.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "af2539345ef1828f2bca4c6f899e6ef5e7e2fd5eadfd88ced78ccf14a4c17295",
+      "output_sha256": "af2539345ef1828f2bca4c6f899e6ef5e7e2fd5eadfd88ced78ccf14a4c17295",
+      "bytes": 88185,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-vc6.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "12f5285f8340241234c1f9b5a0d8fabe2f36a8e878d907249821b08e0f73c63b",
+      "output_sha256": "12f5285f8340241234c1f9b5a0d8fabe2f36a8e878d907249821b08e0f73c63b",
+      "bytes": 33317,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-vc7.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "cc14800b46c01fb1c2cef670ab7f4d67d50a46ef2d0a3eb3cc8e4db70a8f3c9f",
+      "output_sha256": "cc14800b46c01fb1c2cef670ab7f4d67d50a46ef2d0a3eb3cc8e4db70a8f3c9f",
+      "bytes": 22363,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/07-vc8.png",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "281d7b0b7a3900186d7bacb90626786a0109f1a7798ba7ca33116e287085e05e",
+      "output_sha256": "281d7b0b7a3900186d7bacb90626786a0109f1a7798ba7ca33116e287085e05e",
+      "bytes": 31769,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/miniaturas-pi/assets/referencias/CATALOGO.md",
+      "source": "miniaturas-pi-source",
+      "source_sha256": "37e81e0bb82643c49c5038cc7ff00ed60d43a6678c4ecd452d197b7f9c19876c",
+      "output_sha256": "37e81e0bb82643c49c5038cc7ff00ed60d43a6678c4ecd452d197b7f9c19876c",
+      "bytes": 2094,
+      "portable_transform": false
+    },
+    {
+      "path": "docs/referencias/miniaturas-blancas/APROBACION-ESTILO.md",
+      "source": "approved-white-samples",
+      "source_sha256": "a16db6f1c93010dd8e569956b320ec6f6f883ac8bbc1658cc2c2005e47effdde",
+      "output_sha256": "f46e97974b7de61ec255a828d615d4e1518e533d801ed8d3f525ddc56adef523",
+      "bytes": 622,
+      "portable_transform": false
+    },
+    {
+      "path": "docs/referencias/miniaturas-blancas/cafeterias-fondo-blanco.png",
+      "source": "approved-white-samples",
+      "source_sha256": "96cca92a7459486d082f4ab3e0fe294291e08b0024a06a3f4eb59d61ec2116ce",
+      "output_sha256": "96cca92a7459486d082f4ab3e0fe294291e08b0024a06a3f4eb59d61ec2116ce",
+      "bytes": 2266152,
+      "portable_transform": false
+    },
+    {
+      "path": "docs/referencias/miniaturas-blancas/garita-fondo-blanco.png",
+      "source": "approved-white-samples",
+      "source_sha256": "513ad625d2760bf41c2546cd37d91755a08062c70eeba3fad7db9e929425371b",
+      "output_sha256": "513ad625d2760bf41c2546cd37d91755a08062c70eeba3fad7db9e929425371b",
+      "bytes": 2453878,
+      "portable_transform": false
+    },
+    {
+      "path": "docs/referencias/miniaturas-blancas/obras-fondo-blanco.png",
+      "source": "approved-white-samples",
+      "source_sha256": "87b190eb526e2184b92ba4517c2f59b7b7e88ec1ea977b28fc56456da477c584",
+      "output_sha256": "87b190eb526e2184b92ba4517c2f59b7b7e88ec1ea977b28fc56456da477c584",
+      "bytes": 2445453,
+      "portable_transform": false
+    },
+    {
+      "path": "docs/referencias/miniaturas-blancas/SHA256.json",
+      "source": "approved-white-samples",
+      "source_sha256": "6e2c0d798260af7d2edefb81f14157bd66484ec93033a125ac061d747498fc11",
+      "output_sha256": "b7c659b61b217d0ea2c8a0d3e36e670a1fe4f9f3e6c930a24c460884503e74b9",
+      "bytes": 351,
+      "portable_transform": true
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/01-batman-mexico.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "6ec9b58cc1322a77ae5635d684a8ccb19b0c8b8b9e009bb426955310e47e0335",
+      "output_sha256": "2577da83107c565c6160fee345d244d8fcaa5ffc5fb8eaf75663fc05b95e90a1",
+      "bytes": 8942,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/01-batman-mexico.txt",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "976e367335dea18ec8f825e4825be342eddbe8c86254e0fdc331258df4135abd",
+      "output_sha256": "a3bc935d210e222d6759a853a337b04bece4185ab98dc5c1ea6058527cc8eadf",
+      "bytes": 2050,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/03-mexico-sin-inflacion.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "d6e289a97119e45a0b3765cc6efa3b843c484659dabec80cd1a2b5062ac33b98",
+      "output_sha256": "ae7125288abccf920012caf0b70b6f60a7d5d689cf2a82b1542b5face5754012",
+      "bytes": 15967,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/03-mexico-sin-inflacion.txt",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "77293997c332374dba48c21c23c81aad786e866e8345bab77c06fa3b46f09d2c",
+      "output_sha256": "dd81b110f59ccbc5f3297b34664ad99d923455555cd59460cbe7e1ef51f53da7",
+      "bytes": 3523,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/04-mexico-sin-corrupcion.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "9cb31f3b0cf45a597eaf69fb82f602be1307540e7d9663f90cc06fe854ff228c",
+      "output_sha256": "c1e14ca382d98434584dd8ab2bad5efcb64b2436c48f3cecadd9491576198ac7",
+      "bytes": 14633,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/04-mexico-sin-corrupcion.txt",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "d32f2b134b61e15b7902cc8c4ddcb6182b24a73ca02cf037b756dd3673006041",
+      "output_sha256": "d964a4f59df165e377e036aee53a1324e22dfda08a138927aeacddaaf0858d23",
+      "bytes": 3634,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/05-prohibido-bolillo.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "ef48e886c01684cf851db13d0777f57b9410dfb37cb0b89bab2e789cc4bd68d0",
+      "output_sha256": "40f9649097f13f0f052a9c6bca7f035849deddda4483756457f7ef615198bbe8",
+      "bytes": 12246,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/05-prohibido-bolillo.txt",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "b9b80f300dfa438256bc6cef07b863ff63b3262b1bd3973ba26a0dd45187d4b9",
+      "output_sha256": "24ce2c970df8a82948a13a38c6e33eee2f9a5c1feb92f0c0b6e5ed55a18d809c",
+      "bytes": 3468,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/06-quesadilla-queso-cdmx.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "7f73389a2e963f34ce83c1e924c20ebcfee3c8dc9b1ffb2a3347de6844dbb482",
+      "output_sha256": "8e580afc160d060791c042ab6bbd7e4699155aca00a7a694622806166f56fb2d",
+      "bytes": 11467,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/06-quesadilla-queso-cdmx.txt",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "7e35cde69ad436f0ee9380564855a1df7f3757de1ffd7806f8790777c9a67627",
+      "output_sha256": "0c461e5d751fafa4da3e388c3e34c1c53a41769c878155843f570a1bb25f78d4",
+      "bytes": 3014,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/07-agua-tijuana.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "71aebd26ee52b43e4a123a124688c96bdf2cd96f19cfb7b47f1b0d2050a17aaf",
+      "output_sha256": "cc3e9fcaa03edd27973d6a58f226a7208db7ff1488ff250ad75e11e79af40efa",
+      "bytes": 8244,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/07-agua-tijuana.txt",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "be4ba8598a9ca8e2cf492bf193c481ba6d557398484635484388e569eee2dd1b",
+      "output_sha256": "e02f30559e24917c7188d5a940d955329ed0a94ff4bf430b468b9e4b131caff1",
+      "bytes": 2132,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/08-agua-cdmx.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "409a5e1f7eed388292153026ea42b772de7726bde4655164ffc2ada092e3bc6a",
+      "output_sha256": "16fee297521bc56378816ffdfdd61e295a3ac54bb957dc213890958362aa0e5d",
+      "bytes": 6651,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/08-agua-cdmx.txt",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "de293775c9c21f4f36e630b9ee6307fcd15dd255b36432fe0824dc23fdf8b3ec",
+      "output_sha256": "ca5381cad597dd7b18d5579c8546dc2217e724dc838881ae4081e1d9b8b4a3dd",
+      "bytes": 1386,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/09-agua-monterrey.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "1433a237059fe24d9c0000c94b296b699e9e6e7914366cc8f522ad76bdc81c5c",
+      "output_sha256": "a9d63f80fab27d1a3501216122d2a33b89bf8466d46b50efbff54ed77b8ffe4f",
+      "bytes": 7246,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/09-agua-monterrey.txt",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "0d5b01d23a1e8ac092294d812403dcad5b4aae9259d8afec73a848bc9f00dcb9",
+      "output_sha256": "43add4623880616e477079e9a8e411a6f5eb630ca25e3122112cbd5341d80617",
+      "bytes": 1773,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/10-agua-guadalajara.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "630aaeee0d8a699b7364171ad75635299d1cede98f1776cc69ae3b329edd1b78",
+      "output_sha256": "d235606ebd8c5601c9434bf544dc26c37211aa2b9e87b23ad346c61dcd313c55",
+      "bytes": 7396,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/10-agua-guadalajara.txt",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "4e072778253096fe4ff88341333e0f0828fed42948419c12faa33fc94ae56c02",
+      "output_sha256": "89b76467bd2a7c92e42cdf42a2efe4bd84e08764aa7b129fa802e8b15e766d7f",
+      "bytes": 1563,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/11-mexico-pib-10.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "5cfb37399c6051234fa64975878556549116615ef904990ce9a00a8d6c5e7114",
+      "output_sha256": "7bca85e2ee7ba736838a0ed53b88eebc7f830c145757bc3b2a62f86c1de554f0",
+      "bytes": 8827,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/11-mexico-pib-10.txt",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "19accf0d91c36bb33e60545dcc647b02df667d7b64edb8273674787d7cfdc222",
+      "output_sha256": "2c1d7ea08d8554bb1b06b9566a26fdf5e78c7de81355ca16384dff73074eb6a7",
+      "bytes": 2556,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/12-mexico-pib-20.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "6de6c7246ed79e3d0e0124d491f9050afc2922f548ab6b86c8cc13429fdf8a11",
+      "output_sha256": "be9c03b19fb462223c9743c7ab83b274438af42fbc2d9a9609c1feaf1eb4333b",
+      "bytes": 9626,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/12-mexico-pib-20.txt",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "3d3662d8cbfe52c16a69fff65686ec8a523a3802f693041f2f98b2c46e800ada",
+      "output_sha256": "170243585d07d6fbd424667f280d46dec3df38aebff0330e86353db82c1bc756",
+      "bytes": 2574,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/13-mexico-pib-30.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "07267b97a1ee579732350a442e38f187a4de31a6be11ef6ca22212ccd4133751",
+      "output_sha256": "65125987c7eb06efef001bf234e1aea219ee4a331ba448fafd8b83349322371d",
+      "bytes": 9416,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/13-mexico-pib-30.txt",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "adfd263395a10b0d3ecf172129774f8f0c550a15d4414c4fbc3692aed387114e",
+      "output_sha256": "a7bbe090041ecea5f5667016ba4f7251398b919226173d8134c8e29a560fa910",
+      "bytes": 2588,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/14-mexico-como-china.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "08a1c8fba191155dcc4e87c402c07b627035b81b60a3ba988d55c3dfdb92b4b5",
+      "output_sha256": "5bfb7fe159497090841c9b228e66b5146484301b91428e626bc44555f7d58759",
+      "bytes": 10342,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/14-mexico-como-china.txt",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "29eb1a980413a8d8f511ab22bc9b82386e0e72a24cb01de2effe67030a23f937",
+      "output_sha256": "266b9dd8a99e745e21e7b6a4876b08016dd7cb8ad8ca8238c9b2f253999c2989",
+      "bytes": 2627,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/15-mexico-como-eua.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "74e17b0c0c226d1d71c14de6139513f23ac8af01c315b900f60f1ed35e0069f1",
+      "output_sha256": "75a51721968af2ddfe48941a073ee5c3b0c4afb72d3dfc4cdb3d75c3cad3bb16",
+      "bytes": 9119,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/15-mexico-como-eua.txt",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "5085979ca762f3c847290d9c44b1b9dd26890015a5051ec5dd20d1bb625a5134",
+      "output_sha256": "ce567a125226e90ddd2182926e92d759c679640b7739bfbcbb6ba596e8f72f30",
+      "bytes": 2639,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/16-mexico-seguridad-japon.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "e10d4002dbef0d9d66f519f725c0371e94691ee27a5c5224ebdbbb79d4940864",
+      "output_sha256": "a3a9da19f77d3a4300a817df39afa800f5097bb96d341f0f932fc3e1d081acd3",
+      "bytes": 9658,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/16-mexico-seguridad-japon.txt",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "8782cbdb067d107030fffeb2a3b053ba4f15fd5befa7a5cf30d28cd805007a39",
+      "output_sha256": "f47e70988b6e6df19951dd4ca854e9a30c2dba3322b28f2490f852ce9a1fa31f",
+      "bytes": 2427,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/17-territorio-instituciones.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "96b457774b289519c813e7a12242168be1ff5baba2735bca6cd142b31a5e4c46",
+      "output_sha256": "07493d47357f21cc02effb4dcddb71087d2cdc785be8ba5cdccbcaad144b486d",
+      "bytes": 10496,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/17-territorio-instituciones.txt",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "ceceefb409a7b7367423f74787a6a5359000269490ea1c2d3a71c693fe8a5efc",
+      "output_sha256": "db8e4c7e6140b16f8eb2b1782a1179baa5025b54fad6b15cf3f424f1298f5671",
+      "bytes": 3166,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/18-territorio-optimista.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "c88f20c1ebb277182eabf63c4719283c392bc63d6e33215c97e6da9269ac07f8",
+      "output_sha256": "c76b508f22d4ccd2964acd77dd5ccb227d0e58a3bab54be3879153a50c795edc",
+      "bytes": 9265,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/18-territorio-optimista.txt",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "79d07f0c880472936fd91b2d9ffb9c5aaa342c7e54d15fe0d9c2c310566ea84d",
+      "output_sha256": "3d592b052779153c17a93b6a4cbd80bf5a15198ebd7456a6ff1c36a654441f1e",
+      "bytes": 2706,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/19-mexico-wwii.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "e42f2191cada732be602cf3d246126e0b3691e13f70e5e09944338869b806984",
+      "output_sha256": "6c17a8ac43ffa4078f20bc7896e11f02cae3a792734bd58f8407cf7947ec9f8d",
+      "bytes": 10000,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/19-mexico-wwii.txt",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "90381d1e3fbe85d36b04332339a890ba57eb6eff3ae1287cd62941b0107662b1",
+      "output_sha256": "fb6147c7754e7824e94e7f9ac1611208f874bcba8d012de1f754793a2a01ea03",
+      "bytes": 2702,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/20-guerra-fria.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "5c4d8512ea9e9383cac8e94a160d951fe444ee00d6fc573afa60ea1cfa3eb48a",
+      "output_sha256": "32a94e30228e20b5e40ed55ddf899e3a5cbdd19dbcc5bb4349647b4ea5bcc39a",
+      "bytes": 17893,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/20-guerra-fria.txt",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "16ab52c635008edc4cb9b7cbdd03f19e711c9182511c24c363f97b71df536d81",
+      "output_sha256": "6766a28ddeb6693831885081a234621ecd9094eff3212789ded1cf369ca10176",
+      "bytes": 6470,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/21-canal-10mil.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "303d814487a65ba3f07c8e4def867ed50df98656028c1de33046aa7c0c0fd4f0",
+      "output_sha256": "3e03a89b062229d5d8d60f4a57ab9fe439725f6b84cdb48a023930d926083ebb",
+      "bytes": 6146,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/21-canal-10mil.txt",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "3709ac4657d4cfead8d87c0be6545a32055a7300ceb3b89dd08029ff1a596e17",
+      "output_sha256": "f4d653a125293d1f7a0db5c93386a9feede3ced62d60515eba095d5bf69ba48b",
+      "bytes": 1489,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/22-visitas-10mil.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "5477253d93bb0f8e9ba832151f52ab0720d6a5a35448d78e988d612c7c905aca",
+      "output_sha256": "caff87fc1a368982967d8e623576afe621304a4e2eae2bfcab26a88737093fd2",
+      "bytes": 7490,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/22-visitas-10mil.txt",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "bd19e9c5ba2812253c6744bb2df622b9974c215a698898ae684e20329a62c0d6",
+      "output_sha256": "21fc090cf4125979a244a73977472b9c00964d10e74f64381e92bf78ccca4257",
+      "bytes": 1541,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/23-visitas-100mil.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "2694c7a5c1d3da7155530091252c9be55ee2d1946b97b9dc212f01d0d057c9c9",
+      "output_sha256": "063e733427a9c626e90435a43b73d3b2f6919fcbc83dae1273c780a39952669b",
+      "bytes": 9626,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/23-visitas-100mil.txt",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "9292e6cdb74d35b6806abadf16d0c6e88304ff7076733c29344aaea69c969806",
+      "output_sha256": "f8141b9abbf1ffbb18d0a4788bec378d2f9ae0624e8b07683064a0561344952c",
+      "bytes": 2756,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/24-visitas-millon.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "84c0864ba361bc158f236f3b8205abbc5576f645c83a872bdfe0f44a79d4d29b",
+      "output_sha256": "106565992fa301788957b2d5073d63d542ffbbe6bd3e0c9789914c9ff78ee1a0",
+      "bytes": 10600,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/24-visitas-millon.txt",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "9cea2164a721be8e65d1b6a6cf7d34142b26bc2453101e155a28281efc9eafb8",
+      "output_sha256": "1faf3af37eb7626b20cf4e1575aa62c7c9f29f5c781d86ef815faf10c83397b5",
+      "bytes": 2698,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/25-cuenta-100mil-italia.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "6718c2e5bae44ca6bb4f3009e7a10c58b8c4af7f05a3cfbf4157e16a0d8341d5",
+      "output_sha256": "faebe2bf17a9b296d4d997362995da2d762133e0f1009a863251586676b95599",
+      "bytes": 7246,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/25-cuenta-100mil-italia.txt",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "0f989dec402b89d4a4067ddeb62e27efc1000e19849a2d340310645b4f6db815",
+      "output_sha256": "5f52876c16d62864fd880e232a61dff2c2b1631637970d7d78951d8a8657b0b1",
+      "bytes": 1474,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/26-argentina-sin-inflacion.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "56f96ac526da20bdc9a50ddc0806dc3f88a41da5da488414a76d777a7301bd13",
+      "output_sha256": "026ad9426c99319f0c354d36556e319af19a2102548325f792e2857bda83e3a2",
+      "bytes": 15012,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/episodios/26-argentina-sin-inflacion.txt",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "7f393d20b7792689a7c7184ce66e88fa9f0c74a05e2f52be5919afdc0edc1ada",
+      "output_sha256": "4d1d54f465d33a3eb2a1a17cada3156da1364c03f681133cd9a52b6e3fff0102",
+      "bytes": 3485,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/INDICE.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "df17de3c67f65deee7b604f3d5673aad589fef2f1bc5732edf0496f0ca7a9887",
+      "output_sha256": "c92f7685ee62c26e174897001e0ac14211988f7ba07970fd7651ef088f912a38",
+      "bytes": 6069,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/CAMBIOS-EDITORIALES.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "31de93c6abe20d1967dfe242490732e8a895f7015b0b602e020775cdc8b9f201",
+      "output_sha256": "8b768519879c2e6d374dfdf18b75d96eef4a1ac2d57bb00629017a98a596514d",
+      "bytes": 5518,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/FEEDBACK-HUMANO.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "0c9f9490778200dcb995fb34d365e693b4f269f8a5e34a1ea2f16bfc966c9942",
+      "output_sha256": "e777728f47b37e1dc7cc0f054b34aa327a4006c3890b2013adde82ae23a7ebd1",
+      "bytes": 4956,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/FUENTES.json",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "d86cbc3f4132e1a68754184438985263e83abd6e34c9fb670aa3e89654483d9f",
+      "output_sha256": "6bd131940f2b43bbe8f3f543e977b5d0f660538a4d325e2311cc10d96cc2e046",
+      "bytes": 15131,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/REVISION-EDITORIAL.json",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "04eca1ddf9d6b1c25c9167c345d4bd244efec2af793a60552f6c90c40e522123",
+      "output_sha256": "82d481a64cbbd4251d9394283376802d58d2ab45bc78c385b2e9095a5347b198",
+      "bytes": 29244,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/TIMING-VERIFICACION.json",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "d40b1d5ffd7bab7696fdd9ceaee3113bbab9b1abb2d0ca4e69ba19438717823b",
+      "output_sha256": "79b980446418990b70e409defb46e32c103f6387e61741da3ecfc067edab16f9",
+      "bytes": 52490,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/nuevos-v2/EXTRACTO-SKILL-ACTUALIZADA.md",
+      "source": "Claude-Cliente-edition-v2",
+      "source_sha256": "9b44403cac10935251211880c45d8cd3ac17519414a6fb2ba91db3b2e2173e36",
+      "output_sha256": "22e680f7aba5c303993502a9114eee8a564ff4aa04bde2182164b98bf3888e5e",
+      "bytes": 4642,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/alcalde-xolo-v1-20261102/LOCUCION-V1.txt",
+      "source": "historical-episode/alcalde-xolo-v1-20261102",
+      "source_sha256": "6bd7c75c59f4540eadd59dcc9863e798c04fe6d8c2b4293d8d962b648867cb38",
+      "output_sha256": "6bd7c75c59f4540eadd59dcc9863e798c04fe6d8c2b4293d8d962b648867cb38",
+      "bytes": 4699,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/alcalde-xolo-v1-20261102/revision/animacion/storyboard-beats.md",
+      "source": "historical-episode/alcalde-xolo-v1-20261102",
+      "source_sha256": "f2bff86ad886665b14e3181aa2bc210bd016c109c3920aa26bc5b1915a8b6b42",
+      "output_sha256": "feb24b84de3c9533bd23b48a1474c77fd1d15fd45c7e8f6203b955c2611a1a04",
+      "bytes": 7963,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/cristiano-argentina-v1-20261031/GUION-LOCUCION-V2.txt",
+      "source": "historical-episode/cristiano-argentina-v1-20261031",
+      "source_sha256": "40dde61bc603ea4d69127766a087079cdef1e0e56dc509b330343b6d5eab7acb",
+      "output_sha256": "ac4b441d9f0a144670e2154f5672c9e9534acdf7eee580ecc31e58384a00ce58",
+      "bytes": 4202,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/cristiano-argentina-v1-20261031/proyecto/GUION-ARGENTINA-V1.md",
+      "source": "historical-episode/cristiano-argentina-v1-20261031",
+      "source_sha256": "139c5c73c8f0cc479da0c56f5c13a3c1379063579306be5cac910534a90eb83e",
+      "output_sha256": "139c5c73c8f0cc479da0c56f5c13a3c1379063579306be5cac910534a90eb83e",
+      "bytes": 5743,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/cristiano-argentina-v1-20261031/proyecto/GUION-ARGENTINA-V2.md",
+      "source": "historical-episode/cristiano-argentina-v1-20261031",
+      "source_sha256": "47da5a83d43cd64a5170a9244893f552128cc353698df8b76e6cfaf239ed03da",
+      "output_sha256": "47da5a83d43cd64a5170a9244893f552128cc353698df8b76e6cfaf239ed03da",
+      "bytes": 6845,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/cristiano-argentina-v1-20261031/proyecto/LOCUCION-ARGENTINA-V2.txt",
+      "source": "historical-episode/cristiano-argentina-v1-20261031",
+      "source_sha256": "ac4b441d9f0a144670e2154f5672c9e9534acdf7eee580ecc31e58384a00ce58",
+      "output_sha256": "ac4b441d9f0a144670e2154f5672c9e9534acdf7eee580ecc31e58384a00ce58",
+      "bytes": 4202,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/cristiano-argentina-v1-20261031/produccion/motor/episodios/ep-cristiano-argentina/guion/locucion-argentina-v2.txt",
+      "source": "historical-episode/cristiano-argentina-v1-20261031",
+      "source_sha256": "ac4b441d9f0a144670e2154f5672c9e9534acdf7eee580ecc31e58384a00ce58",
+      "output_sha256": "ac4b441d9f0a144670e2154f5672c9e9534acdf7eee580ecc31e58384a00ce58",
+      "bytes": 4202,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/cristiano-argentina-v1-20261031/produccion/motor/episodios/ep-cristiano-argentina/revision/storyboard.md",
+      "source": "historical-episode/cristiano-argentina-v1-20261031",
+      "source_sha256": "5f6a04af5c0f4869acb50d23d59adffea7fa6b0f54d3b78b0d4fca3dcfb80957",
+      "output_sha256": "52eb2881752ae62bc1c407f9c54a502dab52ea3a180c546b13d9393276c06699",
+      "bytes": 7703,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/cristiano-argentina-v1-20261031/produccion/motor/episodios/ep-cristiano-colombia/guion/locucion-colombia-v1.txt",
+      "source": "historical-episode/cristiano-argentina-v1-20261031",
+      "source_sha256": "0651a044416c0d3d62401a74c22cbccfb756d06ccb551d52e6b0f2bf5c3e263d",
+      "output_sha256": "ddeef6a5f50dc9646aae5772c249434df47f2f6d5f5b07310d76442ec455a357",
+      "bytes": 3668,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/cristiano-argentina-v1-20261031/produccion/motor/episodios/ep-cristiano-colombia/revision/storyboard.md",
+      "source": "historical-episode/cristiano-argentina-v1-20261031",
+      "source_sha256": "7e28e2c27720bf207206e5b5689afa9e83b9b0bfb45b65816be476cc2fe523d3",
+      "output_sha256": "72b90b37b038b06eeb54597bcac1039c2a7c7e9e642b427524f5a8faf4e50836",
+      "bytes": 6545,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/cristiano-chile-v2-20261101/GUION-LOCUCION-V2.txt",
+      "source": "historical-episode/cristiano-chile-v2-20261101",
+      "source_sha256": "703ffa54ca0032c1ee957942d5c85f67e5de155634d01696db64c1e8150c00aa",
+      "output_sha256": "023d455991ff307db90789da8b2b21a93420b6a711167e670da89d54e92f4748",
+      "bytes": 3626,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/cristiano-chile-v2-20261101/LOCUCION-CHILE-V2.txt",
+      "source": "historical-episode/cristiano-chile-v2-20261101",
+      "source_sha256": "023d455991ff307db90789da8b2b21a93420b6a711167e670da89d54e92f4748",
+      "output_sha256": "023d455991ff307db90789da8b2b21a93420b6a711167e670da89d54e92f4748",
+      "bytes": 3626,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/cristiano-chile-v2-20261101/revision/animacion/storyboard-beats.md",
+      "source": "historical-episode/cristiano-chile-v2-20261101",
+      "source_sha256": "3fa932686329025322ba809bfc6228c7f0a83373aef3b6e8b5ee818262d8c3f0",
+      "output_sha256": "8169176c53d49f16bdd5b0aaf34a40808f8534586c3630b5702c18539a9c27b8",
+      "bytes": 6113,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/cristiano-colombia-v1-20261031/GUION-LOCUCION-V1.txt",
+      "source": "historical-episode/cristiano-colombia-v1-20261031",
+      "source_sha256": "0651a044416c0d3d62401a74c22cbccfb756d06ccb551d52e6b0f2bf5c3e263d",
+      "output_sha256": "ddeef6a5f50dc9646aae5772c249434df47f2f6d5f5b07310d76442ec455a357",
+      "bytes": 3668,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/cristiano-colombia-v1-20261031/LOCUCION-COLOMBIA-V1.txt",
+      "source": "historical-episode/cristiano-colombia-v1-20261031",
+      "source_sha256": "0651a044416c0d3d62401a74c22cbccfb756d06ccb551d52e6b0f2bf5c3e263d",
+      "output_sha256": "ddeef6a5f50dc9646aae5772c249434df47f2f6d5f5b07310d76442ec455a357",
+      "bytes": 3668,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/cristiano-colombia-v1-20261031/revision/claude/GUION-COLOMBIA-V1.md",
+      "source": "historical-episode/cristiano-colombia-v1-20261031",
+      "source_sha256": "171b26b18b334d63c27661886892a002bd848ba4d126854317b8b336c93f8b5b",
+      "output_sha256": "171b26b18b334d63c27661886892a002bd848ba4d126854317b8b336c93f8b5b",
+      "bytes": 5563,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/cristiano-colombia-v1-20261031/produccion/motor/episodios/ep-cristiano-colombia/guion/locucion-colombia-v1.txt",
+      "source": "historical-episode/cristiano-colombia-v1-20261031",
+      "source_sha256": "0651a044416c0d3d62401a74c22cbccfb756d06ccb551d52e6b0f2bf5c3e263d",
+      "output_sha256": "ddeef6a5f50dc9646aae5772c249434df47f2f6d5f5b07310d76442ec455a357",
+      "bytes": 3668,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/cristiano-colombia-v1-20261031/produccion/motor/episodios/ep-cristiano-colombia/revision/storyboard.md",
+      "source": "historical-episode/cristiano-colombia-v1-20261031",
+      "source_sha256": "7e28e2c27720bf207206e5b5689afa9e83b9b0bfb45b65816be476cc2fe523d3",
+      "output_sha256": "72b90b37b038b06eeb54597bcac1039c2a7c7e9e642b427524f5a8faf4e50836",
+      "bytes": 6545,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/cristiano-colombia-v1-20261031/produccion/motor/episodios/ep04-cristiano-mexico/guion/guion-voz-v1.txt",
+      "source": "historical-episode/cristiano-colombia-v1-20261031",
+      "source_sha256": "6a7a3561028cfc3508e3a04c98db6c54e0522213d0fdea26a88916bc8c10b1cc",
+      "output_sha256": "6a7a3561028cfc3508e3a04c98db6c54e0522213d0fdea26a88916bc8c10b1cc",
+      "bytes": 158,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/cristiano-colombia-v1-20261031/produccion/motor/episodios/ep04-cristiano-mexico/guion/guion-voz-v3.txt",
+      "source": "historical-episode/cristiano-colombia-v1-20261031",
+      "source_sha256": "fbc6b1ae36c6c1c8cedec9b2c9b0a88cd7b1cd561c5cfae0fa4a8172cbc66e78",
+      "output_sha256": "7787d6d0af776cfc2b3929cf324120d3c9f91df697ecb1ca0e512c6bb18df0c8",
+      "bytes": 3369,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/cristiano-colombia-v1-20261031/produccion/motor/episodios/ep04-cristiano-mexico/revision/storyboard.md",
+      "source": "historical-episode/cristiano-colombia-v1-20261031",
+      "source_sha256": "47229af2d2e208763f669039f5cd890593b21bdbb6a1bb36dd6ca741b2230756",
+      "output_sha256": "47229af2d2e208763f669039f5cd890593b21bdbb6a1bb36dd6ca741b2230756",
+      "bytes": 6116,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/cristiano-mexico-v1-20261029/guion/guion-voz-v1.txt",
+      "source": "historical-episode/cristiano-mexico-v1-20261029",
+      "source_sha256": "6f637f102a12905a1b64a28b01990d01936d11bb4a6d8659416e019f9576837a",
+      "output_sha256": "6f637f102a12905a1b64a28b01990d01936d11bb4a6d8659416e019f9576837a",
+      "bytes": 4024,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/cristiano-mexico-v1-20261029/guion/guion-voz-v2.txt",
+      "source": "historical-episode/cristiano-mexico-v1-20261029",
+      "source_sha256": "3f2bcf7ab143f41056d737d3d8fbf3135ab3213248ad7b7078ab2abccb321fdb",
+      "output_sha256": "3f2bcf7ab143f41056d737d3d8fbf3135ab3213248ad7b7078ab2abccb321fdb",
+      "bytes": 3846,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/cristiano-mexico-v1-20261029/guion/guion-voz-v3.txt",
+      "source": "historical-episode/cristiano-mexico-v1-20261029",
+      "source_sha256": "fbc6b1ae36c6c1c8cedec9b2c9b0a88cd7b1cd561c5cfae0fa4a8172cbc66e78",
+      "output_sha256": "7787d6d0af776cfc2b3929cf324120d3c9f91df697ecb1ca0e512c6bb18df0c8",
+      "bytes": 3369,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/garita-30-segundos-v1-20261101/GUION-V1.md",
+      "source": "historical-episode/garita-30-segundos-v1-20261101",
+      "source_sha256": "55c83685effa48eadffb7e2ff740058513ab7a525521265fb13d25965485023d",
+      "output_sha256": "6982d5869a4e2411dfaaa3b5382242d61b6c2b9b532d347cf4209348eeb9c2b7",
+      "bytes": 5608,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/garita-30-segundos-v1-20261101/LOCUCION-V1.txt",
+      "source": "historical-episode/garita-30-segundos-v1-20261101",
+      "source_sha256": "8d36e91fcce3f351748196d45408fce5046608dcb0492dccd3a59e8d3ac28c29",
+      "output_sha256": "8d36e91fcce3f351748196d45408fce5046608dcb0492dccd3a59e8d3ac28c29",
+      "bytes": 3532,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/garita-30-segundos-v1-20261101/revision/animacion/storyboard-beats.md",
+      "source": "historical-episode/garita-30-segundos-v1-20261101",
+      "source_sha256": "88f1580ea09ed71b7bcdc4b7f34982ec0079e9e0e1b65baf38f5de84b302581f",
+      "output_sha256": "c8b19b60652c3050486cd5b4e008fe3137e2bc35e25210fe1f91e4206baef3a7",
+      "bytes": 6073,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/garita-30-segundos-v1-20261101/revision/animacion/STORYBOARD-GARITA.md",
+      "source": "historical-episode/garita-30-segundos-v1-20261101",
+      "source_sha256": "6129d901576f566aff25305eb0b1d67daaaa8edf9db36d9544829d8ce92f07e9",
+      "output_sha256": "6129d901576f566aff25305eb0b1d67daaaa8edf9db36d9544829d8ce92f07e9",
+      "bytes": 4435,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/mamas-fijan-sueldos-v1-20261102/LOCUCION-V1.txt",
+      "source": "historical-episode/mamas-fijan-sueldos-v1-20261102",
+      "source_sha256": "357f661e2af3bde54c11d0766c03d91302e07c378ccdd055a6efbc494e4a8138",
+      "output_sha256": "357f661e2af3bde54c11d0766c03d91302e07c378ccdd055a6efbc494e4a8138",
+      "bytes": 4596,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/mamas-fijan-sueldos-v1-20261102/revision/animacion/storyboard-beats.md",
+      "source": "historical-episode/mamas-fijan-sueldos-v1-20261102",
+      "source_sha256": "15968061416d16e1777ba0ea548eaeade07be93476038aeb72fd0fe143709009",
+      "output_sha256": "9bb67428b28dce10fc0e64b780d0c395a0070deea4e1dfd747ba24a2cfade52d",
+      "bytes": 7860,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/mexicanos-cobran-dolares-v1-20261101/LOCUCION-V1.txt",
+      "source": "historical-episode/mexicanos-cobran-dolares-v1-20261101",
+      "source_sha256": "367884a594ac5e2f1ea547de6fabfc218c8b86c0cdb863ae24484a004c67f9ee",
+      "output_sha256": "bb53a077179768a203e55a2b4dcfd66e93bf123a08ef59e910f12cb06bb1da39",
+      "bytes": 3796,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/mexicanos-cobran-dolares-v1-20261101/revision/animacion/storyboard-beats.md",
+      "source": "historical-episode/mexicanos-cobran-dolares-v1-20261101",
+      "source_sha256": "f67eb7caeee2d1674df2dca3441d7bff554bd16517a54bf782231fe57e19b594",
+      "output_sha256": "05d8c64b25e0faccc32b893dff560c2c5e4e83c68dfbcb7520ef7cdd34a5a9eb",
+      "bytes": 6311,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/mexicanos-salen-usa-v1-20261030/GUION-LOCUCION-V1.txt",
+      "source": "historical-episode/mexicanos-salen-usa-v1-20261030",
+      "source_sha256": "1ea0e06ebe1af8196acfc5eb9570714ab77210e11d2f25303878c8acd82bd313",
+      "output_sha256": "8d4f51d18e321149ac5bd7e048681b13ca72bdedaff9de8d5a9dcc67dd7d568e",
+      "bytes": 6021,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/mexicanos-salen-usa-v1-20261030/LEEME-LOCUCION.md",
+      "source": "historical-episode/mexicanos-salen-usa-v1-20261030",
+      "source_sha256": "c11952c0ad602619194edc4643fae5ea011ca17b34c8d164e5761dc43a4b4e8d",
+      "output_sha256": "264e79f92e34da652d0e43015fb9db1e72ff4c1fef461f4933cf3024118670bb",
+      "bytes": 788,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/mexicanos-salen-usa-v1-20261030/r2/motor/episodios/ep06-mexicanos-salen-usa/guion/guion-voz-v1.txt",
+      "source": "historical-episode/mexicanos-salen-usa-v1-20261030",
+      "source_sha256": "9439f52dea58df6e43ef6f0c4bc11f32242ef7b29962171ec4c44a1917d19fe1",
+      "output_sha256": "9439f52dea58df6e43ef6f0c4bc11f32242ef7b29962171ec4c44a1917d19fe1",
+      "bytes": 169,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/mexicanos-salen-usa-v1-20261030/r2/motor/episodios/ep06-mexicanos-salen-usa/guion/guion-voz-v3.txt",
+      "source": "historical-episode/mexicanos-salen-usa-v1-20261030",
+      "source_sha256": "8d4f51d18e321149ac5bd7e048681b13ca72bdedaff9de8d5a9dcc67dd7d568e",
+      "output_sha256": "8d4f51d18e321149ac5bd7e048681b13ca72bdedaff9de8d5a9dcc67dd7d568e",
+      "bytes": 6021,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/mexicanos-salen-usa-v1-20261030/r2/motor/episodios/ep06-mexicanos-salen-usa/revision/storyboard.md",
+      "source": "historical-episode/mexicanos-salen-usa-v1-20261030",
+      "source_sha256": "740eb00dde5885205b0c6ba7242b6ab6ebe1aa0a88f2e4e5e3fdb414b047edec",
+      "output_sha256": "740eb00dde5885205b0c6ba7242b6ab6ebe1aa0a88f2e4e5e3fdb414b047edec",
+      "bytes": 10352,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/mexico-gana-carrera-ia-v1-20261101/LOCUCION-V1.txt",
+      "source": "historical-episode/mexico-gana-carrera-ia-v1-20261101",
+      "source_sha256": "983f5f4d01b7f7703e4ddf46755c9f63aa4cc845f40e822b3f5c8f97870b3955",
+      "output_sha256": "87c582de8eec1a85d5f8f2b1365114d16bcdf8bc9699212511a0cd9a3008c8d4",
+      "bytes": 3940,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/mexico-gana-carrera-ia-v1-20261101/revision/animacion/storyboard-beats.md",
+      "source": "historical-episode/mexico-gana-carrera-ia-v1-20261101",
+      "source_sha256": "a4011272cb48c0d00c1dacb84198c8feeded4d9681e167fadb964c9a4a8fa407",
+      "output_sha256": "35318a21e5fc7ebf5249fa7cfaf28cded27893bf01207a0c44544acb75c11386",
+      "bytes": 6324,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/mexico-mejor-transporte-v1-20261101/LOCUCION-V1.txt",
+      "source": "historical-episode/mexico-mejor-transporte-v1-20261101",
+      "source_sha256": "d3d63c82ffdd6c4af99c7485917e47e6512462c900dfb7530f4ad59c33225833",
+      "output_sha256": "56ac489a74d781da1ed1d47f619fe75f8d9e9e1831f26a8af38bedca972e52f9",
+      "bytes": 3831,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/mexico-mejor-transporte-v1-20261101/revision/animacion/storyboard-beats.md",
+      "source": "historical-episode/mexico-mejor-transporte-v1-20261101",
+      "source_sha256": "0ef87c7d58ea42574562c56bb6d578263b540ebd4c95cac3f516c6623ee44ad7",
+      "output_sha256": "da0e671da10e3f91ae41ca4b9c730b0de69f5fbfacc8a85d161a2116d48836d3",
+      "bytes": 6397,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/mexico-regalias-tacos-v1-20261101/LOCUCION-V1.txt",
+      "source": "historical-episode/mexico-regalias-tacos-v1-20261101",
+      "source_sha256": "305f0708df3dfdfe766b4529b5055db7b1114e08a5b0cf6f76c07253319bf477",
+      "output_sha256": "0f34097b50606181f977f1624a6d98a4d45ca994ba4925c9e01e0821cc5c2e6e",
+      "bytes": 3837,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/mexico-regalias-tacos-v1-20261101/revision/animacion/storyboard-beats.md",
+      "source": "historical-episode/mexico-regalias-tacos-v1-20261101",
+      "source_sha256": "4913776607965cd6559772dde1813dbffcf090120a58a0e2faf66e4d49fd1018",
+      "output_sha256": "5c88b910cfe14b1d869efd3109b82b217678ce6bc011cbeb52f2e9e3cb601ae1",
+      "bytes": 6404,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/mundo-sin-crimen-v1-20261029/guion/GUION-v1.md",
+      "source": "historical-episode/mundo-sin-crimen-v1-20261029",
+      "source_sha256": "ddbd2b2ffe6dbc532780bfadefcd8ef7a295aeb369118fd5140e48f07c55bc21",
+      "output_sha256": "ddbd2b2ffe6dbc532780bfadefcd8ef7a295aeb369118fd5140e48f07c55bc21",
+      "bytes": 10404,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/mundo-sin-crimen-v1-20261029/guion/guion-voz-v1.txt",
+      "source": "historical-episode/mundo-sin-crimen-v1-20261029",
+      "source_sha256": "ee5a62697d7ab05f96a9e855f88fa347f7ead36948ceae0886f9fa9883566c03",
+      "output_sha256": "ee5a62697d7ab05f96a9e855f88fa347f7ead36948ceae0886f9fa9883566c03",
+      "bytes": 4583,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/mundo-sin-crimen-v1-20261029/guion/guion-voz-v2.txt",
+      "source": "historical-episode/mundo-sin-crimen-v1-20261029",
+      "source_sha256": "bb4cd60c5ead4b7f6badfbe8b4144f9d28d55338654f838224a3e298ff3953cc",
+      "output_sha256": "bb4cd60c5ead4b7f6badfbe8b4144f9d28d55338654f838224a3e298ff3953cc",
+      "bytes": 4103,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/narco-v6-muestra-v1-20261028/STORYBOARD-V6.md",
+      "source": "historical-episode/narco-v6-muestra-v1-20261028",
+      "source_sha256": "d3ad7dfc0377e858a4988b9c4708ae46bb326f53ee26a382dcc7451eba4d3423",
+      "output_sha256": "d3ad7dfc0377e858a4988b9c4708ae46bb326f53ee26a382dcc7451eba4d3423",
+      "bytes": 10972,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/obras-tijuana-mismo-dia-v1-20261101/LOCUCION-V1.txt",
+      "source": "historical-episode/obras-tijuana-mismo-dia-v1-20261101",
+      "source_sha256": "dde1da33bed066d53feb0252afe7834555eb3fc37d794d2d86120ddbdcf6f7f1",
+      "output_sha256": "4f8de756b54f6ac1a966ca37cdc792db2b8d50ed44faf82dcb19ffd306503aa5",
+      "bytes": 3862,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/obras-tijuana-mismo-dia-v1-20261101/revision/animacion/storyboard-beats.md",
+      "source": "historical-episode/obras-tijuana-mismo-dia-v1-20261101",
+      "source_sha256": "197e8adb5114cfe617df2ed2e2641575c7ba3db3fe6fa89f3cc8dd1db218c785",
+      "output_sha256": "7bdb5f24764b70e297b84acc163f81c6a25caa81a2c5b5d883293bc7806a5ce4",
+      "bytes": 6377,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/oxxo-segunda-caja-v1-20261101/LOCUCION-V1.txt",
+      "source": "historical-episode/oxxo-segunda-caja-v1-20261101",
+      "source_sha256": "3f7fc12c76816d5dbb5a1cfa489fb743f703253f2ae89ec1ae65d428876bb862",
+      "output_sha256": "9085d795717cde521385bf4449f7cf7d0c8436208aa4d1ed188712dbdac1a9b1",
+      "bytes": 3699,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/oxxo-segunda-caja-v1-20261101/revision/animacion/storyboard-beats.md",
+      "source": "historical-episode/oxxo-segunda-caja-v1-20261101",
+      "source_sha256": "6cbe6bff8eae7b54135dc0a6bc12e429109e73ae93ff428bc18ee4ae9ac834b1",
+      "output_sha256": "806898a6fb81a51a79491358a40a28c2c9dd1bb0092d751c59eadfc70ff84897",
+      "bytes": 6318,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/piloto-collage-60s-20261101/GUION-LOCUCION-PILOTO.txt",
+      "source": "historical-episode/piloto-collage-60s-20261101",
+      "source_sha256": "57c709a4f47fd973108eeb10d7e489826d8ac63de894f2390f24cdf796fa7dc6",
+      "output_sha256": "acf28c1cf6c5471379146af00c731c5fd56acc98c5a8e77aba85b7a8f1ff6208",
+      "bytes": 753,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/piloto-collage-60s-20261101/GUION-PILOTO.md",
+      "source": "historical-episode/piloto-collage-60s-20261101",
+      "source_sha256": "aa20c9933f490642e763b471b6410cc0fb3a472ff3b023e8e1fb3024f2bd6de6",
+      "output_sha256": "aa20c9933f490642e763b471b6410cc0fb3a472ff3b023e8e1fb3024f2bd6de6",
+      "bytes": 2909,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/piloto-collage-60s-20261101/LOCUCION-PILOTO.txt",
+      "source": "historical-episode/piloto-collage-60s-20261101",
+      "source_sha256": "acf28c1cf6c5471379146af00c731c5fd56acc98c5a8e77aba85b7a8f1ff6208",
+      "output_sha256": "acf28c1cf6c5471379146af00c731c5fd56acc98c5a8e77aba85b7a8f1ff6208",
+      "bytes": 753,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/piloto-collage-60s-20261101/revision/animacion/storyboard-beats.md",
+      "source": "historical-episode/piloto-collage-60s-20261101",
+      "source_sha256": "787589a36a0b8e803b621ab0d738bbb79ff24d2f6647c4f19312d3273f9859f0",
+      "output_sha256": "cadf2863252b7bd032cb0f939ff10687dedbb293f7917cb689eb56b2d135841e",
+      "bytes": 1479,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/san-diego-mas-barato-v1-20261101/LOCUCION-V1.txt",
+      "source": "historical-episode/san-diego-mas-barato-v1-20261101",
+      "source_sha256": "39fbaad9aba51d6cd361b5e22a2d7b51039be052039f221a9d2942b4f389ba1d",
+      "output_sha256": "28ab4a48d17a2daf5f9b9145c95c3093cd2054fafb1d89f6f0e36b672ce9a5ff",
+      "bytes": 3882,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/san-diego-mas-barato-v1-20261101/revision/animacion/storyboard-beats.md",
+      "source": "historical-episode/san-diego-mas-barato-v1-20261101",
+      "source_sha256": "4f963da0ccd2fc0b507b05e1b5432153317361b1ab3804bab961593705c22de3",
+      "output_sha256": "f7b245147a2170fe264a9f6ea22b454257e9f205a29bc18d1c8887f058e2c13e",
+      "bytes": 6449,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/tijuana-cafeterias-v1-20261031/GUION-LOCUCION-V1.txt",
+      "source": "historical-episode/tijuana-cafeterias-v1-20261031",
+      "source_sha256": "571aafa0aa490230ca279737ec82a25631ecfcfd2b7d498c6de60a2ca488cccd",
+      "output_sha256": "67941ca0454c1fab7001146d98cf34969d679304c0f78798feb8e757300144df",
+      "bytes": 4864,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/tijuana-cafeterias-v1-20261031/LOCUCION-CAFETERIAS-V1.txt",
+      "source": "historical-episode/tijuana-cafeterias-v1-20261031",
+      "source_sha256": "571aafa0aa490230ca279737ec82a25631ecfcfd2b7d498c6de60a2ca488cccd",
+      "output_sha256": "67941ca0454c1fab7001146d98cf34969d679304c0f78798feb8e757300144df",
+      "bytes": 4864,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/tijuana-cafeterias-v1-20261031/proyecto/GUION-CAFETERIAS-V1.md",
+      "source": "historical-episode/tijuana-cafeterias-v1-20261031",
+      "source_sha256": "889c1c0b80c36ce6a06f8c1ddd432d8776f28aefbda3312bded2eafe42c7e00c",
+      "output_sha256": "bf6f76a9712be20f7f7cc7798d6cbad68e012ff56e73b5021d10c89e0fffaced",
+      "bytes": 5014,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/tijuana-cafeterias-v1-20261031/revision/animacion/storyboard-beats.md",
+      "source": "historical-episode/tijuana-cafeterias-v1-20261031",
+      "source_sha256": "3f0ac3b095c549d2715476410c6df13521a68088d1b5bc65e134e69fbf347849",
+      "output_sha256": "dff5be5e02663630399416624a72462b16b2b48b0ce2a0e403aecf3b6f8ded90",
+      "bytes": 7834,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/tijuana-capital-v1-20261030/GUION-LOCUCION-V1.txt",
+      "source": "historical-episode/tijuana-capital-v1-20261030",
+      "source_sha256": "86a82436dd8ec85191178146843791f2265b5a02f65fe35af3b5c45a8fdc6ce7",
+      "output_sha256": "8aba0c56dee412d348efee08f3976f6b35a525dad286cac4a088208b8a5acae0",
+      "bytes": 9335,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/tijuana-capital-v1-20261030/LEEME-LOCUCION.md",
+      "source": "historical-episode/tijuana-capital-v1-20261030",
+      "source_sha256": "b7ad2aa2c997c08a44f60edaa0dd6e04c084c662f75c66fee17e614f8e1b43df",
+      "output_sha256": "216334c1e53a9b8abe5db80a0a3264d720a9619c606c2b2d3802ebb922070c79",
+      "bytes": 1584,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/tijuana-capital-v1-20261030/revision/animacion/storyboard-beats.md",
+      "source": "historical-episode/tijuana-capital-v1-20261030",
+      "source_sha256": "6855a4c5d77c8493d5e92c236800cd00b9f3a92fa8084a604ff3dfc7fb8f7c75",
+      "output_sha256": "9379f265471b79af3f998b91459925ac2a50136c2e053c343885d09efe46c461",
+      "bytes": 13966,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/tijuana-sin-trafico-v1-20261101/LOCUCION-V1.txt",
+      "source": "historical-episode/tijuana-sin-trafico-v1-20261101",
+      "source_sha256": "f48edfe2a2453579e9ecb92a539beb3aba62934c5ce2ad0207fcdb6e3a6bf72b",
+      "output_sha256": "b8841dd5b302076b77386fc86f2857f0bb48412aa6d5091f09a8e4becb89b7cb",
+      "bytes": 3594,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/tijuana-sin-trafico-v1-20261101/revision/animacion/storyboard-beats.md",
+      "source": "historical-episode/tijuana-sin-trafico-v1-20261101",
+      "source_sha256": "44b861c4a46661534e7a5420140a4d4a4f35ef24cf3ad481b3fe3ff03f3b0232",
+      "output_sha256": "b5a46559f71dd05ea7059763620dfe005c273ae3afa0992473d65123f1f0fc84",
+      "bytes": 5978,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/visa-mexicana-estadounidenses-v1-20261102/LOCUCION-V1.txt",
+      "source": "historical-episode/visa-mexicana-estadounidenses-v1-20261102",
+      "source_sha256": "77c248379a7cbf56bca7f8232fbdbb97806ee03576d4408ffa1142f5ba1242ed",
+      "output_sha256": "77c248379a7cbf56bca7f8232fbdbb97806ee03576d4408ffa1142f5ba1242ed",
+      "bytes": 4281,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/visa-mexicana-estadounidenses-v1-20261102/revision/animacion/storyboard-beats.md",
+      "source": "historical-episode/visa-mexicana-estadounidenses-v1-20261102",
+      "source_sha256": "e5a08916281832b70d53f3033a04880e7d1130ebc6b3277c9105abf424deec10",
+      "output_sha256": "9ab49804688b30f807728edbe885331444eeb3589a550710fb575fcc71ef6b33",
+      "bytes": 7385,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/xolos-champions-v1-20261102/LOCUCION-V1.txt",
+      "source": "historical-episode/xolos-champions-v1-20261102",
+      "source_sha256": "707a5420d45d21cb26372b426269e377a15353e410cbdc96d54daf7b761566ce",
+      "output_sha256": "707a5420d45d21cb26372b426269e377a15353e410cbdc96d54daf7b761566ce",
+      "bytes": 4902,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/xolos-champions-v1-20261102/revision/animacion/storyboard-beats.md",
+      "source": "historical-episode/xolos-champions-v1-20261102",
+      "source_sha256": "5c61c10e702a01a2a6984827a044ab2b6e5901d6c3a03f9cbbdb52253c9f3974",
+      "output_sha256": "d45bcc3b1a2371917d7e8d26ae64edf98a482865f91a3224ba50fde345603808",
+      "bytes": 8465,
+      "portable_transform": false
+    },
+    {
+      "path": "herramientas/hoja_r2.mjs",
+      "source": "opt-in-helpers-already-integrated",
+      "source_sha256": "6e5af911f826f57ca54f07184829fa58632122674144892819602ee47635da83",
+      "output_sha256": "6e5af911f826f57ca54f07184829fa58632122674144892819602ee47635da83",
+      "bytes": 2619,
+      "portable_transform": false
+    },
+    {
+      "path": "herramientas/kit/kit-r2.js",
+      "source": "opt-in-helpers-already-integrated",
+      "source_sha256": "a69967af63ea9d2ef92cf22ed56c17ac9ab057c327059f4760647d688819a3dd",
+      "output_sha256": "a69967af63ea9d2ef92cf22ed56c17ac9ab057c327059f4760647d688819a3dd",
+      "bytes": 2964,
+      "portable_transform": false
+    },
+    {
+      "path": "herramientas/parche_planos.cjs",
+      "source": "opt-in-helpers-already-integrated",
+      "source_sha256": "c13edab8f7d0432664e20f8d24bebb8147107b832c4f1060c12d273b7be53397",
+      "output_sha256": "c13edab8f7d0432664e20f8d24bebb8147107b832c4f1060c12d273b7be53397",
+      "bytes": 3394,
+      "portable_transform": false
+    },
+    {
+      "path": "herramientas/planos_r2.mjs",
+      "source": "opt-in-helpers-already-integrated",
+      "source_sha256": "efb09964ab4a805249041b6a5f9e14b662a1a37fa88549a1160eecdaa74e10ab",
+      "output_sha256": "efb09964ab4a805249041b6a5f9e14b662a1a37fa88549a1160eecdaa74e10ab",
+      "bytes": 709,
+      "portable_transform": false
+    },
+    {
+      "path": "herramientas/portadas_r2.mjs",
+      "source": "opt-in-helpers-already-integrated",
+      "source_sha256": "1a77b9944ce87d977463a31bb63e54fe74e3de6e71b81bceaf2fc4fb5698cc15",
+      "output_sha256": "1a77b9944ce87d977463a31bb63e54fe74e3de6e71b81bceaf2fc4fb5698cc15",
+      "bytes": 2948,
+      "portable_transform": false
+    },
+    {
+      "path": "herramientas/preparar_expediente.mjs",
+      "source": "opt-in-helpers-already-integrated",
+      "source_sha256": "339da18560787d0c1e5546d58ef7a862602a65fc6dbaccb6f0d9e270498ac0bc",
+      "output_sha256": "339da18560787d0c1e5546d58ef7a862602a65fc6dbaccb6f0d9e270498ac0bc",
+      "bytes": 4065,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/README.md",
+      "source": "integration",
+      "source_sha256": "6f61d6a189249c690617e77c9935f5c0576a47bf7d2fe9a62713aa3f4e36099d",
+      "output_sha256": "6f61d6a189249c690617e77c9935f5c0576a47bf7d2fe9a62713aa3f4e36099d",
+      "bytes": 561,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/INDICE.md",
+      "source": "integration",
+      "source_sha256": "6428f47818e7cc2a9e921e070c4108079d97dee4086afb8195d8aff36cf9a83b",
+      "output_sha256": "6428f47818e7cc2a9e921e070c4108079d97dee4086afb8195d8aff36cf9a83b",
+      "bytes": 11833,
+      "portable_transform": false
+    },
+    {
+      "path": "docs/24-criterio-vigente-20261104.md",
+      "source": "integration",
+      "source_sha256": "1a7f99be6a6c0007b1a35943cf0fc4449ab0308f820cc374154ab7a475a1ed73",
+      "output_sha256": "1a7f99be6a6c0007b1a35943cf0fc4449ab0308f820cc374154ab7a475a1ed73",
+      "bytes": 3381,
+      "portable_transform": false
+    },
+    {
+      "path": "docs/25-miniaturas-paso-a-paso.md",
+      "source": "integration",
+      "source_sha256": "4b8746a03d0b7088427128017490d4bae56dd95aecd8253ec8a5c2bd66b694c0",
+      "output_sha256": "4b8746a03d0b7088427128017490d4bae56dd95aecd8253ec8a5c2bd66b694c0",
+      "bytes": 1504,
+      "portable_transform": false
+    },
+    {
+      "path": "docs/referencias/metodo-miniaturas/estilo-blanco.txt",
+      "source": "white-cover-method-20261104",
+      "source_sha256": "3aabb9f1c09824de72ed98abf47ad6cc859f3d3ec12463032bae81cfc5dcd7de",
+      "output_sha256": "3a7174fea356eb12e587f065ee148a3899a6f1dca60017440e73fc674ec7aa33",
+      "bytes": 1105,
+      "portable_transform": false
+    },
+    {
+      "path": "docs/referencias/metodo-miniaturas/DIRECCION-PROMPTS.json",
+      "source": "white-cover-method-20261104",
+      "source_sha256": "9b86578c064605473a3f63b9f93bb45bc41089afcdf3965886ab725e19e8bd2a",
+      "output_sha256": "b581d1da56c0a61202a5f8c0506e9509604f695cdbed4d46999768e12f8bd667",
+      "bytes": 123964,
+      "portable_transform": true
+    },
+    {
+      "path": "docs/referencias/metodo-miniaturas/DIRECCION-CIERRE-PORTADAS.json",
+      "source": "white-cover-method-20261104",
+      "source_sha256": "1002edd320bfa05777aa5a4c60019bf0fcaaf1c56a79830bdc1342d36812f55b",
+      "output_sha256": "ca040fe6c2ee0df42e0e5a2310b31b2befa8ac829a1b4e082b92e71f0626976b",
+      "bytes": 60673,
+      "portable_transform": true
+    },
+    {
+      "path": "CONTINUIDAD.md",
+      "source": "integration",
+      "source_sha256": "c216a7e1621964ab5fd49482fa86cfd05923361ed254be5cb93ce90ca01e1a35",
+      "output_sha256": "c216a7e1621964ab5fd49482fa86cfd05923361ed254be5cb93ce90ca01e1a35",
+      "bytes": 1180,
+      "portable_transform": false
+    },
+    {
+      "path": "skills/README.md",
+      "source": "integration",
+      "source_sha256": "8eb76b90952299bb968fb25783314885fde6686e325d603a6a64a5cfbcdbd18a",
+      "output_sha256": "8eb76b90952299bb968fb25783314885fde6686e325d603a6a64a5cfbcdbd18a",
+      "bytes": 1170,
+      "portable_transform": false
+    },
+    {
+      "path": "AGENTS.md",
+      "source": "integration",
+      "source_sha256": "a6d6f7b9cc1fa025f834e656b146bc44119694c1bb8dd82cb2e61fbb436c6454",
+      "output_sha256": "a6d6f7b9cc1fa025f834e656b146bc44119694c1bb8dd82cb2e61fbb436c6454",
+      "bytes": 1480,
+      "portable_transform": false
+    },
+    {
+      "path": "docs/00-modus-operandi.md",
+      "source": "integration",
+      "source_sha256": "556d93a0f993b7e8685af856fd30a3606799ab80152fdac87140997b047a5d8d",
+      "output_sha256": "556d93a0f993b7e8685af856fd30a3606799ab80152fdac87140997b047a5d8d",
+      "bytes": 6268,
+      "portable_transform": false
+    },
+    {
+      "path": "docs/02-guion-y-voz.md",
+      "source": "integration",
+      "source_sha256": "fcdecc9e3d8cc0b9204638512e056048cc2f7a5d2bf08b211039344e62b380ec",
+      "output_sha256": "fcdecc9e3d8cc0b9204638512e056048cc2f7a5d2bf08b211039344e62b380ec",
+      "bytes": 5103,
+      "portable_transform": false
+    },
+    {
+      "path": "README.md",
+      "source": "integration",
+      "source_sha256": "b5884f5a9092de3c6f277ccdbe6bc25cc4db52d57bb2e70d9760eda708cc58b3",
+      "output_sha256": "b5884f5a9092de3c6f277ccdbe6bc25cc4db52d57bb2e70d9760eda708cc58b3",
+      "bytes": 10494,
+      "portable_transform": false
+    },
+    {
+      "path": "guiones/anteriores/OMISIONES-PLANTILLAS.json",
+      "source": "integration",
+      "source_sha256": "f28f8bf32c23126210ef3ff1c36236488e6f7bdf7ced969f641261c185e057c3",
+      "output_sha256": "6c44923c2dcb624e9c1c0ade2861aae504daf6419db7fecb6ebb37fc595d3a82",
+      "bytes": 1892,
+      "portable_transform": false
+    }
+  ],
+  "privacy": "No production media,credentials,sessions or personal absolute paths added.",
+  "text_normalization": "Portable paths and UTF8/LF whitespace normalization; source SHA retained."
+}

@@ -1,0 +1,73 @@
+# Guion de voz v2 · ¿Y si el mundo acabara con el crimen organizado?
+# Narrador: Joaquín (rtQzMJmQhSg0YB7cp3ed) · eleven_v4 · español de México · una sola toma
+# Una línea, una imagen. Las etiquetas van al inicio de la línea. Funciona solo: no depende de otros episodios.
+
+[firm] Don Beto lleva doce años pagando para que no le quemen su tortillería.
+Cada lunes llega un tipo en moto y se lleva dos mil pesos.
+[conversational] A eso le dicen "cobro de piso".
+[intriguing, slow] Este lunes… el de la moto no llega.
+Ni el siguiente. Ni nunca.
+Porque hoy, en todo el planeta, se acabó el crimen organizado.
+
+[conversational] Y ojo: no hablamos del que te arrebata el celular.
+Hablamos de empresas criminales. Con jefes, con nómina y hasta con contadores.
+Las que cobran piso, venden droga, trafican personas y lavan dinero.
+[firm] Hoy, uno de cada cinco homicidios en el mundo tiene que ver con ellas.
+En América, uno de cada dos.
+[intriguing, slow] Entonces… ¿y si el mundo acabara con el crimen organizado?
+[epic, slow] ¿Y si sí?
+
+[warm] Empecemos por Don Beto.
+Dos mil pesos a la semana son más de cien mil pesos al año.
+Con eso cambia el comal chueco y contrata a su sobrino.
+[amused] Ahora, el que llega en moto los lunes… es su sobrino. A repartir tortillas.
+
+[conversational] Luego, la calle.
+La esquina donde nadie se paraba de noche se llena de puestos.
+Los taxis vuelven a levantar pasaje después de las diez.
+Y tu mamá deja de pedirte que le mandes tu ubicación.
+[soft smile] Bueno… casi. Es tu mamá.
+
+[tense] Luego, la familia.
+Tu prima Daniela tiene diecinueve.
+En la vida real, le llega este mensaje:
+"Trabajo en Asia. Mil quinientos dólares al mes. Sin experiencia."
+[whispers] Así terminaron cientos de miles de personas encerradas en edificios del sudeste asiático, obligadas a estafar por internet.
+[relieved] En este mundo, ese mensaje no existe.
+Daniela trabaja en una agencia de viajes en Guadalajara.
+[amused] Lo más peligroso que enfrenta al día es un cliente que quiere su reembolso.
+
+[conversational] Y luego, el mundo entero.
+Se calcula que cada año se lavan hasta dos billones de dólares de dinero sucio.
+Más o menos lo que produce México completo en un año.
+En este mundo, ese dinero ya no se esconde en empresas fantasma ni en maletas.
+[amused] Las maletas regresan a lo suyo: irse de vacaciones.
+[conversational] Y a quien tiene una adicción lo atiende un doctor, no un vendedor.
+
+[building excitement] Pasan los años.
+El juez ya no tiene precio. Tiene horario.
+La frase "conozco gente" deja de ser amenaza. Ahora sirve para conseguir boletos.
+Las películas de mafiosos se mudan a la sección de historia, junto a las de piratas.
+[amused] Y tu abuelo cuenta: "En mis tiempos había cárteles". Y los nietos no le creen.
+
+[reflective] Ahora, lo honesto.
+Seguiría habiendo crimen: gente que roba, que estafa, que hace daño… por su cuenta.
+Lo que se acaba es el crimen con jefe, con nómina… y con cobrador en moto.
+¿Y cómo se lograría? No con más balazos.
+Quitándole lo que lo mantiene vivo: el dinero, los clientes, la gente desesperada que recluta… y los que se dejan comprar.
+[intriguing] Y lo más curioso: el mundo ya lo intentó.
+En el año dos mil, ciento veinticuatro países firmaron un tratado contra el crimen organizado.
+¿Dónde? En Palermo, Italia. Sí: en la tierra de la mafia.
+[firm] El tratado existe. Lo que falta es cumplirlo.
+[soft smile] Firmar… ya sabemos que sí saben.
+
+[warm] Lunes, siete de la mañana. Don Beto abre su tortillería.
+Nadie llega a cobrarle.
+[soft] Y por primera vez en doce años, cierra tarde… porque quiere, no porque tenga miedo.
+
+[conversational] Lo real: el cobro de piso, los centros de estafas, el tratado de Palermo y las cifras de la ONU.
+Lo inventado: Don Beto, Daniela… y que el mundo lo cumpliera.
+
+[intriguing] Si tú pudieras quitarle una sola cosa al crimen organizado, ¿cuál sería: el dinero, los clientes, la gente que recluta o los que se dejan comprar?
+Te leo en los comentarios. Y síguenos para el próximo "¿y si…?".
+[epic, slow] ¿Y si sí?

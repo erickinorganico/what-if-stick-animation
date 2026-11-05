@@ -5,6 +5,8 @@ description: "Úsala al escribir, reescribir o evaluar cualquier guion o texto n
 
 # Escritura de guiones AI Lab School
 
+> **Enrutamiento condicional (El Hubiera).** Si la pieza es del canal El Hubiera (@aquielhubierasiexiste, ≥ 3:30), no uses esta skill: usa [la referencia de El Hubiera](../stickman-animation-video/references/guion-enganche-hubiera.md). Los 55–70 s, la única ponchada y el CTA de agente/clientes de esta skill NO se aplican a El Hubiera. La cuenta AI Lab no es la marca de ese canal.
+
 Este método general sale de lo que mejor funcionó en el proyecto «3D content»:
 - La mini-temporada «Renders baratos» de Labi & Beto.
 - Las series stickman «El Agente» y «El Dueño».

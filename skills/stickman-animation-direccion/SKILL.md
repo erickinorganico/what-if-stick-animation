@@ -40,6 +40,7 @@ transicion(B.b30, 'dip', .7);                                              // so
 
 - **Nadie posa mientras habla el narrador:** cada personaje hace algo. Usa las 21 poses del kit (`explain`, `think`, `shrug`, `offer`, `crossed`, `facepalm`, `headScratch`, `sitLaugh`…).
 - **Brazos:** el kit relaja solo los extendidos. Para tocar algo usa `agarre()` (codo doblado); si el objeto queda lejos, `alcance()`. Nunca `POSE.point` como pose genérica.
+- **Gag y reacción:** si el guion trae un chiste visual, anímalo antes de que la voz lo diga y deja la reacción (0.5–1 s) antes de explicarlo. Un beat sin acción que se pueda dibujar es señal de que el guion está en adjetivos: avísalo, no lo rellenes con poses.
 - **Actuación:** anticipación, acción y asentamiento. Deja 0.5–1 s de reacción tras una frase con peso. En diálogo usa la boca con `habla(t, t0, t1)`; en una frase triste, asentimiento en vez de boca sonriente.
 - **Cámara:** un encuadre y un movimiento propios por plano. Varía general, medio, cercano, inserto, sobre el hombro y cenital. Zoom de golpe como máximo 1–2 por episodio.
 - **Color y marca:**
@@ -77,3 +78,20 @@ transicion(B.b30, 'dip', .7);                                              // so
 - **`postGoalPOV` es del ep02** y no se copia a episodios nuevos; usa `goalPOV` o `penaltyPOV` (de `shots2`/`shots3a`).
 - **Personajes reales:** silueta stickman con el número y su celebración; sin frases atribuidas, sin rostro ni fotos.
 - **Revisión por hojas:** `snap.mjs` con 12–30 tiempos y una hoja en mosaico (16:9 y `--v`) detectó en ep04 personajes que se cruzaban, franjas negras, el trofeo tapando la cara y una figura invisible.
+
+## Corrección de un episodio existente con contexto mínimo (aprendido en ep06 R2, 31 oct 2026)
+
+- **No leas los archivos de tomas completos para orientarte.** Primero `node herramientas/planos_r2.mjs <ep>`: una línea por plano con inicio, duración y el texto de voz que cae en él. Lee sólo el bloque `sh(N, …)` que vas a cambiar.
+- **API de utilería sin leer los entornos:** lista firmas con una sola línea de node (regex sobre `function nombre(args)`) en vez de abrir `mx-env.js`, `cr-env.js`, `char.js` completos. Abre una función sólo si vas a usarla con parámetros nuevos.
+- **Revisión sin render:** `node herramientas/hoja_r2.mjs <ep> <dir> --planos A-B --por 3` arma en el navegador una hoja en mosaico (inicio, medio y fin de cada plano). 92 planos = 12 hojas en 16:9 y 8 en 9:16. Mira primero la hoja de los planos tocados; la hoja completa sólo una vez al final.
+- **Parche por plano, no reescritura:** escribe sólo los planos nuevos (y, al inicio, los ayudantes que necesiten) y aplica `node herramientas/parche_planos.cjs <base.js> <nuevos.js> <salida.js>`. Conserva todo lo que no reemplaza. Falla sin escribir si un plano está repetido o no existe, si un bloque no cierra, si el resultado no compila o si la salida ya existe. Conserva la versión anterior en `src/v1/`.
+- **Kit R2 (`kit-r2.js`), opt-in por episodio.** Sin `window.KIT_R2` no redefine nada (probado: 30/30 cuadros idénticos en ep04 16:9 y 9:16). Actívalo sólo en episodios nuevos o abiertos con `<script>window.KIT_R2 = { camara: true, deriva: true }</script>` antes de cargarlo. Nunca en episodios cerrados. Evita tres fallos que antes sólo se veían a ojo:
+  - `cam()` acotado: con zoom `z ≥ 1` el centro queda entre `960/z` y `1920 − 960/z` (sin franjas negras laterales).
+  - `fondoVivo()`: gráficos con deriva lenta que sobrevive a `ui()`/`uiCenter()`. En ep06 bajó los congelados del crudo 16:9 de 22 a 2.
+  - `tramo()`/`camTramos()`: planos de más de 5 s con un corte interno anclado a una palabra (`Wd('frase', t0)`).
+- **Trampas nuevas del motor:**
+  - `layer(clave, …)` cachea por clave: nunca la llames con una clave existente y una función vacía (deja el fondo en blanco).
+  - Los ayudantes de personaje (`funcionario`, `chuy`, `dr`…) son `(ctx, o)`; un envoltorio que olvide `ctx` truena con `ctx.save is not a function`.
+  - `ui()`/`uiCenter()` hacen `setTransform`: cualquier transformación previa se pierde.
+  - Personajes secundarios con lentes y bigote se confunden con el Dr.: usa lentes **o** bigote, nunca los dos, fuera de los planos del Dr.
+- **Vertical:** después de cada bloque, una hoja `--v` de los gráficos a pantalla completa. En ep06 fallaron sólo los gráficos anchos (tríptico, contador que viaja, letreros a la derecha). Arréglalos con `vfit(ctx, V ? .42 : .6)` o con un `vx` por tramo.

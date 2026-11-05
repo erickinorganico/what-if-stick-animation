@@ -5,7 +5,7 @@ description: "Úsala para producir de principio a fin un video de animación sti
 
 # Stickman animation · video completo
 
-Producción de un episodio animado por código, con personajes stickman 2D sobre un motor canvas determinista. El caso principal es el canal **Aquí el hubiera sí existe** (@aquielhubierasiexiste). El repo está en `<LOCAL_PROJECT_PATH>`, con `.venv`, Playwright y modelos listos. En la nube de Cowork, súbelo con el puente: solo lo que el paso necesita.
+Producción de un episodio animado por código, con personajes stickman 2D sobre un motor canvas determinista. El caso principal es el canal **Aquí el hubiera sí existe** (@aquielhubierasiexiste). El repo está en `<LOCAL_PATH> Lab School\Automatizacion\el-hubiera\`, con `.venv`, Playwright y modelos listos. En la nube de Cowork, súbelo con el puente: solo lo que el paso necesita.
 
 ## Lee primero
 
@@ -18,8 +18,8 @@ Medidos en la nube de Cowork con 2 núcleos; en la PC, con más núcleos, es má
 | # | Paso | Comando o skill | Tiempo |
 |---|---|---|---|
 | 1 | Idea y punto de quiebre | `estrategia-contenido` + investigación | — |
-| 2 | Guion | `docs/02` (gancho con fecha → realidad → «¿y si sí?» → escalada → giro → vuelta → lo real y lo inventado → CTA) | — |
-| 3 | Voz (1 sola toma) | Skill **`voz-elevenlabs`**: candado, `generations_count=1`, sin reintentos. Joaquín `<APPROVED_VOICE_ID>`, `eleven_v4` | 1–3 min |
+| 2 | Guion | `docs/02` como referencia flexible (su orden es una opción; no exige fecha ni contexto antes del primer pago) y [`references/guion-enganche-hubiera.md`](references/guion-enganche-hubiera.md): abrir dentro de la acción, causa, giro, gag visual y callback. Validación ligera de la idea que Erick autorice antes de pagar voz | — |
+| 3 | Voz (1 sola toma) | Skill **`voz-elevenlabs`**: candado, `generations_count=1`, sin reintentos. Joaquín `rtQzMJmQhSg0YB7cp3ed`, `eleven_v4` | 1–3 min |
 | 4 | Tiempos por palabra | Scribe (0 créditos) → `palabras_a_js.py` → `src/words_ep.js` | 1 min |
 | 5 | Episodio nuevo | `python herramientas/nuevo_episodio.py epNN-slug "¿Y si …?"` (instala el kit de dirección) | segundos |
 | 6 | **Esqueleto** | `python herramientas/esqueleto.py <ep>`: beats de 2–5 s (`B.bN`), `revision/storyboard.md` y animatic | < 1 s |
@@ -71,3 +71,38 @@ Anota los cambios en `revision/revision-vN.md`, actualiza `episodio.json` y la t
 ## Tiempos medidos · ep04 «¿Y si Cristiano Ronaldo hubiera nacido en México?» (3:30, 2 núcleos)
 
 Ver `archivo/casos/ep04-cristiano-mexico-pipeline.md` del kit.
+
+## Expediente BUILD fuera del repo con permisos acotados (medido en ep06 R2, 31 oct 2026, PC con 16 núcleos)
+
+- **Permisos primero:** si la sesión no puede leer el repo o escribir en el expediente, detente y pide la autorización. No busques otra vía.
+- **Copia de trabajo, con la autorización por escrito en el expediente:** `node herramientas/preparar_expediente.mjs --autorizacion <encargo.md> --repo <el-hubiera> --expediente <BUILD/…> --episodio <carpeta> [--node_modules <instalación existente>]`.
+  - Nunca sobrescribe: el destino debe ser nuevo.
+  - Deja `PROCEDENCIA.json` con hashes y reporta qué falta (ffmpeg, numpy/PIL, scipy, playwright).
+  - Escribe `ESTADO-PRODUCCION.json` antes del trabajo largo.
+- **Sin scipy: no sustituyas solo.** Pide instalar scipy o una aprobación humana explícita del filtro alterno por FFT (`_bw`).
+  - El filtro alterno no es equivalente. Medido con `pruebas/comparar_filtro.py`: nivel ≤ 0.07 dB, pero la magnitud se aparta hasta 1.7 dB por encima de 4 kHz en los pasa-bajos y −2.1 dB en graves (hp a 1.5 kHz). La fase es cero y no causal: la forma de onda sólo correlaciona 0.47 en los pasa-bajos.
+  - Si se aprueba, conserva `audio_*.v1.py`, compara de oído contra la mezcla anterior y anótalo como limitación.
+- **Pico:** con `mezclar.py` a TP −1.6 el final AAC quedó en −1.4 dBTP (con −1.2 la V1 quedó en −0.9).
+- **Tiempos medidos (350 s, 10 507 cuadros):**
+
+| Paso | Tiempo |
+|---|---|
+| Render crudo 16:9, 8 workers | 1.8 min |
+| Render crudo 9:16 | ≈ 2 min |
+| Mezcla | 53.5 s |
+| 5 partes + 2 Shorts | 71 s |
+| QA de 11 archivos | 51 s |
+
+  En esta PC el render no es el cuello de botella: lo son la lectura de código, la revisión de hojas y los permisos.
+- **Orden de entrega cuando urge:**
+  1. Horizontal final con audio, QA y copia limpia con recibo.
+  2. Vertical.
+  3. Clips.
+  4. Portadas y copys.
+  5. Limpieza y manifiesto del resto.
+- **Limpieza:** `python _compartido/publicacion/limpiar_metadatos.py preparar <src> --salida <out> --recibo <out>.limpieza.json` y luego `verificar <out> --fuente <src> --recibo …`. Cierra con un manifiesto SHA256 y decodificación completa (`ffmpeg -v error -i f -f null -`).
+- **Logs resumidos:** redirige render y QA a archivo y mira sólo la última línea (`tail -1`). No pidas al modelo leer logs completos.
+
+## Feedback editorial del canal
+
+Antes de escribir o revisar guiones de El Hubiera, aplicar [la referencia narrativa](references/guion-enganche-hubiera.md) y [el aprendizaje editorial de Erick del4nov2026](references/feedback-editorial-20261104.md). Son criterios de sátira, escalada, lenguaje directo y evaluación creativa; no cambian voces, cuentas, renderer, modelo ni autorizaciones. Las preferencias humanas posteriores prevalecen. UnPASS de formato/timing no equivale a aprobación editorial.

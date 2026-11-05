@@ -1,10 +1,18 @@
+# El Hubiera · repositorio consolidado
+
+Actualización local4nov2026. [Continuidad](CONTINUIDAD.md) · [Criterio vigente](docs/24-criterio-vigente-20261104.md) · [Guiones nuevos y anteriores](guiones/README.md) · [Skills](skills/README.md) · [Cómo hacer miniaturas](docs/25-miniaturas-paso-a-paso.md) · [Referencias blancas](docs/referencias/miniaturas-blancas/)
+
+Conserva el motor, rig, animación habitual, código y ejemplos anteriores. Incorpora25 guiones nuevos revisados y pendientes de aprobación, archivo histórico con procedencia, skills actuales y miniaturas blancas con image_gen. Las instrucciones vigentes prevalecen sobre el snapshot histórico que sigue. No incluye MP4, voces, credenciales o dependencias y no activa producción/publicación. Originales previos a la consolidación: archivo/previo-consolidacion-20261104/.
+
+---
+
 # What If Stick Animation
 
 Sistema de producción de animación stickman 2D mediante Canvas y herramientas locales. Conserva las skills y el código utilizados por el canal Aquí el hubiera sí existe, bajo un nombre de repositorio reutilizable.
 
 ## Qué incluye
 
-- `skills/`: seis skills vigentes de guion, voz, dirección, producción y salidas; la anterior se conserva marcada obsoleta.
+- `skills/`: ocho skills vigentes de guion, voz, dirección, producción y salidas; la anterior se conserva marcada obsoleta.
 - `herramientas/`: motor de producción, esqueleto, animatic, tomas, mezcla, render horizontal/vertical, fragmentos y QA.
 - `episodios/`: código, guiones, storyboard, tiempos y configuración histórica de ep01, ep02 y ep04 como referencias editables.
 - `docs/`: método, diseño, audio, eficiencia y lecciones de producción.
@@ -27,14 +35,14 @@ cd what-if-stick-animation
 
 Puedes descargar **Code → Download ZIP** y descomprimirlo si no utilizas Git. Conserva esta carpeta: las skills necesitan sus herramientas, documentación y episodios de referencia, no sólo el texto de `SKILL.md`.
 
-### 2. Instalar las seis skills en el proyecto
+### 2. Instalar las ocho skills en el proyecto
 
 Ejecuta **un solo bloque**, según tu terminal, desde la raíz del clon. Crea ambas ubicaciones para poder usar los dos agentes; si utilizas sólo uno, deja únicamente su ruta en la lista. Las carpetas existentes se omiten para no sobrescribir tus personalizaciones. No instales `el-hubiera-video`: es la versión obsoleta.
 
 **Windows · PowerShell:**
 
 ```powershell
-$skillNames = @('kit-video-ai-lab', 'escritura-guiones-ai-lab', 'voz-elevenlabs', 'stickman-animation-video', 'stickman-animation-direccion', 'stickman-animation-salidas')
+$skillNames = @('kit-video-ai-lab', 'escritura-guiones-ai-lab', 'voz-elevenlabs', 'stickman-animation-video', 'stickman-animation-direccion', 'stickman-animation-salidas', 'miniaturas-el-hubiera', 'miniaturas-pi')
 foreach ($base in @('.claude/skills', '.agents/skills')) {
     New-Item -ItemType Directory -Path $base -Force | Out-Null
     foreach ($skillName in $skillNames) {
@@ -53,7 +61,7 @@ foreach ($base in @('.claude/skills', '.agents/skills')) {
 ```sh
 for base in .claude/skills .agents/skills; do
   mkdir -p "$base"
-  for name in kit-video-ai-lab escritura-guiones-ai-lab voz-elevenlabs stickman-animation-video stickman-animation-direccion stickman-animation-salidas; do
+  for name in kit-video-ai-lab escritura-guiones-ai-lab voz-elevenlabs stickman-animation-video stickman-animation-direccion stickman-animation-salidas miniaturas-el-hubiera miniaturas-pi; do
     if [ -e "$base/$name" ]; then
       printf 'Ya existe; se conserva: %s\n' "$base/$name"
     else

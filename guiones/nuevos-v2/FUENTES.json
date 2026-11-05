@@ -1,0 +1,205 @@
+[
+  {
+    "id": "MX-INFLACION",
+    "url": "https://educa.banxico.org.mx/yo-y-la-economia/oferta-y-demanda/3/inflacion.html",
+    "locator": "sección Inflación, consulta 2026-11-04",
+    "fact": "Inflación: aumento general y persistente de precios. INEGI mide INPC; Banxico persigue inflación baja y estable. Cero inflación agregada no rebobina precios ni fija cada precio.",
+    "evidence": "contenido indexado de fuente oficial recuperado en búsqueda"
+  },
+  {
+    "id": "MX-CORRUPCION",
+    "url": "https://www.inegi.org.mx/programas/encig/2025/",
+    "locator": "Objetivo general y población objetivo; publicación 2026-05-21; periodo 2025",
+    "fact": "ENCIG distingue percepción, experiencia, prevalencia e incidencia; universo: personas de 18+ en viviendas particulares en ciudades de 100 mil+ habitantes. No mide toda la corrupción del país ni dinero recuperable automáticamente. Evitar cifra total monetaria no verificada.",
+    "evidence": "contenido sustantivo de página oficial recuperado"
+  },
+  {
+    "id": "TIJ-AGUA",
+    "url": "https://www.cespt.gob.mx/pdf/Acueductos03.pdf",
+    "locator": "Historia de los Acueductos, cap. III, página impresa 31 / PDF 4 de 13; datos históricos, no balance actual",
+    "fact": "ARCT lleva agua del Río Colorado a Tijuana mediante bombeo; el documento describe desnivel e infraestructura. Usar dependencia de conducción/bombeo, sin presentar capacidades de 2005 como dato actual.",
+    "evidence": "PDF abierto, sección leída"
+  },
+  {
+    "id": "TIJ-AGUA-ACT",
+    "url": "https://appsweb.ebajacalifornia.gob.mx/SAPG/api/ApiAdmon/NoticiaCompleta?NoticiaId=19379",
+    "locator": "noticia de modernización ARCT; compara 2023/2024; consulta 2026-11-04",
+    "fact": "Gobierno de BC describe modernización ARCT y abastecimiento a zona costa; confirma relevancia de infraestructura, no garantiza servicio continuo en cada colonia.",
+    "evidence": "extracto oficial indexado recuperado"
+  },
+  {
+    "id": "CDMX-AGUA",
+    "url": "https://www.congresocdmx.gob.mx/archivo-ad0ce85ba0168324a6c67e1ef45544ea237072d2.pdf",
+    "locator": "Ciudad con Derecho al Agua y al Saneamiento; mapa Fuentes de suministro 2024, fuente SEGIAGUA",
+    "fact": "Mapa distingue pozos CDMX, sistema Lerma y Cutzamala; fuentes múltiples. No reducir toda CDMX a Cutzamala ni afirmar que llenar presas arregla presión y distribución. Sin porcentajes actuales.",
+    "evidence": "mapa/descripción indexada oficial recuperada; PDF completo no leído"
+  },
+  {
+    "id": "MTY-AGUA",
+    "url": "https://www.gob.mx/conagua/prensa/fortalece-el-gobierno-de-mexico-acciones-de-apoyo-para-la-zona-metropolitana-de-monterrey-afectada-por-deficit-en-el-abasto-de-agua?idiom=es-MX",
+    "locator": "comunicado CONAGUA de crisis de abasto 2022, antecedentes históricos",
+    "fact": "Baja disponibilidad superficial en presas afectó abasto de ZMM en 2022; respuesta incluyó El Cuchillo II, Libertad, pozos y suministro emergente. No decir que anuncio equivale a resolver para siempre sequía.",
+    "evidence": "texto oficial indexado recuperado"
+  },
+  {
+    "id": "GDL-AGUA",
+    "url": "https://www.ceajalisco.gob.mx/contenido/chapala/",
+    "locator": "Lago de Chapala, introducción; consulta 2026-11-04, página sin fecha editorial visible",
+    "fact": "Chapala es fuente principal de Zona Conurbada Guadalajara. Página cita 60%, que no se usará como balance actual fechado. Diferenciar abastecimiento, potabilización, calidad y distribución.",
+    "evidence": "página oficial abierta y leída"
+  },
+  {
+    "id": "CHINA-HIST",
+    "url": "https://www.stats.gov.cn/zt_18555/ztfx/jnggkf30n/202303/t20230301_1920460.html",
+    "locator": "NBS China, informe 30 años de reforma; párrafo 1979–2007; informe histórico de 2008, republicado 2023",
+    "fact": "PIB real: crecimiento anual medio 9.8% durante 1979–2007. Periodo expresamente delimitado. No es crecimiento de China actual ni prueba de un único mecanismo causal.",
+    "evidence": "párrafo oficial chino indexado recuperado; traducción de la afirmación numérica"
+  },
+  {
+    "id": "CHINA-MEC",
+    "url": "https://www.worldbank.org/ext/en/country/china",
+    "locator": "Overview: China; consulta 2026-11-04",
+    "fact": "Banco Mundial vincula desarrollo con inversión/manufactura exportadora y señala desequilibrios económicos/ambientales y envejecimiento. No equiparar copiar una tasa con copiar régimen político.",
+    "evidence": "contenido sustantivo oficial recuperado"
+  },
+  {
+    "id": "USA-PIB",
+    "url": "https://www.bea.gov/sites/default/files/2025-01/gdp4q24-adv.pdf",
+    "locator": "GDP 2024, página 3 de 17; edición 2025-01-30 (estimación de esa fecha)",
+    "fact": "BEA informó crecimiento real de 2024 de 2.8% respecto al nivel anual 2023. No confundir con tasa trimestral anualizada. Se usa como referencia histórica de esa edición, no dato nuevo ni pronóstico.",
+    "evidence": "página 3 extraída en búsqueda oficial"
+  },
+  {
+    "id": "PIB-DEF",
+    "url": "https://www.bea.gov/data/gdp/gross-domestic-product",
+    "locator": "Gross Domestic Product, definiciones y acceso a cuentas; consulta 2026-11-04",
+    "fact": "Separar PIB real y nominal; el escenario propuesto fija crecimiento real total anual 2027–2036, base índice 2026=100. No se afirma distribución per cápita ni salarial automática.",
+    "evidence": "página oficial recuperada; fórmulas de escenarios son cálculo propio explícito"
+  },
+  {
+    "id": "SEG-JAPON",
+    "url": "https://www.unodc.org/documents/data-and-analysis/gsh/2023/GSH23_ExSum.pdf",
+    "locator": "Global Study on Homicide 2023, Executive Summary; ejemplo Japón 2021",
+    "fact": "Extracto oficial recuperado: tasa de homicidio intencional de Japón 2021: 0.23 por cada 100 mil habitantes. Métrica estrecha de violencia letal, no índice general de seguridad.",
+    "evidence": "extracto indexado recuperado; apertura directa devolvió 404; no atribuir lectura íntegra"
+  },
+  {
+    "id": "SEG-MEXICO",
+    "url": "https://www.unodc.org/documents/data-and-analysis/gsh/2023/Global_study_on_homicide_2023_web.pdf",
+    "locator": "Global Study on Homicide 2023, tabla regional fila México 2019–2022, columna 2021",
+    "fact": "Fila indexada reporta México 2021: 35,700 víctimas; 28.2 por 100 mil. Comparación mismo año/unidad con Japón 2021. No usar denuncias de robo como sustituto. Si no se puede confirmar columna en la entrega, omitir el número mexicano y conservar sólo tasa objetivo japonesa con año.",
+    "evidence": "fila oficial indexada recuperada; lectura íntegra no acreditada"
+  },
+  {
+    "id": "TERRITORIO",
+    "url": "https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo",
+    "locator": "Tratado 1848-02-02; transcripción y artículo V; consulta 2026-11-04",
+    "fact": "Tratado terminó guerra México–EUA de 1846–1848 y definió nueva frontera/cesión. El 55% de la nota divulgativa depende del territorio de referencia e incluye reivindicaciones previas; no sumarlo a Texas sin explicar. No todos los estados actuales fueron cedidos íntegros.",
+    "evidence": "ficha oficial y extracto recuperados"
+  },
+  {
+    "id": "MESILLA",
+    "url": "https://www.archives.gov/legislative/features/nm-az-statehood/gadsden.html",
+    "locator": "Gadsden Purchase Treaty, 1853-12-30; aprobación final 1854-06-08",
+    "fact": "Mesilla corresponde a tratado distinto de 1853/1854, sur de Arizona y suroeste de Nuevo México; no confundir con 1848.",
+    "evidence": "texto oficial recuperado"
+  },
+  {
+    "id": "WWII-MEX",
+    "url": "https://www.gob.mx/defensa/documentos/de-la-segunda-guerra-mundial-a-nuestros-dias",
+    "locator": "sección Segunda Guerra Mundial, consulta 2026-11-04",
+    "fact": "México pasó de neutralidad a beligerancia en 1942 tras ataques a petroleros y participó con los Aliados. México no perdió la guerra. No atribuirle ganar solo ni modificar cronología real sin marcar ficción.",
+    "evidence": "texto oficial recuperado"
+  },
+  {
+    "id": "WWII-201",
+    "url": "https://www.gob.mx/defensa/documentos/mexico-en-la-ii-guerra-mundial",
+    "locator": "participación FAEM/Escuadrón 201; salida 1945-03-27 hacia Filipinas",
+    "fact": "Escuadrón 201 participó en Filipinas; respetar participación real y no inventar acciones documentadas o frases históricas.",
+    "evidence": "texto oficial recuperado"
+  },
+  {
+    "id": "FRIA-FIN",
+    "url": "https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/post-war-united-states-1945-1968/cold-war/?loclr=blogklu",
+    "locator": "The Cold War, Library of Congress, introducción",
+    "fact": "Competencia geopolítica EEUU/URSS con ideologías y armas nucleares; URSS se disolvió al terminar 1991. El contrafactual debe establecer una divergencia concreta, no afirmar que la historia quedó congelada.",
+    "evidence": "texto oficial recuperado"
+  },
+  {
+    "id": "FRIA-1991",
+    "url": "https://history.state.gov/milestones/1989-1992/collapse-soviet-union",
+    "locator": "The Collapse of the Soviet Union; cronología de 1991",
+    "fact": "Disolución URSS al final de 1991 y repúblicas sucesoras. Escenario propuesto: unión reformada evita disolución y persiste competencia de bloques, no supervivencia eterna garantizada.",
+    "evidence": "extractos oficiales recuperados"
+  },
+  {
+    "id": "VISITAS-CEL",
+    "url": "https://inegi.org.mx/app/salaDeprensa/noticia.html?id=9859",
+    "locator": "INEGI ENDUTIH 2024, comunicado 2025-05-06",
+    "fact": "Universo personas 6+ México: 81.7% usó celular; 36.6% computadora. Son estimaciones de encuesta 2024, no perfil de espectadores. No usar 73.6% hogares internet como proporción de personas.",
+    "evidence": "comunicado oficial recuperado en búsqueda"
+  },
+  {
+    "id": "VISITAS-INTERNET",
+    "url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/endutih/ENDUTIH_24.pdf",
+    "locator": "ENDUTIH 2024, comunicado 2025-05-06, resultado nacional personas 6+",
+    "fact": "83.1% usó internet. Complemento calculado: 16.9% no lo usó; aproximadamente una de cada seis. Para N residentes hipotéticos: 1,690 / 16,900 / 169,000 en grupos 10mil/100mil/1millón. Jamás decir que no usuarios son porcentaje de quienes ya ven el video online.",
+    "evidence": "resultado oficial indexado; apertura directa falló 502"
+  },
+  {
+    "id": "VISITAS-LECTURA",
+    "url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/molec/molec2025_RR.pdf",
+    "locator": "MOLEC 2025, 2025-11-18, página 6 de 36 / gráfica 2 p7; periodos p5",
+    "fact": "Universo nacional población alfabeta 12+: 62.5% leyó libros últimos 12 meses; 20.9% historietas/cómics/mangas sin periodo específico mencionado. Equivalencias: cinco de cada ocho exacto para 62.5%; aproximadamente una de cada cinco para 20.9%. En grupos con ESE universo: libros 6,250 / 62,500 / 625,000; cómics 2,090 / 20,900 / 209,000. Se superponen, no sumar categorías.",
+    "evidence": "PDF abierto y páginas 5–7 leídas; no usar 79% con denominador equivocado de página 10"
+  },
+  {
+    "id": "ARG-INFLACION",
+    "url": "https://www.indec.gob.ar/Nivel4/Tema/3/5/31",
+    "locator": "IPC, informe 2026-10-13, septiembre 2026; próximo informe 2026-11-12",
+    "fact": "Último informe visible al corte: septiembre 2026 +1.9% mensual. No es inflación cero real ni dato anual. IPC mide variación de canasta de consumo; desde 2017 cobertura nacional. Escenario ficticio cero inflación por 5 años, sin fijar cada precio ni borrar pobreza/deudas.",
+    "evidence": "página oficial abierta y leída 2026-11-04"
+  },
+  {
+    "id": "AGUA-DEPOSITOS",
+    "url": "https://salud.michoacan.gob.mx/recomienda-ssm-y-coepris-lavar-tinacos-y-aljibes-cada-seis-meses-para-evitar-enfermedades/",
+    "locator": "Secretaría de Salud Michoacán/COEPRIS,2021-11-11;consulta2026-11-04",
+    "fact": "El agua potable puede contaminarse si tinacos y cisternas no se mantienen limpios y desinfectados. Respalda posibilidad de recontaminación durante almacenamiento doméstico; no certifica una vivienda ni el agua real actual de Guadalajara. No incluir recetas sanitarias.",
+    "evidence": "texto oficial indexado recuperado en búsqueda"
+  },
+  {
+    "id": "INFLACION-META-MX",
+    "url": "https://www.banxico.org.mx/SieInternet/consultarDirectorioInternetAction.do?accion=consultarCuadro&idCuadro=CR160&locale=es&sector=24",
+    "locator": "SIECR160,objetivo3.0%,consulta4nov2026",
+    "fact": "BancoMéxico tieneobjetivo3%anual; ±1punto esvariabilidad,no garantía niobjetivo0. No usar tasa actual noverificada.",
+    "evidence": "contenido oficial indexado leído"
+  },
+  {
+    "id": "INFLACION-POSITIVA",
+    "url": "https://www.ecb.europa.eu/mopo/strategy/pricestab/html/index.en.html",
+    "locator": "BCE objetivoestabilidadprecios,consulta4nov2026; tambiénhttps://www.ecb.europa.eu/stats/macroeconomic_and_sectoral/hicp/html/index.ts.html Why2%",
+    "fact": "Meta bajapositiva ofrececolchóncontradeflación y margenparapolíticamonetaria; ayudaajustes relativos cuando recortarsalariosnominalesesdifícil. Referenciaeurozona2%,NOesmetaMéxico. No esleyuniversalque0%necesariamentecausecrisis.",
+    "evidence": "sitiosprimarios recuperados; explicaciónBCE2016sobrecolchónylímiteinferior de tasas corroborada porresumen vigente"
+  },
+  {
+    "id": "ESTANFLACION",
+    "url": "https://www.clevelandfed.org/collections/articles-and-insights/2026/20260501-what-is-stagflation",
+    "locator": "FederalReserveBankofCleveland,1may2026",
+    "fact": "Estanflación combina inflaciónenascenso con estancamiento/crecimientolento y desempleomayor. Subirtasascontrainflación puededebilitaractividad; bajarlascontraestancamiento puedeagravarinflación. No esinflación0,ni deflación.",
+    "evidence": "artículooficial recuperado enbúsqueda yconsulta"
+  },
+  {
+    "id": "EVENT-HORIZON",
+    "url": "https://www.paramountpictures.com/movies/event-horizon",
+    "locator": "sinopsisoficialpelícula1997; corroboraciónhttps://www.paramountplus.com/movies/video/WMpyEztvg53KrruaW94ZmQtPsLDdFkOl/",
+    "fact": "Naveexperimental desaparece,reaparece7añosdespués,señal atraeequipoderescate quehallapresencia/horrorespacial amenazandojuicioyvidas. Resumenbreveparafraseado,no seviofilm ni se recibiómaterialaudiovisual. Diseño navegótica esindicacióncreativahumana,notestimonio derevisiónvisual.",
+    "evidence": "sinopsisParamount leída; no imágenes ni video inspeccionados"
+  },
+  {
+    "id": "CINE-MX-RESERVA",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_de_Cinematografia.pdf",
+    "locator": "versiónhistóricaarchivada,artículo19;consulta4nov2026",
+    "fact": "México ha reservado tiempo deexhibición para cine nacional. Sustenta el contraste cultural general del18, no una negociación histórica específica. La mesa EUA/México, cuotas futuras yéxito sonficción. No se cita tasa ni estado vigente envoz.",
+    "evidence": "extracto primario delartículo19recuperado; nueva ley2026tambiénseconsultó, sin usarla comoasesoríalegal"
+  }
+]

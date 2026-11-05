@@ -5,19 +5,19 @@ description: "Úsala en cualquier chat de contenido de AI Lab School o del proye
 
 # Kit de video AI Lab School
 
-Las skills viven en la PC de Erick: `<LOCAL_PROJECT_PATH><nombre>\SKILL.md`. Colecciones extra sin activar: `snapshot\global-skills\biblioteca-lote2.zip`. Índices: `docs\skills-video\LEEME.md` y `LEEME-lote2.md`. En el proyecto 3D content: `claude/kit-video-catalogo.md` y `claude/skills-por-linea-3d-content.md`.
+Las skills viven en la PC de Erick: `<LOCAL_PATH> Lab School OS\.agents\skills\<nombre>\SKILL.md`. Colecciones extra sin activar: `snapshot\global-skills\biblioteca-lote2.zip`. Índices: `docs\skills-video\LEEME.md` y `LEEME-lote2.md`. En el proyecto 3D content: `claude/kit-video-catalogo.md` y `claude/skills-por-linea-3d-content.md`.
 
 ## Cómo usarla
 1. Ubica la línea del chat en "Sugeridas por línea" y carga primero esas skills.
 2. Puedes usar **cualquier otra** del catálogo si encaja mejor. Las sugerencias son el punto de partida, no un límite.
-3. Para cargar una skill, lee su SKILL.md (y solo las referencias que necesites) con las herramientas del dispositivo. Si la carpeta no está conectada, pide acceso a `<LOCAL_PROJECT_PATH>` una sola vez. Si la PC no responde, clona el repo de origen en el sandbox (lista de fuentes abajo).
+3. Para cargar una skill, lee su SKILL.md (y solo las referencias que necesites) con las herramientas del dispositivo. Si la carpeta no está conectada, pide acceso a `<LOCAL_PATH> Lab School OS` una sola vez. Si la PC no responde, clona el repo de origen en el sandbox (lista de fuentes abajo).
 4. Anota en `revision/` del expediente qué skills usaste.
 5. Las reglas del proyecto mandan sobre las skills:
    - **ElevenLabs:** una sola toma y el candado de voz (skill `voz-elevenlabs`).
    - **Revisión:** sin pasos manuales para Erick.
    - **Branding:** se aplica en la pieza.
    - **Antes de publicar:** −14 LUFS.
-6. **Renders 3D pesados (Blender):** usa la render farm por carpetas de la PC (`<LOCAL_PROJECT_PATH>`, ver la skill `animacion-lego-3d`). Así se renderiza con la GPU de Erick sin computer use.
+6. **Renders 3D pesados (Blender):** usa la render farm por carpetas de la PC (`<LOCAL_PATH>`, ver la skill `animacion-lego-3d`). Así se renderiza con la GPU de Erick sin computer use.
 
 ## Sugeridas por línea
 | Línea | Empieza con |

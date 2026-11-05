@@ -1,0 +1,19 @@
+{
+  "scope": "local repository; no push",
+  "new_scripts": 25,
+  "new_storyboards": 25,
+  "historical_documents": 70,
+  "historical_episodes": 23,
+  "syntax_pass": [
+    "hoja_r2.mjs",
+    "kit/kit-r2.js",
+    "parche_planos.cjs",
+    "planos_r2.mjs",
+    "portadas_r2.mjs",
+    "preparar_expediente.mjs"
+  ],
+  "entrypoint_links": "PASS",
+  "new_media_or_credentials": "none detected",
+  "render_test": "not run; no core renderer changed",
+  "approval": "human review pending; historical snapshots are not publication proof"
+}

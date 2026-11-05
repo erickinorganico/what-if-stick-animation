@@ -1,3 +1,5 @@
+> Actualización4nov2026: leer primero 24-criterio-vigente-20261104.md. Sus reglas actuales prevalecen sobre cantidades, herramientas, voz y fórmulas históricas de este documento.
+
 # 00 · Modus operandi
 
 Cómo se hace un episodio de **El Hubiera**, de la idea a la publicación. La animación, el audio y la entrega salen del código del repo. Las únicas piezas externas son la voz (ElevenLabs) y, si hacen falta, algunos efectos de sonido.

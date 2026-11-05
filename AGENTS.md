@@ -1,3 +1,5 @@
+> Actualización4nov2026: leer primero docs/24-criterio-vigente-20261104.md. Sus reglas actuales prevalecen sobre cantidades, herramientas, voz y fórmulas históricas de este documento.
+
 # What If Stick Animation · instrucciones
 
 Leer README.md, skills/README.md, docs/00-modus-operandi.md y la ficha de la pieza antes de cambiar código. Aplicar las skills stickman-animation-video, stickman-animation-direccion y stickman-animation-salidas según la tarea; escritura-guiones-ai-lab para guion y voz-elevenlabs antes de cualquier voz.

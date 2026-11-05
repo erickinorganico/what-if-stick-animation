@@ -1,0 +1,1028 @@
+{
+  "fecha": "2026-11-04",
+  "estilo": "Pure white #FFFFFF background; photographic grayscale cutouts with texture inside objects, expressive black round-headed characters and magenta star, short black/magenta Spanish headline. One physical action. No invented prices/statistics, UI, watermarks or realistic human heads.",
+  "scope": "Pending local covers only. Preserve media/copy originals and publication receipts. No Tijuana Capital alternatives or USA complete regeneration here.",
+  "existing_white_check": "The current generated index lists clip covers, not these complete covers. Three approved white vertical samples exist and are marked for reuse/export, not regeneration.",
+  "counts": {
+    "clip_rows": 26,
+    "complete_rows": 30,
+    "reuse_rows": 3,
+    "new_generation_rows": 53,
+    "total_rows": 56
+  },
+  "usa_filter_note": "The two missing USA shorts are ep06-short-anuncio and ep06-short-taco-bell in DIRECCION-PROMPTS.json, outside this additive plan.",
+  "rows": [
+    {
+      "slug": "xolos-champions-v1-20261102",
+      "clipid": "parte-1de4",
+      "kind": "clip",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "EL ESTACIONAMIENTO COBRÓ PRIMERO",
+      "scene": "A parking attendant lowers an enormous barrier across a visiting footballer's ball outside the stadium. The attendant calmly offers a small ticket while the glamorous player leans back in surprise, showing who makes the first match-day transaction. Center this one physical action with clear contact between the subject and oversized object. Keep the cause and reaction readable at phone size; background scenery must stay subordinate.",
+      "sourceTitle": "El estacionamiento cobra primero",
+      "sourceHook": "Cien cincuenta por la Champions",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local new cover; no publication or remote replacement"
+    },
+    {
+      "slug": "xolos-champions-v1-20261102",
+      "clipid": "parte-2de4",
+      "kind": "clip",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "PALCOS EN LA AZOTEA",
+      "scene": "A proud neighbor hoists an ordinary rooftop above a football stadium using an oversized ticket as a pulley. Family folding chairs remain attached to the tilting roof, turning the improvised VIP business into one precarious household upgrade. Center this one physical action with clear contact between the subject and oversized object. Keep the cause and reaction readable at phone size; background scenery must stay subordinate.",
+      "sourceTitle": "Palcos en la azotea",
+      "sourceHook": "Auxiliares de banca con gafete",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local new cover; no publication or remote replacement"
+    },
+    {
+      "slug": "xolos-champions-v1-20261102",
+      "clipid": "parte-3de4",
+      "kind": "clip",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "EL GOL NECESITÓ TRADUCTOR",
+      "scene": "A bewildered defender untangles a football trapped inside a giant curled vendor order slip. The seller holds the paper's opposite end while pointing toward the pitch, making local market language physically interfere with the visiting team's understanding. Center this one physical action with clear contact between the subject and oversized object. Keep the cause and reaction readable at phone size; background scenery must stay subordinate.",
+      "sourceTitle": "El idioma de los vendedores",
+      "sourceHook": "Un gol que nadie sabe traducir",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local new cover; no publication or remote replacement"
+    },
+    {
+      "slug": "xolos-champions-v1-20261102",
+      "clipid": "parte-4de4",
+      "kind": "clip",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "PARA XOLOS NO SE COBRA",
+      "scene": "A parking attendant gently pushes a huge banknote back into a local supporter's open wallet. The supporter still holds a paid ticket in his other hand, making the unexpected refusal of money the single warm exchange at the center. Center this one physical action with clear contact between the subject and oversized object. Keep the cause and reaction readable at phone size; background scenery must stay subordinate.",
+      "sourceTitle": "Para los Xolos no se cobra",
+      "sourceHook": "El boleto que dice PAGADO",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local new cover; no publication or remote replacement"
+    },
+    {
+      "slug": "xolos-champions-v1-20261102",
+      "clipid": "clip-01-hook-estacionamiento",
+      "kind": "clip",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "LA CHAMPIONS PAGÓ ESTACIONAMIENTO",
+      "scene": "A tiny parking attendant lifts an enormous visiting football bus using one small ticket as a lever. The stunned driver reaches down toward him, making an ordinary street charge outweigh the prestige of the international match. Center this one physical action with clear contact between the subject and oversized object. Keep the cause and reaction readable at phone size; background scenery must stay subordinate.",
+      "sourceTitle": "Cobró la Champions",
+      "sourceHook": "El señor del estacionamiento",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local new cover; no publication or remote replacement"
+    },
+    {
+      "slug": "xolos-champions-v1-20261102",
+      "clipid": "clip-02-protocolo",
+      "kind": "clip",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "EL PROTOCOLO NO LOS PARÓ",
+      "scene": "A street vendor lifts giant exclusion-zone tape like a tablecloth and rolls his food cart underneath. A formal match official holds the tape's other edge, showing the collision between international protocol and an already-working local market. Center this one physical action with clear contact between the subject and oversized object. Keep the cause and reaction readable at phone size; background scenery must stay subordinate.",
+      "sourceTitle": "Ni un vendedor a un kilómetro",
+      "sourceHook": "Ya llegaron desde las tres",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local new cover; no publication or remote replacement"
+    },
+    {
+      "slug": "xolos-champions-v1-20261102",
+      "clipid": "clip-03-palcos",
+      "kind": "clip",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "SU AZOTEA AHORA ES VIP",
+      "scene": "A homeowner pulls a folding chair onto a giant ticket-shaped balcony above the football pitch. The modest roof bends under the improvised seat while he proudly offers the view, turning familiar domestic space into an ambitious match-day business. Center this one physical action with clear contact between the subject and oversized object. Keep the cause and reaction readable at phone size; background scenery must stay subordinate.",
+      "sourceTitle": "Palco VIP en la azotea",
+      "sourceHook": "Si se cae, no es mi culpa",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local new cover; no publication or remote replacement"
+    },
+    {
+      "slug": "xolos-champions-v1-20261102",
+      "clipid": "clip-04-auxiliares",
+      "kind": "clip",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "AUXILIAR DE BANCA, CON SALSA",
+      "scene": "A vendor squeezes a giant cooler onto the substitute bench while a comically oversized accreditation badge swings from his neck. A footballer moves his boots aside, making an official-looking new role an excuse for one specific food sale. Center this one physical action with clear contact between the subject and oversized object. Keep the cause and reaction readable at phone size; background scenery must stay subordinate.",
+      "sourceTitle": "Auxiliar de banca",
+      "sourceHook": "Gafete para cada vendedor",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local new cover; no publication or remote replacement"
+    },
+    {
+      "slug": "xolos-champions-v1-20261102",
+      "clipid": "clip-05-idioma",
+      "kind": "clip",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "IZQUIERDA SIGNIFICA ESQUITE",
+      "scene": "A confused defender follows an enormous vendor pointing hand instead of the ball, stepping toward a corn cup at the sideline. The hand crosses his running path, making an assumed tactical code collide with the actual food order. Center this one physical action with clear contact between the subject and oversized object. Keep the cause and reaction readable at phone size; background scenery must stay subordinate.",
+      "sourceTitle": "Dos por veinte es izquierda",
+      "sourceHook": "El código de los vendedores",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local new cover; no publication or remote replacement"
+    },
+    {
+      "slug": "xolos-champions-v1-20261102",
+      "clipid": "clip-06-esquite",
+      "kind": "clip",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "¿QUÉ ES UN ESQUITE?",
+      "scene": "A visiting footballer balances an enormous cup of esquites on his boot while a local vendor offers a spoon. The player stares at the unfamiliar snack instead of the match, centering a comic attempt to understand the food. Center this one physical action with clear contact between the subject and oversized object. Keep the cause and reaction readable at phone size; background scenery must stay subordinate.",
+      "sourceTitle": "¿Qué es un esquite?",
+      "sourceHook": "El defensa pierde la traducción",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local new cover; no publication or remote replacement"
+    },
+    {
+      "slug": "xolos-champions-v1-20261102",
+      "clipid": "clip-07-gol",
+      "kind": "clip",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "EL GOL LLEGÓ CON ESQUITE",
+      "scene": "A striker kicks a ball from beneath a vendor's towering corn cup, tipping the cup harmlessly away from the touchline. Rooftop spectators raise their arms behind the goal, tying the scoring action to the city's improvised match-day life. Center this one physical action with clear contact between the subject and oversized object. Keep the cause and reaction readable at phone size; background scenery must stay subordinate.",
+      "sourceTitle": "Gol por esquite",
+      "sourceHook": "La colonia grita desde las azoteas",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local new cover; no publication or remote replacement"
+    },
+    {
+      "slug": "xolos-champions-v1-20261102",
+      "clipid": "clip-08-cobro",
+      "kind": "clip",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "LE DEVOLVIÓ EL BILLETE",
+      "scene": "An elderly attendant deliberately folds an offered banknote back into the local supporter's wallet. The surprised supporter steadies the wallet while holding his parking ticket, making the refusal a close-up human exchange rather than a generic money illustration. Center this one physical action with clear contact between the subject and oversized object. Keep the cause and reaction readable at phone size; background scenery must stay subordinate.",
+      "sourceTitle": "Para los Xolos no se cobra",
+      "sourceHook": "Don Chano devuelve el billete",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local new cover; no publication or remote replacement"
+    },
+    {
+      "slug": "xolos-champions-v1-20261102",
+      "clipid": "clip-09-cierre-boleto",
+      "kind": "clip",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "SÓLO SE LLEVÓ EL BOLETO",
+      "scene": "A departing visitor pulls a huge parking ticket out of an otherwise empty souvenir suitcase. The paper unfolds into the silhouette of the Tijuana stadium, making an ordinary paid receipt the one unexpected keepsake from the visit. Center this one physical action with clear contact between the subject and oversized object. Keep the cause and reaction readable at phone size; background scenery must stay subordinate.",
+      "sourceTitle": "El boleto dice PAGADO",
+      "sourceHook": "Lo único que se llevó de Tijuana",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local new cover; no publication or remote replacement"
+    },
+    {
+      "slug": "visa-mexicana-estadounidenses-v1-20261102",
+      "clipid": "parte-1de4",
+      "kind": "clip",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "¿MOTIVOS PARA REGRESAR?",
+      "scene": "A nervous tourist pushes a giant passport toward a Mexican consular window while a calm official presses it back with one finger. The passport bends between their hands like an uncertain bridge, showing the reversed interview's imbalance of confidence. Center this one physical action with clear contact between the subject and oversized object. Keep the cause and reaction readable at phone size; background scenery must stay subordinate.",
+      "sourceTitle": "¿Empleo fijo y motivos para regresar?",
+      "sourceHook": "La entrevista donde decide la otra persona",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local new cover; no publication or remote replacement"
+    },
+    {
+      "slug": "visa-mexicana-estadounidenses-v1-20261102",
+      "clipid": "parte-2de4",
+      "kind": "clip",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "NO VENGO POR TACOS",
+      "scene": "A visa applicant hides an enormous taco behind a tiny cultural-tourism brochure while a broker folds the brochure around it. Food protrudes from both sides, making the coached explanation visibly less convincing than the honest reason for traveling. Center this one physical action with clear contact between the subject and oversized object. Keep the cause and reaction readable at phone size; background scenery must stay subordinate.",
+      "sourceTitle": "Gestor, turismo cultural y citas",
+      "sourceHook": "Nunca digas que vienes por tacos",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local new cover; no publication or remote replacement"
+    },
+    {
+      "slug": "visa-mexicana-estadounidenses-v1-20261102",
+      "clipid": "parte-3de4",
+      "kind": "clip",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "ME LA NEGARON IGUAL",
+      "scene": "An older relative lifts a gigantic folder of visa advice for a nervous applicant, but a tiny denial stamp pins its corner to the counter. She keeps pointing at her recommendations, turning failed experience into a comic claim of expertise. Center this one physical action with clear contact between the subject and oversized object. Keep the cause and reaction readable at phone size; background scenery must stay subordinate.",
+      "sourceTitle": "Tía Chela y la visa negada",
+      "sourceHook": "Que no. Y me la negaron igual",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local new cover; no publication or remote replacement"
+    },
+    {
+      "slug": "visa-mexicana-estadounidenses-v1-20261102",
+      "clipid": "parte-4de4",
+      "kind": "clip",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "TODO DEMASIADO PERFECTO",
+      "scene": "An applicant carries an immaculate stack of documents into a visa window, but a blank speech balloon catches the top sheet and pulls everything sideways. The official waits for a real answer, making rehearsed perfection fail at the human exchange. Center this one physical action with clear contact between the subject and oversized object. Keep the cause and reaction readable at phone size; background scenery must stay subordinate.",
+      "sourceTitle": "Demasiado perfecto",
+      "sourceHook": "Responda antes de bailar",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local new cover; no publication or remote replacement"
+    },
+    {
+      "slug": "visa-mexicana-estadounidenses-v1-20261102",
+      "clipid": "clip-01-hook-empleo-fijo",
+      "kind": "clip",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "LA ENTREVISTA AL REVÉS",
+      "scene": "A tourist in a vacation shirt hauls a giant passport up to a high Mexican consular counter. The official leans down with one questioning palm, reversing the familiar status relation through the scale of the desk and the tourist's posture. Center this one physical action with clear contact between the subject and oversized object. Keep the cause and reaction readable at phone size; background scenery must stay subordinate.",
+      "sourceTitle": "¿Empleo fijo y motivos para regresar?",
+      "sourceHook": "La entrevista consular al revés",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local new cover; no publication or remote replacement"
+    },
+    {
+      "slug": "visa-mexicana-estadounidenses-v1-20261102",
+      "clipid": "clip-02-arraigo",
+      "kind": "clip",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "EL PERRO NO TRAE PAPELES",
+      "scene": "A visa applicant pulls a small pet dog through an enormous documentary-proof folder, while its leash remains tangled around a house key. The official watches from the window, turning ordinary ties at home into an absurd paperwork test. Center this one physical action with clear contact between the subject and oversized object. Keep the cause and reaction readable at phone size; background scenery must stay subordinate.",
+      "sourceTitle": "El perro sin papeles",
+      "sourceHook": "Arraigo, renta y turnos",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local new cover; no publication or remote replacement"
+    },
+    {
+      "slug": "visa-mexicana-estadounidenses-v1-20261102",
+      "clipid": "clip-03-gestor",
+      "kind": "clip",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "TURISMO CULTURAL, CLARO",
+      "scene": "A broker rolls an enormous taco into a small brochure shaped like a museum column while the applicant holds it open. The taco cannot fit, making the contrast between a coached answer and the real trip immediately legible. Center this one physical action with clear contact between the subject and oversized object. Keep the cause and reaction readable at phone size; background scenery must stay subordinate.",
+      "sourceTitle": "Turismo cultural",
+      "sourceHook": "Nunca digas que vienes por tacos",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local new cover; no publication or remote replacement"
+    },
+    {
+      "slug": "visa-mexicana-estadounidenses-v1-20261102",
+      "clipid": "clip-04-citas",
+      "kind": "clip",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "LA CITA COSTÓ MÁS",
+      "scene": "A traveler holds a tiny plane ticket while lifting an enormous appointment calendar that pins his suitcase down. His hand reaches toward the consulate, making access to an appointment physically heavier than the journey without inventing prices. Center this one physical action with clear contact between the subject and oversized object. Keep the cause and reaction readable at phone size; background scenery must stay subordinate.",
+      "sourceTitle": "La cita cuesta más que el avión",
+      "sourceHook": "La fila de gestores crece",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local new cover; no publication or remote replacement"
+    },
+    {
+      "slug": "visa-mexicana-estadounidenses-v1-20261102",
+      "clipid": "clip-05-chela",
+      "kind": "clip",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "LA TÍA SABE DE VISAS",
+      "scene": "An aunt steers a nervous applicant toward a consular window using a massive advice folder like a wheel. Her own rejected application peeks from her bag, exposing the contradiction between her confident coaching and personal experience. Center this one physical action with clear contact between the subject and oversized object. Keep the cause and reaction readable at phone size; background scenery must stay subordinate.",
+      "sourceTitle": "Me la negaron igual",
+      "sourceHook": "Tía Chela, asesora de visas",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local new cover; no publication or remote replacement"
+    },
+    {
+      "slug": "visa-mexicana-estadounidenses-v1-20261102",
+      "clipid": "clip-06-perfecto",
+      "kind": "clip",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "LA RESPUESTA NO ESTABA ENSAYADA",
+      "scene": "An applicant reads a polished answer sheet that folds into an empty speech balloon at the consular window. The official holds the balloon open waiting, making a rehearsed presentation collapse into one simple unscripted question. Center this one physical action with clear contact between the subject and oversized object. Keep the cause and reaction readable at phone size; background scenery must stay subordinate.",
+      "sourceTitle": "Demasiado perfecto",
+      "sourceHook": "Todo en orden menos la respuesta",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local new cover; no publication or remote replacement"
+    },
+    {
+      "slug": "visa-mexicana-estadounidenses-v1-20261102",
+      "clipid": "clip-07-respuesta",
+      "kind": "clip",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "MI PERRO, MI RENTA",
+      "scene": "An applicant sets aside an enormous rehearsal script and holds up an ordinary key tangled with a dog leash. The official reaches toward this unpolished explanation, making truthful everyday attachments replace an overly prepared performance. Center this one physical action with clear contact between the subject and oversized object. Keep the cause and reaction readable at phone size; background scenery must stay subordinate.",
+      "sourceTitle": "Mi perro, mi renta",
+      "sourceHook": "Sin guion, por fin",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local new cover; no publication or remote replacement"
+    },
+    {
+      "slug": "visa-mexicana-estadounidenses-v1-20261102",
+      "clipid": "clip-08-sello",
+      "kind": "clip",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "ESA SÍ ME LA CREO",
+      "scene": "A calm official lowers an oversized approval stamp while a relieved applicant steadies the passport with both hands. Their hands meet at the stamp's clear point of contact, making acceptance a human response instead of a magical certificate. Center this one physical action with clear contact between the subject and oversized object. Keep the cause and reaction readable at phone size; background scenery must stay subordinate.",
+      "sourceTitle": "Esa sí me la creo",
+      "sourceHook": "El sello de aprobada",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local new cover; no publication or remote replacement"
+    },
+    {
+      "slug": "visa-mexicana-estadounidenses-v1-20261102",
+      "clipid": "clip-09-invitacion",
+      "kind": "clip",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "RESPONDE ANTES DE BAILAR",
+      "scene": "A delighted applicant starts a celebratory dance but is gently caught by a long invitation envelope still held at the window. The envelope anchors one foot, turning the remaining question into a warm interruption of premature celebration. Center this one physical action with clear contact between the subject and oversized object. Keep the cause and reaction readable at phone size; background scenery must stay subordinate.",
+      "sourceTitle": "Responda antes de bailar",
+      "sourceHook": "La invitación con sello",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local new cover; no publication or remote replacement"
+    },
+    {
+      "slug": "garita-30-segundos-v1-20261101",
+      "clipid": "completo-horizontal",
+      "kind": "complete",
+      "aspect_ratio": "16:9",
+      "format": [
+        1280,
+        720
+      ],
+      "headline": "GARITA EN TREINTA SEGUNDOS",
+      "scene": "A tiny car rides the raised hand of a giant stopwatch over the border waiting lanes. Its surprised driver grips the wheel as the lever lifts him toward the distant Tijuana arch, making the absurdly fast crossing one clear mechanical shortcut. Compose natively wide with the headline upper left and the main action spanning the middle; keep the reaction large and preserve side margins. Never crop a portrait cover.",
+      "sourceTitle": "¿Y si la garita tardara 30 segundos?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop."
+    },
+    {
+      "slug": "garita-30-segundos-v1-20261101",
+      "clipid": "completo-vertical",
+      "kind": "complete",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "GARITA EN TREINTA SEGUNDOS",
+      "scene": "A tiny car rides the raised hand of a giant stopwatch over the border waiting lanes. Its surprised driver grips the wheel as the lever lifts him toward the distant Tijuana arch, making the absurdly fast crossing one clear mechanical shortcut. Recompose natively tall with headline above the complete central action and large character reaction below; preserve the cause and effect within the frame. Never crop or stretch landscape.",
+      "sourceTitle": "¿Y si la garita tardara 30 segundos?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "reuse_approved_white_source_no_new_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop.",
+      "reuse_source": "<LOCAL_PATH>",
+      "reuse_source_dimensions": [
+        941,
+        1672
+      ],
+      "export_needed": [
+        1080,
+        1920
+      ],
+      "reuse_note": "Approved white source already exists; technical white-pad export and new clean receipt needed, not another generation."
+    },
+    {
+      "slug": "oxxo-segunda-caja-v1-20261101",
+      "clipid": "completo-horizontal",
+      "kind": "complete",
+      "aspect_ratio": "16:9",
+      "format": [
+        1280,
+        720
+      ],
+      "headline": "ABRIERON LA SEGUNDA",
+      "scene": "A cashier pulls a giant second register open like a floodgate, releasing a compressed line of shoppers through its doorway. The first shopper clutches one modest drink while being carried forward, making an everyday improvement release a comically enormous amount of waiting. Compose natively wide with the headline upper left and the main action spanning the middle; keep the reaction large and preserve side margins. Never crop a portrait cover.",
+      "sourceTitle": "¿Y si OXXO abriera la segunda caja?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop."
+    },
+    {
+      "slug": "oxxo-segunda-caja-v1-20261101",
+      "clipid": "completo-vertical",
+      "kind": "complete",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "ABRIERON LA SEGUNDA",
+      "scene": "A cashier pulls a giant second register open like a floodgate, releasing a compressed line of shoppers through its doorway. The first shopper clutches one modest drink while being carried forward, making an everyday improvement release a comically enormous amount of waiting. Recompose natively tall with headline above the complete central action and large character reaction below; preserve the cause and effect within the frame. Never crop or stretch landscape.",
+      "sourceTitle": "¿Y si OXXO abriera la segunda caja?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop."
+    },
+    {
+      "slug": "san-diego-mas-barato-v1-20261101",
+      "clipid": "completo-horizontal",
+      "kind": "complete",
+      "aspect_ratio": "16:9",
+      "format": [
+        1280,
+        720
+      ],
+      "headline": "LA MUDANZA AL REVÉS",
+      "scene": "A family pushes a giant moving box across a border ramp toward a small San Diego seaside skyline. A Tijuana rent tag drags behind the box while everyone leans forward, reversing the familiar housing move without invented amounts or factual rent claims. Compose natively wide with the headline upper left and the main action spanning the middle; keep the reaction large and preserve side margins. Never crop a portrait cover.",
+      "sourceTitle": "¿Y si San Diego fuera más barato que Tijuana?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop."
+    },
+    {
+      "slug": "san-diego-mas-barato-v1-20261101",
+      "clipid": "completo-vertical",
+      "kind": "complete",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "LA MUDANZA AL REVÉS",
+      "scene": "A family pushes a giant moving box across a border ramp toward a small San Diego seaside skyline. A Tijuana rent tag drags behind the box while everyone leans forward, reversing the familiar housing move without invented amounts or factual rent claims. Recompose natively tall with headline above the complete central action and large character reaction below; preserve the cause and effect within the frame. Never crop or stretch landscape.",
+      "sourceTitle": "¿Y si San Diego fuera más barato que Tijuana?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop."
+    },
+    {
+      "slug": "mexicanos-cobran-dolares-v1-20261101",
+      "clipid": "completo-horizontal",
+      "kind": "complete",
+      "aspect_ratio": "16:9",
+      "format": [
+        1280,
+        720
+      ],
+      "headline": "DÓLARES, ¿PERO ALCANZA?",
+      "scene": "A worker pulls a huge dollar paycheck toward his groceries, but that same bill is attached to a rising price lever lifting the basket away. His reaching hands connect wages and prices, making the currency change visibly different from increased purchasing power. Compose natively wide with the headline upper left and the main action spanning the middle; keep the reaction large and preserve side margins. Never crop a portrait cover.",
+      "sourceTitle": "¿Y si todos los mexicanos cobraran en dólares?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop."
+    },
+    {
+      "slug": "mexicanos-cobran-dolares-v1-20261101",
+      "clipid": "completo-vertical",
+      "kind": "complete",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "DÓLARES, ¿PERO ALCANZA?",
+      "scene": "A worker pulls a huge dollar paycheck toward his groceries, but that same bill is attached to a rising price lever lifting the basket away. His reaching hands connect wages and prices, making the currency change visibly different from increased purchasing power. Recompose natively tall with headline above the complete central action and large character reaction below; preserve the cause and effect within the frame. Never crop or stretch landscape.",
+      "sourceTitle": "¿Y si todos los mexicanos cobraran en dólares?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop."
+    },
+    {
+      "slug": "obras-tijuana-mismo-dia-v1-20261101",
+      "clipid": "completo-horizontal",
+      "kind": "complete",
+      "aspect_ratio": "16:9",
+      "format": [
+        1280,
+        720
+      ],
+      "headline": "¿YA NO HAY OBRAS?",
+      "scene": "A resident peels an enormous bandage of traffic cones and barricades off a Tijuana street, exposing a clear road underneath. The curling strip stays firmly in his hands, making the simultaneous end of roadworks one satisfying reveal rather than unrelated construction symbols. Compose natively wide with the headline upper left and the main action spanning the middle; keep the reaction large and preserve side margins. Never crop a portrait cover.",
+      "sourceTitle": "¿Y si todas las obras de Tijuana terminaran hoy?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop."
+    },
+    {
+      "slug": "obras-tijuana-mismo-dia-v1-20261101",
+      "clipid": "completo-vertical",
+      "kind": "complete",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "¿YA NO HAY OBRAS?",
+      "scene": "A resident peels an enormous bandage of traffic cones and barricades off a Tijuana street, exposing a clear road underneath. The curling strip stays firmly in his hands, making the simultaneous end of roadworks one satisfying reveal rather than unrelated construction symbols. Recompose natively tall with headline above the complete central action and large character reaction below; preserve the cause and effect within the frame. Never crop or stretch landscape.",
+      "sourceTitle": "¿Y si todas las obras de Tijuana terminaran hoy?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "reuse_approved_white_source_no_new_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop.",
+      "reuse_source": "<LOCAL_PATH>",
+      "reuse_source_dimensions": [
+        941,
+        1672
+      ],
+      "export_needed": [
+        1080,
+        1920
+      ],
+      "reuse_note": "Approved white source already exists; technical white-pad export and new clean receipt needed, not another generation."
+    },
+    {
+      "slug": "cristiano-chile-v2-20261101",
+      "clipid": "completo-horizontal",
+      "kind": "complete",
+      "aspect_ratio": "16:9",
+      "format": [
+        1280,
+        720
+      ],
+      "headline": "EL BICHO EN CHILE",
+      "scene": "A young number-seven footballer hauls an enormous ball up a steep Chilean hillside staircase toward a tiny club gate. The ball pushes backward against his chest as his worn boot searches for a step, turning the fictional career into a climb through local conditions. Compose natively wide with the headline upper left and the main action spanning the middle; keep the reaction large and preserve side margins. Never crop a portrait cover.",
+      "sourceTitle": "¿Y si Cristiano Ronaldo naciera en Chile?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop."
+    },
+    {
+      "slug": "cristiano-chile-v2-20261101",
+      "clipid": "completo-vertical",
+      "kind": "complete",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "EL BICHO EN CHILE",
+      "scene": "A young number-seven footballer hauls an enormous ball up a steep Chilean hillside staircase toward a tiny club gate. The ball pushes backward against his chest as his worn boot searches for a step, turning the fictional career into a climb through local conditions. Recompose natively tall with headline above the complete central action and large character reaction below; preserve the cause and effect within the frame. Never crop or stretch landscape.",
+      "sourceTitle": "¿Y si Cristiano Ronaldo naciera en Chile?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop."
+    },
+    {
+      "slug": "tijuana-sin-trafico-v1-20261101",
+      "clipid": "completo-horizontal",
+      "kind": "complete",
+      "aspect_ratio": "16:9",
+      "format": [
+        1280,
+        720
+      ],
+      "headline": "TIJUANA SIN TRÁFICO",
+      "scene": "A driver pulls a tangled sheet of toy cars off the Via Rapida like clearing a crowded tablecloth. An entirely open road appears underneath while his own small car stays at the entrance, his surprised face confronting the sudden return of time. Compose natively wide with the headline upper left and the main action spanning the middle; keep the reaction large and preserve side margins. Never crop a portrait cover.",
+      "sourceTitle": "¿Y si Tijuana no tuviera tráfico?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop."
+    },
+    {
+      "slug": "tijuana-sin-trafico-v1-20261101",
+      "clipid": "completo-vertical",
+      "kind": "complete",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "TIJUANA SIN TRÁFICO",
+      "scene": "A driver pulls a tangled sheet of toy cars off the Via Rapida like clearing a crowded tablecloth. An entirely open road appears underneath while his own small car stays at the entrance, his surprised face confronting the sudden return of time. Recompose natively tall with headline above the complete central action and large character reaction below; preserve the cause and effect within the frame. Never crop or stretch landscape.",
+      "sourceTitle": "¿Y si Tijuana no tuviera tráfico?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop."
+    },
+    {
+      "slug": "mexico-mejor-transporte-v1-20261101",
+      "clipid": "completo-horizontal",
+      "kind": "complete",
+      "aspect_ratio": "16:9",
+      "format": [
+        1280,
+        720
+      ],
+      "headline": "TE DEVUELVEN EL DÍA",
+      "scene": "A bus driver hands a commuter a giant folded clock through the door as though returning a lost bag. The commuter unfolds it into a route toward home, making reliable public transport a tangible gift of time rather than a futuristic bus icon. Compose natively wide with the headline upper left and the main action spanning the middle; keep the reaction large and preserve side margins. Never crop a portrait cover.",
+      "sourceTitle": "¿Y si México tuviera el mejor transporte?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop."
+    },
+    {
+      "slug": "mexico-mejor-transporte-v1-20261101",
+      "clipid": "completo-vertical",
+      "kind": "complete",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "TE DEVUELVEN EL DÍA",
+      "scene": "A bus driver hands a commuter a giant folded clock through the door as though returning a lost bag. The commuter unfolds it into a route toward home, making reliable public transport a tangible gift of time rather than a futuristic bus icon. Recompose natively tall with headline above the complete central action and large character reaction below; preserve the cause and effect within the frame. Never crop or stretch landscape.",
+      "sourceTitle": "¿Y si México tuviera el mejor transporte?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop."
+    },
+    {
+      "slug": "tijuana-cafeterias-v1-20261031",
+      "clipid": "completo-horizontal",
+      "kind": "complete",
+      "aspect_ratio": "16:9",
+      "format": [
+        1280,
+        720
+      ],
+      "headline": "TIJUANA SIN CAFÉ",
+      "scene": "A barista braces both palms against an empty giant espresso cup rolling his small cafe toward a torn edge. The cup overwhelms the shop as the tiny Tijuana arch appears beyond, making the fictional loss of cafe culture a physical economic imbalance. Compose natively wide with the headline upper left and the main action spanning the middle; keep the reaction large and preserve side margins. Never crop a portrait cover.",
+      "sourceTitle": "¿Y si Tijuana dejara de abrir cafeterías?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop."
+    },
+    {
+      "slug": "tijuana-cafeterias-v1-20261031",
+      "clipid": "completo-vertical",
+      "kind": "complete",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "TIJUANA SIN CAFÉ",
+      "scene": "A barista braces both palms against an empty giant espresso cup rolling his small cafe toward a torn edge. The cup overwhelms the shop as the tiny Tijuana arch appears beyond, making the fictional loss of cafe culture a physical economic imbalance. Recompose natively tall with headline above the complete central action and large character reaction below; preserve the cause and effect within the frame. Never crop or stretch landscape.",
+      "sourceTitle": "¿Y si Tijuana dejara de abrir cafeterías?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "reuse_approved_white_source_no_new_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop.",
+      "reuse_source": "<LOCAL_PATH>",
+      "reuse_source_dimensions": [
+        941,
+        1672
+      ],
+      "export_needed": [
+        1080,
+        1920
+      ],
+      "reuse_note": "Approved white source already exists; technical white-pad export and new clean receipt needed, not another generation."
+    },
+    {
+      "slug": "cristiano-colombia-v1-20261031",
+      "clipid": "completo-horizontal",
+      "kind": "complete",
+      "aspect_ratio": "16:9",
+      "format": [
+        1280,
+        720
+      ],
+      "headline": "EL BICHO EN COLOMBIA",
+      "scene": "A child footballer in oversized boots pulls a giant ball across a rushing Barranquilla street channel toward a tiny club gate. His boots stay on the near bank while the ball pulls away, connecting the invented career to local conditions and access to opportunity. Compose natively wide with the headline upper left and the main action spanning the middle; keep the reaction large and preserve side margins. Never crop a portrait cover.",
+      "sourceTitle": "¿Y si Cristiano Ronaldo naciera en Colombia?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop."
+    },
+    {
+      "slug": "cristiano-colombia-v1-20261031",
+      "clipid": "completo-vertical",
+      "kind": "complete",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "EL BICHO EN COLOMBIA",
+      "scene": "A child footballer in oversized boots pulls a giant ball across a rushing Barranquilla street channel toward a tiny club gate. His boots stay on the near bank while the ball pulls away, connecting the invented career to local conditions and access to opportunity. Recompose natively tall with headline above the complete central action and large character reaction below; preserve the cause and effect within the frame. Never crop or stretch landscape.",
+      "sourceTitle": "¿Y si Cristiano Ronaldo naciera en Colombia?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop."
+    },
+    {
+      "slug": "cristiano-argentina-v1-20261031",
+      "clipid": "completo-horizontal",
+      "kind": "complete",
+      "aspect_ratio": "16:9",
+      "format": [
+        1280,
+        720
+      ],
+      "headline": "EL BICHO CONTRA SU VECINO",
+      "scene": "Two young rival footballers in plain seven and ten shirts tug a shared ball across a low Rosario backyard wall. The wall bends into a goal between their boots, making the invented neighbor rivalry the start of the story rather than a real historical claim. Compose natively wide with the headline upper left and the main action spanning the middle; keep the reaction large and preserve side margins. Never crop a portrait cover.",
+      "sourceTitle": "¿Y si Cristiano Ronaldo naciera en Argentina?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop."
+    },
+    {
+      "slug": "cristiano-argentina-v1-20261031",
+      "clipid": "completo-vertical",
+      "kind": "complete",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "EL BICHO CONTRA SU VECINO",
+      "scene": "Two young rival footballers in plain seven and ten shirts tug a shared ball across a low Rosario backyard wall. The wall bends into a goal between their boots, making the invented neighbor rivalry the start of the story rather than a real historical claim. Recompose natively tall with headline above the complete central action and large character reaction below; preserve the cause and effect within the frame. Never crop or stretch landscape.",
+      "sourceTitle": "¿Y si Cristiano Ronaldo naciera en Argentina?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop."
+    },
+    {
+      "slug": "mexico-gana-carrera-ia-v1-20261101",
+      "clipid": "completo-horizontal",
+      "kind": "complete",
+      "aspect_ratio": "16:9",
+      "format": [
+        1280,
+        720
+      ],
+      "headline": "QUE SUBA TODO MÉXICO",
+      "scene": "A programmer lifts a giant keyboard into a staircase as neighbors climb its lower keys. A privileged figure already above them pulls away the upper section, making hypothetical national technology leadership depend on who can actually participate in its benefits. Compose natively wide with the headline upper left and the main action spanning the middle; keep the reaction large and preserve side margins. Never crop a portrait cover.",
+      "sourceTitle": "¿Y si México ganara la carrera de la IA?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop."
+    },
+    {
+      "slug": "mexico-gana-carrera-ia-v1-20261101",
+      "clipid": "completo-vertical",
+      "kind": "complete",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "QUE SUBA TODO MÉXICO",
+      "scene": "A programmer lifts a giant keyboard into a staircase as neighbors climb its lower keys. A privileged figure already above them pulls away the upper section, making hypothetical national technology leadership depend on who can actually participate in its benefits. Recompose natively tall with headline above the complete central action and large character reaction below; preserve the cause and effect within the frame. Never crop or stretch landscape.",
+      "sourceTitle": "¿Y si México ganara la carrera de la IA?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop."
+    },
+    {
+      "slug": "mexico-regalias-tacos-v1-20261101",
+      "clipid": "completo-horizontal",
+      "kind": "complete",
+      "aspect_ratio": "16:9",
+      "format": [
+        1280,
+        720
+      ],
+      "headline": "EL TACO EMPIEZA A COBRAR",
+      "scene": "A taquero folds a tortilla around an enormous falling coin as a customer holds out a small plate. The coin bends the counter between their hands, making an absurd fictional royalty windfall collide with the modest scale of an ordinary street taco. Compose natively wide with the headline upper left and the main action spanning the middle; keep the reaction large and preserve side margins. Never crop a portrait cover.",
+      "sourceTitle": "¿Y si México cobrara regalías por los tacos?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop."
+    },
+    {
+      "slug": "mexico-regalias-tacos-v1-20261101",
+      "clipid": "completo-vertical",
+      "kind": "complete",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "EL TACO EMPIEZA A COBRAR",
+      "scene": "A taquero folds a tortilla around an enormous falling coin as a customer holds out a small plate. The coin bends the counter between their hands, making an absurd fictional royalty windfall collide with the modest scale of an ordinary street taco. Recompose natively tall with headline above the complete central action and large character reaction below; preserve the cause and effect within the frame. Never crop or stretch landscape.",
+      "sourceTitle": "¿Y si México cobrara regalías por los tacos?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": "<LOCAL_PATH>",
+      "status": "pending_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop."
+    },
+    {
+      "slug": "xolos-champions-v1-20261102",
+      "clipid": "completo-horizontal",
+      "kind": "complete",
+      "aspect_ratio": "16:9",
+      "format": [
+        1280,
+        720
+      ],
+      "headline": "LA CHAMPIONS LLEGÓ A TIJUANA",
+      "scene": "A local parking attendant lowers a giant barrier across a visiting football star and his ball outside the stadium. The attendant calmly offers a ticket while rooftop spectators lean forward, making the international match enter Tijuana through its first unavoidable local transaction. Compose natively wide with the headline upper left and the main action spanning the middle; keep the reaction large and preserve side margins. Never crop a portrait cover.",
+      "sourceTitle": "¿Y si los Xolos jugaran la Champions?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": null,
+      "status": "pending_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop."
+    },
+    {
+      "slug": "xolos-champions-v1-20261102",
+      "clipid": "completo-vertical",
+      "kind": "complete",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "LA CHAMPIONS LLEGÓ A TIJUANA",
+      "scene": "A local parking attendant lowers a giant barrier across a visiting football star and his ball outside the stadium. The attendant calmly offers a ticket while rooftop spectators lean forward, making the international match enter Tijuana through its first unavoidable local transaction. Recompose natively tall with headline above the complete central action and large character reaction below; preserve the cause and effect within the frame. Never crop or stretch landscape.",
+      "sourceTitle": "¿Y si los Xolos jugaran la Champions?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": null,
+      "status": "pending_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop."
+    },
+    {
+      "slug": "visa-mexicana-estadounidenses-v1-20261102",
+      "clipid": "completo-horizontal",
+      "kind": "complete",
+      "aspect_ratio": "16:9",
+      "format": [
+        1280,
+        720
+      ],
+      "headline": "MÉXICO PIDE VISA",
+      "scene": "A nervous tourist stretches a giant passport toward a Mexican consular window as an official calmly presses it back with a questioning finger. The passport bends like an uncertain bridge between them, expressing the fictional reversal of status without a real government notice. Compose natively wide with the headline upper left and the main action spanning the middle; keep the reaction large and preserve side margins. Never crop a portrait cover.",
+      "sourceTitle": "¿Y si México exigiera visa turística a estadounidenses?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": null,
+      "status": "pending_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop."
+    },
+    {
+      "slug": "visa-mexicana-estadounidenses-v1-20261102",
+      "clipid": "completo-vertical",
+      "kind": "complete",
+      "aspect_ratio": "9:16",
+      "format": [
+        1080,
+        1920
+      ],
+      "headline": "MÉXICO PIDE VISA",
+      "scene": "A nervous tourist stretches a giant passport toward a Mexican consular window as an official calmly presses it back with a questioning finger. The passport bends like an uncertain bridge between them, expressing the fictional reversal of status without a real government notice. Recompose natively tall with headline above the complete central action and large character reaction below; preserve the cause and effect within the frame. Never crop or stretch landscape.",
+      "sourceTitle": "¿Y si México exigiera visa turística a estadounidenses?",
+      "sourceHook": "Whole episode synthesis preserving its approved hypothetical premise.",
+      "copyPath": null,
+      "status": "pending_generation",
+      "scope": "local complete cover for review; no publication or remote replacement",
+      "sibling_recomposition": "Same concept, native composition for its own aspect ratio; no blind crop."
+    }
+  ]
+}

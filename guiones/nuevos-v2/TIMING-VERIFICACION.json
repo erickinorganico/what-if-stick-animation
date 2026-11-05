@@ -1,0 +1,2628 @@
+{
+  "01-batman-mexico": {
+    "ok": true,
+    "wordCount": 344,
+    "cadenceWpm": 145,
+    "pausesSeconds": 12,
+    "estimatedSeconds": 154.3,
+    "rows": [
+      {
+        "row": "1",
+        "startSeconds": 0,
+        "endSeconds": 7.45,
+        "words": 18
+      },
+      {
+        "row": "2",
+        "startSeconds": 7.45,
+        "endSeconds": 18.31,
+        "words": 19
+      },
+      {
+        "row": "3",
+        "startSeconds": 18.31,
+        "endSeconds": 29.9,
+        "words": 28
+      },
+      {
+        "row": "4",
+        "startSeconds": 29.9,
+        "endSeconds": 36.93,
+        "words": 17
+      },
+      {
+        "row": "5",
+        "startSeconds": 36.93,
+        "endSeconds": 47.69,
+        "words": 26
+      },
+      {
+        "row": "6",
+        "startSeconds": 47.69,
+        "endSeconds": 53.9,
+        "words": 15
+      },
+      {
+        "row": "7",
+        "startSeconds": 53.9,
+        "endSeconds": 62.17,
+        "words": 20
+      },
+      {
+        "row": "8",
+        "startSeconds": 62.17,
+        "endSeconds": 84.52,
+        "words": 54
+      },
+      {
+        "row": "9",
+        "startSeconds": 84.52,
+        "endSeconds": 102.0,
+        "words": 35
+      },
+      {
+        "row": "10",
+        "startSeconds": 102.0,
+        "endSeconds": 116.17,
+        "words": 27
+      },
+      {
+        "row": "11",
+        "startSeconds": 116.17,
+        "endSeconds": 122.79,
+        "words": 16
+      },
+      {
+        "row": "12",
+        "startSeconds": 122.79,
+        "endSeconds": 135.62,
+        "words": 31
+      },
+      {
+        "row": "13",
+        "startSeconds": 135.62,
+        "endSeconds": 145.97,
+        "words": 25
+      },
+      {
+        "row": "14",
+        "startSeconds": 145.97,
+        "endSeconds": 154.34,
+        "words": 13
+      }
+    ],
+    "method": "anclas literales de voz, sin cambios creativos"
+  },
+  "03-mexico-sin-inflacion": {
+    "ok": true,
+    "wordCount": 637,
+    "cadenceWpm": 145,
+    "pausesSeconds": 20,
+    "estimatedSeconds": 283.6,
+    "rows": [
+      {
+        "row": "1",
+        "startSeconds": 0,
+        "endSeconds": 9.52,
+        "words": 23
+      },
+      {
+        "row": "2",
+        "startSeconds": 9.52,
+        "endSeconds": 24.43,
+        "words": 30
+      },
+      {
+        "row": "3",
+        "startSeconds": 24.43,
+        "endSeconds": 33.95,
+        "words": 23
+      },
+      {
+        "row": "4",
+        "startSeconds": 33.95,
+        "endSeconds": 48.84,
+        "words": 36
+      },
+      {
+        "row": "5",
+        "startSeconds": 48.84,
+        "endSeconds": 62.52,
+        "words": 27
+      },
+      {
+        "row": "6",
+        "startSeconds": 62.52,
+        "endSeconds": 75.34,
+        "words": 31
+      },
+      {
+        "row": "7",
+        "startSeconds": 75.34,
+        "endSeconds": 90.67,
+        "words": 31
+      },
+      {
+        "row": "8",
+        "startSeconds": 90.67,
+        "endSeconds": 106.0,
+        "words": 31
+      },
+      {
+        "row": "9",
+        "startSeconds": 106.0,
+        "endSeconds": 117.59,
+        "words": 28
+      },
+      {
+        "row": "10",
+        "startSeconds": 117.59,
+        "endSeconds": 127.1,
+        "words": 23
+      },
+      {
+        "row": "11",
+        "startSeconds": 127.1,
+        "endSeconds": 144.07,
+        "words": 41
+      },
+      {
+        "row": "12",
+        "startSeconds": 144.07,
+        "endSeconds": 153.17,
+        "words": 22
+      },
+      {
+        "row": "13",
+        "startSeconds": 153.17,
+        "endSeconds": 172.64,
+        "words": 41
+      },
+      {
+        "row": "14",
+        "startSeconds": 172.64,
+        "endSeconds": 180.1,
+        "words": 12
+      },
+      {
+        "row": "15",
+        "startSeconds": 180.1,
+        "endSeconds": 192.1,
+        "words": 29
+      },
+      {
+        "row": "16",
+        "startSeconds": 192.1,
+        "endSeconds": 207.0,
+        "words": 36
+      },
+      {
+        "row": "17",
+        "startSeconds": 207.0,
+        "endSeconds": 218.17,
+        "words": 27
+      },
+      {
+        "row": "18",
+        "startSeconds": 218.17,
+        "endSeconds": 233.9,
+        "words": 38
+      },
+      {
+        "row": "19",
+        "startSeconds": 233.9,
+        "endSeconds": 239.69,
+        "words": 14
+      },
+      {
+        "row": "20",
+        "startSeconds": 239.69,
+        "endSeconds": 252.93,
+        "words": 32
+      },
+      {
+        "row": "21",
+        "startSeconds": 252.93,
+        "endSeconds": 265.36,
+        "words": 24
+      },
+      {
+        "row": "22",
+        "startSeconds": 265.36,
+        "endSeconds": 283.59,
+        "words": 38
+      }
+    ],
+    "method": "anclas literales de voz, sin cambios creativos"
+  },
+  "04-mexico-sin-corrupcion": {
+    "ok": true,
+    "wordCount": 654,
+    "cadenceWpm": 145,
+    "pausesSeconds": 20,
+    "estimatedSeconds": 290.6,
+    "rows": [
+      {
+        "row": "1",
+        "startSeconds": 0,
+        "endSeconds": 9.1,
+        "words": 22
+      },
+      {
+        "row": "2",
+        "startSeconds": 9.1,
+        "endSeconds": 21.95,
+        "words": 23
+      },
+      {
+        "row": "3",
+        "startSeconds": 21.95,
+        "endSeconds": 36.02,
+        "words": 34
+      },
+      {
+        "row": "4",
+        "startSeconds": 36.02,
+        "endSeconds": 48.85,
+        "words": 31
+      },
+      {
+        "row": "5",
+        "startSeconds": 48.85,
+        "endSeconds": 63.77,
+        "words": 28
+      },
+      {
+        "row": "6",
+        "startSeconds": 63.77,
+        "endSeconds": 83.22,
+        "words": 47
+      },
+      {
+        "row": "7",
+        "startSeconds": 83.22,
+        "endSeconds": 103.52,
+        "words": 41
+      },
+      {
+        "row": "8",
+        "startSeconds": 103.52,
+        "endSeconds": 118.41,
+        "words": 36
+      },
+      {
+        "row": "9",
+        "startSeconds": 118.41,
+        "endSeconds": 130.85,
+        "words": 22
+      },
+      {
+        "row": "10",
+        "startSeconds": 130.85,
+        "endSeconds": 146.99,
+        "words": 39
+      },
+      {
+        "row": "11",
+        "startSeconds": 146.99,
+        "endSeconds": 166.44,
+        "words": 47
+      },
+      {
+        "row": "12",
+        "startSeconds": 166.44,
+        "endSeconds": 187.54,
+        "words": 51
+      },
+      {
+        "row": "13",
+        "startSeconds": 187.54,
+        "endSeconds": 201.63,
+        "words": 26
+      },
+      {
+        "row": "14",
+        "startSeconds": 201.63,
+        "endSeconds": 222.74,
+        "words": 51
+      },
+      {
+        "row": "15",
+        "startSeconds": 222.74,
+        "endSeconds": 237.22,
+        "words": 35
+      },
+      {
+        "row": "16",
+        "startSeconds": 237.22,
+        "endSeconds": 252.53,
+        "words": 37
+      },
+      {
+        "row": "17",
+        "startSeconds": 252.53,
+        "endSeconds": 269.93,
+        "words": 34
+      },
+      {
+        "row": "18",
+        "startSeconds": 269.93,
+        "endSeconds": 290.62,
+        "words": 50
+      }
+    ],
+    "method": "anclas literales de voz, sin cambios creativos"
+  },
+  "05-prohibido-bolillo": {
+    "ok": true,
+    "wordCount": 604,
+    "cadenceWpm": 145,
+    "pausesSeconds": 20,
+    "estimatedSeconds": 269.9,
+    "rows": [
+      {
+        "row": "1",
+        "startSeconds": 0,
+        "endSeconds": 8.69,
+        "words": 21
+      },
+      {
+        "row": "2",
+        "startSeconds": 8.69,
+        "endSeconds": 19.0,
+        "words": 18
+      },
+      {
+        "row": "3",
+        "startSeconds": 19.0,
+        "endSeconds": 24.37,
+        "words": 13
+      },
+      {
+        "row": "4",
+        "startSeconds": 24.37,
+        "endSeconds": 41.75,
+        "words": 42
+      },
+      {
+        "row": "5",
+        "startSeconds": 41.75,
+        "endSeconds": 52.1,
+        "words": 25
+      },
+      {
+        "row": "6",
+        "startSeconds": 52.1,
+        "endSeconds": 62.03,
+        "words": 24
+      },
+      {
+        "row": "7",
+        "startSeconds": 62.03,
+        "endSeconds": 80.2,
+        "words": 37
+      },
+      {
+        "row": "8",
+        "startSeconds": 80.2,
+        "endSeconds": 94.27,
+        "words": 34
+      },
+      {
+        "row": "9",
+        "startSeconds": 94.27,
+        "endSeconds": 112.47,
+        "words": 44
+      },
+      {
+        "row": "10",
+        "startSeconds": 112.47,
+        "endSeconds": 132.75,
+        "words": 49
+      },
+      {
+        "row": "11",
+        "startSeconds": 132.75,
+        "endSeconds": 141.44,
+        "words": 21
+      },
+      {
+        "row": "12",
+        "startSeconds": 141.44,
+        "endSeconds": 154.68,
+        "words": 32
+      },
+      {
+        "row": "13",
+        "startSeconds": 154.68,
+        "endSeconds": 168.33,
+        "words": 33
+      },
+      {
+        "row": "14",
+        "startSeconds": 168.33,
+        "endSeconds": 174.5,
+        "words": 8
+      },
+      {
+        "row": "15",
+        "startSeconds": 174.5,
+        "endSeconds": 197.22,
+        "words": 48
+      },
+      {
+        "row": "16",
+        "startSeconds": 197.22,
+        "endSeconds": 212.12,
+        "words": 36
+      },
+      {
+        "row": "17",
+        "startSeconds": 212.12,
+        "endSeconds": 222.46,
+        "words": 25
+      },
+      {
+        "row": "18",
+        "startSeconds": 222.46,
+        "endSeconds": 231.11,
+        "words": 14
+      },
+      {
+        "row": "19",
+        "startSeconds": 231.11,
+        "endSeconds": 245.18,
+        "words": 34
+      },
+      {
+        "row": "20",
+        "startSeconds": 245.18,
+        "endSeconds": 255.9,
+        "words": 19
+      },
+      {
+        "row": "21",
+        "startSeconds": 255.9,
+        "endSeconds": 261.69,
+        "words": 14
+      },
+      {
+        "row": "22",
+        "startSeconds": 261.69,
+        "endSeconds": 269.93,
+        "words": 13
+      }
+    ],
+    "method": "anclas literales de voz, sin cambios creativos"
+  },
+  "06-quesadilla-queso-cdmx": {
+    "ok": true,
+    "wordCount": 512,
+    "cadenceWpm": 145,
+    "pausesSeconds": 20,
+    "estimatedSeconds": 231.9,
+    "rows": [
+      {
+        "row": "1",
+        "startSeconds": 0,
+        "endSeconds": 8.69,
+        "words": 21
+      },
+      {
+        "row": "2",
+        "startSeconds": 8.69,
+        "endSeconds": 17.34,
+        "words": 14
+      },
+      {
+        "row": "3",
+        "startSeconds": 17.34,
+        "endSeconds": 33.06,
+        "words": 38
+      },
+      {
+        "row": "4",
+        "startSeconds": 33.06,
+        "endSeconds": 43.41,
+        "words": 25
+      },
+      {
+        "row": "5",
+        "startSeconds": 43.41,
+        "endSeconds": 57.48,
+        "words": 34
+      },
+      {
+        "row": "6",
+        "startSeconds": 57.48,
+        "endSeconds": 62.86,
+        "words": 13
+      },
+      {
+        "row": "7",
+        "startSeconds": 62.86,
+        "endSeconds": 78.96,
+        "words": 32
+      },
+      {
+        "row": "8",
+        "startSeconds": 78.96,
+        "endSeconds": 103.37,
+        "words": 59
+      },
+      {
+        "row": "9",
+        "startSeconds": 103.37,
+        "endSeconds": 116.61,
+        "words": 32
+      },
+      {
+        "row": "10",
+        "startSeconds": 116.61,
+        "endSeconds": 136.89,
+        "words": 49
+      },
+      {
+        "row": "11",
+        "startSeconds": 136.89,
+        "endSeconds": 164.16,
+        "words": 59
+      },
+      {
+        "row": "12",
+        "startSeconds": 164.16,
+        "endSeconds": 181.08,
+        "words": 34
+      },
+      {
+        "row": "13",
+        "startSeconds": 181.08,
+        "endSeconds": 188.91,
+        "words": 12
+      },
+      {
+        "row": "14",
+        "startSeconds": 188.91,
+        "endSeconds": 203.76,
+        "words": 29
+      },
+      {
+        "row": "15",
+        "startSeconds": 203.76,
+        "endSeconds": 219.9,
+        "words": 39
+      },
+      {
+        "row": "16",
+        "startSeconds": 219.9,
+        "endSeconds": 225.69,
+        "words": 14
+      },
+      {
+        "row": "17",
+        "startSeconds": 225.69,
+        "endSeconds": 231.86,
+        "words": 8
+      }
+    ],
+    "method": "anclas literales de voz, sin cambios creativos"
+  },
+  "07-agua-tijuana": {
+    "ok": true,
+    "wordCount": 384,
+    "cadenceWpm": 145,
+    "pausesSeconds": 12,
+    "estimatedSeconds": 170.9,
+    "rows": [
+      {
+        "row": "1",
+        "startSeconds": 0,
+        "endSeconds": 6.62,
+        "words": 16
+      },
+      {
+        "row": "2",
+        "startSeconds": 6.62,
+        "endSeconds": 15.59,
+        "words": 12
+      },
+      {
+        "row": "3",
+        "startSeconds": 15.59,
+        "endSeconds": 27.59,
+        "words": 29
+      },
+      {
+        "row": "4",
+        "startSeconds": 27.59,
+        "endSeconds": 40.41,
+        "words": 31
+      },
+      {
+        "row": "5",
+        "startSeconds": 40.41,
+        "endSeconds": 50.34,
+        "words": 24
+      },
+      {
+        "row": "6",
+        "startSeconds": 50.34,
+        "endSeconds": 58.62,
+        "words": 20
+      },
+      {
+        "row": "7",
+        "startSeconds": 58.62,
+        "endSeconds": 68.14,
+        "words": 23
+      },
+      {
+        "row": "8",
+        "startSeconds": 68.14,
+        "endSeconds": 84.28,
+        "words": 39
+      },
+      {
+        "row": "9",
+        "startSeconds": 84.28,
+        "endSeconds": 96.55,
+        "words": 20
+      },
+      {
+        "row": "10",
+        "startSeconds": 96.55,
+        "endSeconds": 110.21,
+        "words": 33
+      },
+      {
+        "row": "11",
+        "startSeconds": 110.21,
+        "endSeconds": 123.45,
+        "words": 32
+      },
+      {
+        "row": "12",
+        "startSeconds": 123.45,
+        "endSeconds": 134.21,
+        "words": 26
+      },
+      {
+        "row": "13",
+        "startSeconds": 134.21,
+        "endSeconds": 147.45,
+        "words": 32
+      },
+      {
+        "row": "14",
+        "startSeconds": 147.45,
+        "endSeconds": 154.07,
+        "words": 16
+      },
+      {
+        "row": "15",
+        "startSeconds": 154.07,
+        "endSeconds": 161.1,
+        "words": 17
+      },
+      {
+        "row": "16",
+        "startSeconds": 161.1,
+        "endSeconds": 170.9,
+        "words": 14
+      }
+    ],
+    "method": "anclas literales de voz, sin cambios creativos"
+  },
+  "08-agua-cdmx": {
+    "ok": true,
+    "wordCount": 258,
+    "cadenceWpm": 145,
+    "pausesSeconds": 8,
+    "estimatedSeconds": 114.8,
+    "rows": [
+      {
+        "row": "1",
+        "startSeconds": 0,
+        "endSeconds": 8.69,
+        "words": 21
+      },
+      {
+        "row": "2",
+        "startSeconds": 8.69,
+        "endSeconds": 20.14,
+        "words": 18
+      },
+      {
+        "row": "3",
+        "startSeconds": 20.14,
+        "endSeconds": 32.55,
+        "words": 30
+      },
+      {
+        "row": "4",
+        "startSeconds": 32.55,
+        "endSeconds": 51.17,
+        "words": 45
+      },
+      {
+        "row": "5",
+        "startSeconds": 51.17,
+        "endSeconds": 61.1,
+        "words": 24
+      },
+      {
+        "row": "6",
+        "startSeconds": 61.1,
+        "endSeconds": 73.93,
+        "words": 31
+      },
+      {
+        "row": "7",
+        "startSeconds": 73.93,
+        "endSeconds": 84.69,
+        "words": 26
+      },
+      {
+        "row": "8",
+        "startSeconds": 84.69,
+        "endSeconds": 91.72,
+        "words": 17
+      },
+      {
+        "row": "9",
+        "startSeconds": 91.72,
+        "endSeconds": 102.48,
+        "words": 26
+      },
+      {
+        "row": "10",
+        "startSeconds": 102.48,
+        "endSeconds": 114.76,
+        "words": 20
+      }
+    ],
+    "method": "anclas literales de voz, sin cambios creativos"
+  },
+  "09-agua-monterrey": {
+    "ok": true,
+    "wordCount": 318,
+    "cadenceWpm": 145,
+    "pausesSeconds": 8,
+    "estimatedSeconds": 139.6,
+    "rows": [
+      {
+        "row": "1",
+        "startSeconds": 0,
+        "endSeconds": 13.66,
+        "words": 33
+      },
+      {
+        "row": "2",
+        "startSeconds": 13.66,
+        "endSeconds": 20.28,
+        "words": 16
+      },
+      {
+        "row": "3",
+        "startSeconds": 20.28,
+        "endSeconds": 34.76,
+        "words": 35
+      },
+      {
+        "row": "4",
+        "startSeconds": 34.76,
+        "endSeconds": 42.62,
+        "words": 19
+      },
+      {
+        "row": "5",
+        "startSeconds": 42.62,
+        "endSeconds": 55.03,
+        "words": 30
+      },
+      {
+        "row": "6",
+        "startSeconds": 55.03,
+        "endSeconds": 64.55,
+        "words": 23
+      },
+      {
+        "row": "7",
+        "startSeconds": 64.55,
+        "endSeconds": 81.1,
+        "words": 40
+      },
+      {
+        "row": "8",
+        "startSeconds": 81.1,
+        "endSeconds": 90.48,
+        "words": 13
+      },
+      {
+        "row": "9",
+        "startSeconds": 90.48,
+        "endSeconds": 102.07,
+        "words": 28
+      },
+      {
+        "row": "10",
+        "startSeconds": 102.07,
+        "endSeconds": 112.83,
+        "words": 26
+      },
+      {
+        "row": "11",
+        "startSeconds": 112.83,
+        "endSeconds": 126.48,
+        "words": 33
+      },
+      {
+        "row": "12",
+        "startSeconds": 126.48,
+        "endSeconds": 139.59,
+        "words": 22
+      }
+    ],
+    "method": "anclas literales de voz, sin cambios creativos"
+  },
+  "10-agua-guadalajara": {
+    "ok": true,
+    "wordCount": 290,
+    "cadenceWpm": 145,
+    "pausesSeconds": 8,
+    "estimatedSeconds": 128.0,
+    "rows": [
+      {
+        "row": "1",
+        "startSeconds": 0,
+        "endSeconds": 9.52,
+        "words": 23
+      },
+      {
+        "row": "2",
+        "startSeconds": 9.52,
+        "endSeconds": 19.22,
+        "words": 17
+      },
+      {
+        "row": "3",
+        "startSeconds": 19.22,
+        "endSeconds": 34.53,
+        "words": 37
+      },
+      {
+        "row": "4",
+        "startSeconds": 34.53,
+        "endSeconds": 41.56,
+        "words": 17
+      },
+      {
+        "row": "5",
+        "startSeconds": 41.56,
+        "endSeconds": 49.2,
+        "words": 12
+      },
+      {
+        "row": "6",
+        "startSeconds": 49.2,
+        "endSeconds": 61.61,
+        "words": 30
+      },
+      {
+        "row": "7",
+        "startSeconds": 61.61,
+        "endSeconds": 78.57,
+        "words": 41
+      },
+      {
+        "row": "8",
+        "startSeconds": 78.57,
+        "endSeconds": 100.51,
+        "words": 53
+      },
+      {
+        "row": "9",
+        "startSeconds": 100.51,
+        "endSeconds": 114.16,
+        "words": 33
+      },
+      {
+        "row": "10",
+        "startSeconds": 114.16,
+        "endSeconds": 121.61,
+        "words": 18
+      },
+      {
+        "row": "11",
+        "startSeconds": 121.61,
+        "endSeconds": 128.0,
+        "words": 9
+      }
+    ],
+    "method": "anclas literales de voz, sin cambios creativos"
+  },
+  "11-mexico-pib-10": {
+    "ok": true,
+    "wordCount": 455,
+    "cadenceWpm": 145,
+    "pausesSeconds": 20,
+    "estimatedSeconds": 208.3,
+    "rows": [
+      {
+        "row": "1",
+        "startSeconds": 0,
+        "endSeconds": 6.62,
+        "words": 16
+      },
+      {
+        "row": "2",
+        "startSeconds": 6.62,
+        "endSeconds": 23.21,
+        "words": 28
+      },
+      {
+        "row": "3",
+        "startSeconds": 23.21,
+        "endSeconds": 41.41,
+        "words": 44
+      },
+      {
+        "row": "4",
+        "startSeconds": 41.41,
+        "endSeconds": 47.21,
+        "words": 14
+      },
+      {
+        "row": "5",
+        "startSeconds": 47.21,
+        "endSeconds": 65.41,
+        "words": 44
+      },
+      {
+        "row": "6",
+        "startSeconds": 65.41,
+        "endSeconds": 84.45,
+        "words": 46
+      },
+      {
+        "row": "7",
+        "startSeconds": 84.45,
+        "endSeconds": 99.76,
+        "words": 37
+      },
+      {
+        "row": "8",
+        "startSeconds": 99.76,
+        "endSeconds": 108.86,
+        "words": 22
+      },
+      {
+        "row": "9",
+        "startSeconds": 108.86,
+        "endSeconds": 120.86,
+        "words": 29
+      },
+      {
+        "row": "10",
+        "startSeconds": 120.86,
+        "endSeconds": 136.17,
+        "words": 37
+      },
+      {
+        "row": "11",
+        "startSeconds": 136.17,
+        "endSeconds": 147.38,
+        "words": 15
+      },
+      {
+        "row": "12",
+        "startSeconds": 147.38,
+        "endSeconds": 166.0,
+        "words": 45
+      },
+      {
+        "row": "13",
+        "startSeconds": 166.0,
+        "endSeconds": 191.28,
+        "words": 49
+      },
+      {
+        "row": "14",
+        "startSeconds": 191.28,
+        "endSeconds": 208.28,
+        "words": 29
+      }
+    ],
+    "method": "anclas literales de voz, sin cambios creativos"
+  },
+  "12-mexico-pib-20": {
+    "ok": true,
+    "wordCount": 434,
+    "cadenceWpm": 145,
+    "pausesSeconds": 20,
+    "estimatedSeconds": 199.6,
+    "rows": [
+      {
+        "row": "1",
+        "startSeconds": 0,
+        "endSeconds": 10.76,
+        "words": 26
+      },
+      {
+        "row": "2",
+        "startSeconds": 10.76,
+        "endSeconds": 20.69,
+        "words": 24
+      },
+      {
+        "row": "3",
+        "startSeconds": 20.69,
+        "endSeconds": 30.66,
+        "words": 12
+      },
+      {
+        "row": "4",
+        "startSeconds": 30.66,
+        "endSeconds": 48.03,
+        "words": 42
+      },
+      {
+        "row": "5",
+        "startSeconds": 48.03,
+        "endSeconds": 63.34,
+        "words": 37
+      },
+      {
+        "row": "6",
+        "startSeconds": 63.34,
+        "endSeconds": 73.28,
+        "words": 24
+      },
+      {
+        "row": "7",
+        "startSeconds": 73.28,
+        "endSeconds": 81.55,
+        "words": 20
+      },
+      {
+        "row": "8",
+        "startSeconds": 81.55,
+        "endSeconds": 96.03,
+        "words": 35
+      },
+      {
+        "row": "9",
+        "startSeconds": 96.03,
+        "endSeconds": 106.41,
+        "words": 13
+      },
+      {
+        "row": "10",
+        "startSeconds": 106.41,
+        "endSeconds": 118.0,
+        "words": 28
+      },
+      {
+        "row": "11",
+        "startSeconds": 118.0,
+        "endSeconds": 125.86,
+        "words": 19
+      },
+      {
+        "row": "12",
+        "startSeconds": 125.86,
+        "endSeconds": 139.1,
+        "words": 32
+      },
+      {
+        "row": "13",
+        "startSeconds": 139.1,
+        "endSeconds": 149.9,
+        "words": 14
+      },
+      {
+        "row": "14",
+        "startSeconds": 149.9,
+        "endSeconds": 162.72,
+        "words": 31
+      },
+      {
+        "row": "15",
+        "startSeconds": 162.72,
+        "endSeconds": 167.28,
+        "words": 11
+      },
+      {
+        "row": "16",
+        "startSeconds": 167.28,
+        "endSeconds": 179.69,
+        "words": 30
+      },
+      {
+        "row": "17",
+        "startSeconds": 179.69,
+        "endSeconds": 190.9,
+        "words": 15
+      },
+      {
+        "row": "18",
+        "startSeconds": 190.9,
+        "endSeconds": 199.59,
+        "words": 21
+      }
+    ],
+    "method": "anclas literales de voz, sin cambios creativos"
+  },
+  "13-mexico-pib-30": {
+    "ok": true,
+    "wordCount": 446,
+    "cadenceWpm": 145,
+    "pausesSeconds": 20,
+    "estimatedSeconds": 204.6,
+    "rows": [
+      {
+        "row": "1",
+        "startSeconds": 0,
+        "endSeconds": 9.1,
+        "words": 22
+      },
+      {
+        "row": "2",
+        "startSeconds": 9.1,
+        "endSeconds": 20.31,
+        "words": 15
+      },
+      {
+        "row": "3",
+        "startSeconds": 20.31,
+        "endSeconds": 45.14,
+        "words": 60
+      },
+      {
+        "row": "4",
+        "startSeconds": 45.14,
+        "endSeconds": 65.41,
+        "words": 49
+      },
+      {
+        "row": "5",
+        "startSeconds": 65.41,
+        "endSeconds": 88.59,
+        "words": 56
+      },
+      {
+        "row": "6",
+        "startSeconds": 88.59,
+        "endSeconds": 110.52,
+        "words": 53
+      },
+      {
+        "row": "7",
+        "startSeconds": 110.52,
+        "endSeconds": 132.03,
+        "words": 52
+      },
+      {
+        "row": "8",
+        "startSeconds": 132.03,
+        "endSeconds": 142.41,
+        "words": 13
+      },
+      {
+        "row": "9",
+        "startSeconds": 142.41,
+        "endSeconds": 156.48,
+        "words": 34
+      },
+      {
+        "row": "10",
+        "startSeconds": 156.48,
+        "endSeconds": 168.48,
+        "words": 29
+      },
+      {
+        "row": "11",
+        "startSeconds": 168.48,
+        "endSeconds": 171.79,
+        "words": 8
+      },
+      {
+        "row": "12",
+        "startSeconds": 171.79,
+        "endSeconds": 184.24,
+        "words": 18
+      },
+      {
+        "row": "13",
+        "startSeconds": 184.24,
+        "endSeconds": 191.28,
+        "words": 17
+      },
+      {
+        "row": "14",
+        "startSeconds": 191.28,
+        "endSeconds": 204.55,
+        "words": 20
+      }
+    ],
+    "method": "anclas literales de voz, sin cambios creativos"
+  },
+  "14-mexico-como-china": {
+    "ok": true,
+    "wordCount": 441,
+    "cadenceWpm": 145,
+    "pausesSeconds": 20,
+    "estimatedSeconds": 202.5,
+    "rows": [
+      {
+        "row": "1",
+        "startSeconds": 0,
+        "endSeconds": 12.83,
+        "words": 31
+      },
+      {
+        "row": "2",
+        "startSeconds": 12.83,
+        "endSeconds": 28.62,
+        "words": 14
+      },
+      {
+        "row": "3",
+        "startSeconds": 28.62,
+        "endSeconds": 41.03,
+        "words": 30
+      },
+      {
+        "row": "4",
+        "startSeconds": 41.03,
+        "endSeconds": 51.79,
+        "words": 26
+      },
+      {
+        "row": "5",
+        "startSeconds": 51.79,
+        "endSeconds": 59.66,
+        "words": 19
+      },
+      {
+        "row": "6",
+        "startSeconds": 59.66,
+        "endSeconds": 78.28,
+        "words": 45
+      },
+      {
+        "row": "7",
+        "startSeconds": 78.28,
+        "endSeconds": 91.93,
+        "words": 33
+      },
+      {
+        "row": "8",
+        "startSeconds": 91.93,
+        "endSeconds": 103.93,
+        "words": 29
+      },
+      {
+        "row": "9",
+        "startSeconds": 103.93,
+        "endSeconds": 117.59,
+        "words": 33
+      },
+      {
+        "row": "10",
+        "startSeconds": 117.59,
+        "endSeconds": 125.86,
+        "words": 20
+      },
+      {
+        "row": "11",
+        "startSeconds": 125.86,
+        "endSeconds": 143.66,
+        "words": 43
+      },
+      {
+        "row": "12",
+        "startSeconds": 143.66,
+        "endSeconds": 159.79,
+        "words": 39
+      },
+      {
+        "row": "13",
+        "startSeconds": 159.79,
+        "endSeconds": 171.38,
+        "words": 28
+      },
+      {
+        "row": "14",
+        "startSeconds": 171.38,
+        "endSeconds": 183.38,
+        "words": 29
+      },
+      {
+        "row": "15",
+        "startSeconds": 183.38,
+        "endSeconds": 190.0,
+        "words": 16
+      },
+      {
+        "row": "16",
+        "startSeconds": 190.0,
+        "endSeconds": 202.48,
+        "words": 6
+      }
+    ],
+    "method": "anclas literales de voz, sin cambios creativos"
+  },
+  "15-mexico-como-eua": {
+    "ok": true,
+    "wordCount": 455,
+    "cadenceWpm": 145,
+    "pausesSeconds": 20,
+    "estimatedSeconds": 208.3,
+    "rows": [
+      {
+        "row": "1",
+        "startSeconds": 0,
+        "endSeconds": 10.34,
+        "words": 25
+      },
+      {
+        "row": "2",
+        "startSeconds": 10.34,
+        "endSeconds": 21.1,
+        "words": 26
+      },
+      {
+        "row": "3",
+        "startSeconds": 21.1,
+        "endSeconds": 43.45,
+        "words": 54
+      },
+      {
+        "row": "4",
+        "startSeconds": 43.45,
+        "endSeconds": 55.45,
+        "words": 29
+      },
+      {
+        "row": "5",
+        "startSeconds": 55.45,
+        "endSeconds": 76.62,
+        "words": 27
+      },
+      {
+        "row": "6",
+        "startSeconds": 76.62,
+        "endSeconds": 94.41,
+        "words": 43
+      },
+      {
+        "row": "7",
+        "startSeconds": 94.41,
+        "endSeconds": 110.14,
+        "words": 38
+      },
+      {
+        "row": "8",
+        "startSeconds": 110.14,
+        "endSeconds": 122.14,
+        "words": 29
+      },
+      {
+        "row": "9",
+        "startSeconds": 122.14,
+        "endSeconds": 133.72,
+        "words": 28
+      },
+      {
+        "row": "10",
+        "startSeconds": 133.72,
+        "endSeconds": 154.0,
+        "words": 49
+      },
+      {
+        "row": "11",
+        "startSeconds": 154.0,
+        "endSeconds": 162.69,
+        "words": 21
+      },
+      {
+        "row": "12",
+        "startSeconds": 162.69,
+        "endSeconds": 170.14,
+        "words": 18
+      },
+      {
+        "row": "13",
+        "startSeconds": 170.14,
+        "endSeconds": 180.9,
+        "words": 26
+      },
+      {
+        "row": "14",
+        "startSeconds": 180.9,
+        "endSeconds": 189.59,
+        "words": 21
+      },
+      {
+        "row": "15",
+        "startSeconds": 189.59,
+        "endSeconds": 208.28,
+        "words": 21
+      }
+    ],
+    "method": "anclas literales de voz, sin cambios creativos"
+  },
+  "16-mexico-seguridad-japon": {
+    "ok": true,
+    "wordCount": 416,
+    "cadenceWpm": 145,
+    "pausesSeconds": 20,
+    "estimatedSeconds": 192.1,
+    "rows": [
+      {
+        "row": "1",
+        "startSeconds": 0,
+        "endSeconds": 8.28,
+        "words": 20
+      },
+      {
+        "row": "2",
+        "startSeconds": 8.28,
+        "endSeconds": 20.32,
+        "words": 13
+      },
+      {
+        "row": "3",
+        "startSeconds": 20.32,
+        "endSeconds": 38.53,
+        "words": 44
+      },
+      {
+        "row": "4",
+        "startSeconds": 38.53,
+        "endSeconds": 45.15,
+        "words": 16
+      },
+      {
+        "row": "5",
+        "startSeconds": 45.15,
+        "endSeconds": 60.87,
+        "words": 38
+      },
+      {
+        "row": "6",
+        "startSeconds": 60.87,
+        "endSeconds": 73.29,
+        "words": 30
+      },
+      {
+        "row": "7",
+        "startSeconds": 73.29,
+        "endSeconds": 86.11,
+        "words": 31
+      },
+      {
+        "row": "8",
+        "startSeconds": 86.11,
+        "endSeconds": 106.39,
+        "words": 49
+      },
+      {
+        "row": "9",
+        "startSeconds": 106.39,
+        "endSeconds": 115.08,
+        "words": 21
+      },
+      {
+        "row": "10",
+        "startSeconds": 115.08,
+        "endSeconds": 120.46,
+        "words": 13
+      },
+      {
+        "row": "11",
+        "startSeconds": 120.46,
+        "endSeconds": 136.6,
+        "words": 39
+      },
+      {
+        "row": "12",
+        "startSeconds": 136.6,
+        "endSeconds": 147.36,
+        "words": 26
+      },
+      {
+        "row": "13",
+        "startSeconds": 147.36,
+        "endSeconds": 158.11,
+        "words": 26
+      },
+      {
+        "row": "14",
+        "startSeconds": 158.11,
+        "endSeconds": 165.98,
+        "words": 19
+      },
+      {
+        "row": "15",
+        "startSeconds": 165.98,
+        "endSeconds": 182.57,
+        "words": 24
+      },
+      {
+        "row": "16",
+        "startSeconds": 182.57,
+        "endSeconds": 192.14,
+        "words": 7
+      }
+    ],
+    "method": "anclas literales de voz, sin cambios creativos"
+  },
+  "17-territorio-instituciones": {
+    "ok": true,
+    "wordCount": 573,
+    "cadenceWpm": 145,
+    "pausesSeconds": 20,
+    "estimatedSeconds": 257.1,
+    "rows": [
+      {
+        "row": "1",
+        "startSeconds": 0,
+        "endSeconds": 19.86,
+        "words": 48
+      },
+      {
+        "row": "2",
+        "startSeconds": 19.86,
+        "endSeconds": 47.17,
+        "words": 66
+      },
+      {
+        "row": "3",
+        "startSeconds": 47.17,
+        "endSeconds": 69.1,
+        "words": 53
+      },
+      {
+        "row": "4",
+        "startSeconds": 69.1,
+        "endSeconds": 87.31,
+        "words": 44
+      },
+      {
+        "row": "5",
+        "startSeconds": 87.31,
+        "endSeconds": 97.66,
+        "words": 25
+      },
+      {
+        "row": "6",
+        "startSeconds": 97.66,
+        "endSeconds": 115.03,
+        "words": 42
+      },
+      {
+        "row": "7",
+        "startSeconds": 115.03,
+        "endSeconds": 133.24,
+        "words": 44
+      },
+      {
+        "row": "8",
+        "startSeconds": 133.24,
+        "endSeconds": 161.45,
+        "words": 44
+      },
+      {
+        "row": "9",
+        "startSeconds": 161.45,
+        "endSeconds": 174.28,
+        "words": 31
+      },
+      {
+        "row": "10",
+        "startSeconds": 174.28,
+        "endSeconds": 183.38,
+        "words": 22
+      },
+      {
+        "row": "11",
+        "startSeconds": 183.38,
+        "endSeconds": 199.52,
+        "words": 39
+      },
+      {
+        "row": "12",
+        "startSeconds": 199.52,
+        "endSeconds": 214.83,
+        "words": 37
+      },
+      {
+        "row": "13",
+        "startSeconds": 214.83,
+        "endSeconds": 234.28,
+        "words": 47
+      },
+      {
+        "row": "14",
+        "startSeconds": 234.28,
+        "endSeconds": 251.31,
+        "words": 17
+      },
+      {
+        "row": "15",
+        "startSeconds": 251.31,
+        "endSeconds": 257.1,
+        "words": 14
+      }
+    ],
+    "method": "anclas literales de voz, sin cambios creativos"
+  },
+  "18-territorio-optimista": {
+    "ok": true,
+    "wordCount": 447,
+    "cadenceWpm": 145,
+    "pausesSeconds": 20,
+    "estimatedSeconds": 205.0,
+    "rows": [
+      {
+        "row": "1",
+        "startSeconds": 0,
+        "endSeconds": 12.83,
+        "words": 31
+      },
+      {
+        "row": "2",
+        "startSeconds": 12.83,
+        "endSeconds": 33.52,
+        "words": 50
+      },
+      {
+        "row": "3",
+        "startSeconds": 33.52,
+        "endSeconds": 55.03,
+        "words": 52
+      },
+      {
+        "row": "4",
+        "startSeconds": 55.03,
+        "endSeconds": 65.38,
+        "words": 25
+      },
+      {
+        "row": "5",
+        "startSeconds": 65.38,
+        "endSeconds": 81.1,
+        "words": 38
+      },
+      {
+        "row": "6",
+        "startSeconds": 81.1,
+        "endSeconds": 98.9,
+        "words": 43
+      },
+      {
+        "row": "7",
+        "startSeconds": 98.9,
+        "endSeconds": 112.14,
+        "words": 32
+      },
+      {
+        "row": "8",
+        "startSeconds": 112.14,
+        "endSeconds": 124.97,
+        "words": 31
+      },
+      {
+        "row": "9",
+        "startSeconds": 124.97,
+        "endSeconds": 133.24,
+        "words": 20
+      },
+      {
+        "row": "10",
+        "startSeconds": 133.24,
+        "endSeconds": 151.86,
+        "words": 45
+      },
+      {
+        "row": "11",
+        "startSeconds": 151.86,
+        "endSeconds": 183.03,
+        "words": 27
+      },
+      {
+        "row": "12",
+        "startSeconds": 183.03,
+        "endSeconds": 192.97,
+        "words": 24
+      },
+      {
+        "row": "13",
+        "startSeconds": 192.97,
+        "endSeconds": 198.76,
+        "words": 14
+      },
+      {
+        "row": "14",
+        "startSeconds": 198.76,
+        "endSeconds": 204.97,
+        "words": 15
+      }
+    ],
+    "method": "anclas literales de voz, sin cambios creativos"
+  },
+  "19-mexico-wwii": {
+    "ok": true,
+    "wordCount": 454,
+    "cadenceWpm": 145,
+    "pausesSeconds": 20,
+    "estimatedSeconds": 207.9,
+    "rows": [
+      {
+        "row": "1",
+        "startSeconds": 0,
+        "endSeconds": 14.48,
+        "words": 35
+      },
+      {
+        "row": "2",
+        "startSeconds": 14.48,
+        "endSeconds": 29.84,
+        "words": 21
+      },
+      {
+        "row": "3",
+        "startSeconds": 29.84,
+        "endSeconds": 57.15,
+        "words": 66
+      },
+      {
+        "row": "4",
+        "startSeconds": 57.15,
+        "endSeconds": 65.84,
+        "words": 21
+      },
+      {
+        "row": "5",
+        "startSeconds": 65.84,
+        "endSeconds": 86.11,
+        "words": 49
+      },
+      {
+        "row": "6",
+        "startSeconds": 86.11,
+        "endSeconds": 100.23,
+        "words": 18
+      },
+      {
+        "row": "7",
+        "startSeconds": 100.23,
+        "endSeconds": 111.82,
+        "words": 28
+      },
+      {
+        "row": "8",
+        "startSeconds": 111.82,
+        "endSeconds": 124.23,
+        "words": 30
+      },
+      {
+        "row": "9",
+        "startSeconds": 124.23,
+        "endSeconds": 139.95,
+        "words": 38
+      },
+      {
+        "row": "10",
+        "startSeconds": 139.95,
+        "endSeconds": 156.92,
+        "words": 41
+      },
+      {
+        "row": "11",
+        "startSeconds": 156.92,
+        "endSeconds": 168.92,
+        "words": 29
+      },
+      {
+        "row": "12",
+        "startSeconds": 168.92,
+        "endSeconds": 175.95,
+        "words": 17
+      },
+      {
+        "row": "13",
+        "startSeconds": 175.95,
+        "endSeconds": 186.71,
+        "words": 26
+      },
+      {
+        "row": "14",
+        "startSeconds": 186.71,
+        "endSeconds": 192.51,
+        "words": 14
+      },
+      {
+        "row": "15",
+        "startSeconds": 192.51,
+        "endSeconds": 207.86,
+        "words": 21
+      }
+    ],
+    "method": "anclas literales de voz, sin cambios creativos"
+  },
+  "20-guerra-fria": {
+    "ok": true,
+    "wordCount": 1112,
+    "cadenceWpm": 145,
+    "pausesSeconds": 40,
+    "estimatedSeconds": 500.1,
+    "rows": [
+      {
+        "row": "1",
+        "startSeconds": 0,
+        "endSeconds": 14.07,
+        "words": 34
+      },
+      {
+        "row": "2",
+        "startSeconds": 14.07,
+        "endSeconds": 29.93,
+        "words": 19
+      },
+      {
+        "row": "3",
+        "startSeconds": 29.93,
+        "endSeconds": 45.24,
+        "words": 37
+      },
+      {
+        "row": "4",
+        "startSeconds": 45.24,
+        "endSeconds": 59.31,
+        "words": 34
+      },
+      {
+        "row": "5",
+        "startSeconds": 59.31,
+        "endSeconds": 65.93,
+        "words": 16
+      },
+      {
+        "row": "6",
+        "startSeconds": 65.93,
+        "endSeconds": 92.41,
+        "words": 64
+      },
+      {
+        "row": "7",
+        "startSeconds": 92.41,
+        "endSeconds": 112.28,
+        "words": 48
+      },
+      {
+        "row": "8",
+        "startSeconds": 112.28,
+        "endSeconds": 131.31,
+        "words": 46
+      },
+      {
+        "row": "9",
+        "startSeconds": 131.31,
+        "endSeconds": 144.97,
+        "words": 33
+      },
+      {
+        "row": "10",
+        "startSeconds": 144.97,
+        "endSeconds": 164.0,
+        "words": 46
+      },
+      {
+        "row": "11",
+        "startSeconds": 164.0,
+        "endSeconds": 186.34,
+        "words": 54
+      },
+      {
+        "row": "12",
+        "startSeconds": 186.34,
+        "endSeconds": 216.55,
+        "words": 73
+      },
+      {
+        "row": "13",
+        "startSeconds": 216.55,
+        "endSeconds": 223.59,
+        "words": 17
+      },
+      {
+        "row": "14",
+        "startSeconds": 223.59,
+        "endSeconds": 237.66,
+        "words": 34
+      },
+      {
+        "row": "15",
+        "startSeconds": 237.66,
+        "endSeconds": 249.24,
+        "words": 28
+      },
+      {
+        "row": "16",
+        "startSeconds": 249.24,
+        "endSeconds": 255.86,
+        "words": 16
+      },
+      {
+        "row": "17",
+        "startSeconds": 255.86,
+        "endSeconds": 280.28,
+        "words": 59
+      },
+      {
+        "row": "18",
+        "startSeconds": 280.28,
+        "endSeconds": 290.62,
+        "words": 25
+      },
+      {
+        "row": "19",
+        "startSeconds": 290.62,
+        "endSeconds": 306.76,
+        "words": 39
+      },
+      {
+        "row": "20",
+        "startSeconds": 306.76,
+        "endSeconds": 320.83,
+        "words": 34
+      },
+      {
+        "row": "21",
+        "startSeconds": 320.83,
+        "endSeconds": 336.69,
+        "words": 19
+      },
+      {
+        "row": "22",
+        "startSeconds": 336.69,
+        "endSeconds": 350.76,
+        "words": 34
+      },
+      {
+        "row": "23",
+        "startSeconds": 350.76,
+        "endSeconds": 382.21,
+        "words": 76
+      },
+      {
+        "row": "24",
+        "startSeconds": 382.21,
+        "endSeconds": 398.34,
+        "words": 39
+      },
+      {
+        "row": "25",
+        "startSeconds": 398.34,
+        "endSeconds": 418.76,
+        "words": 30
+      },
+      {
+        "row": "26",
+        "startSeconds": 418.76,
+        "endSeconds": 432.55,
+        "words": 14
+      },
+      {
+        "row": "27",
+        "startSeconds": 432.55,
+        "endSeconds": 448.69,
+        "words": 39
+      },
+      {
+        "row": "28",
+        "startSeconds": 448.69,
+        "endSeconds": 461.52,
+        "words": 31
+      },
+      {
+        "row": "29",
+        "startSeconds": 461.52,
+        "endSeconds": 470.62,
+        "words": 22
+      },
+      {
+        "row": "30",
+        "startSeconds": 470.62,
+        "endSeconds": 487.72,
+        "words": 22
+      },
+      {
+        "row": "31",
+        "startSeconds": 487.72,
+        "endSeconds": 495.59,
+        "words": 19
+      },
+      {
+        "row": "32",
+        "startSeconds": 495.59,
+        "endSeconds": 500.14,
+        "words": 11
+      }
+    ],
+    "method": "anclas literales de voz, sin cambios creativos"
+  },
+  "21-canal-10mil": {
+    "ok": true,
+    "wordCount": 257,
+    "cadenceWpm": 145,
+    "pausesSeconds": 8,
+    "estimatedSeconds": 114.3,
+    "rows": [
+      {
+        "row": "1",
+        "startSeconds": 0,
+        "endSeconds": 8.28,
+        "words": 20
+      },
+      {
+        "row": "2",
+        "startSeconds": 8.28,
+        "endSeconds": 22.76,
+        "words": 35
+      },
+      {
+        "row": "3",
+        "startSeconds": 22.76,
+        "endSeconds": 29.79,
+        "words": 17
+      },
+      {
+        "row": "4",
+        "startSeconds": 29.79,
+        "endSeconds": 46.21,
+        "words": 30
+      },
+      {
+        "row": "5",
+        "startSeconds": 46.21,
+        "endSeconds": 55.72,
+        "words": 23
+      },
+      {
+        "row": "6",
+        "startSeconds": 55.72,
+        "endSeconds": 62.34,
+        "words": 16
+      },
+      {
+        "row": "7",
+        "startSeconds": 62.34,
+        "endSeconds": 72.69,
+        "words": 25
+      },
+      {
+        "row": "8",
+        "startSeconds": 72.69,
+        "endSeconds": 79.31,
+        "words": 16
+      },
+      {
+        "row": "9",
+        "startSeconds": 79.31,
+        "endSeconds": 95.72,
+        "words": 30
+      },
+      {
+        "row": "10",
+        "startSeconds": 95.72,
+        "endSeconds": 108.14,
+        "words": 30
+      },
+      {
+        "row": "11",
+        "startSeconds": 108.14,
+        "endSeconds": 114.34,
+        "words": 15
+      }
+    ],
+    "method": "anclas literales de voz, sin cambios creativos"
+  },
+  "22-visitas-10mil": {
+    "ok": true,
+    "wordCount": 264,
+    "cadenceWpm": 145,
+    "pausesSeconds": 8,
+    "estimatedSeconds": 117.2,
+    "rows": [
+      {
+        "row": "1",
+        "startSeconds": 0,
+        "endSeconds": 11.17,
+        "words": 27
+      },
+      {
+        "row": "2",
+        "startSeconds": 11.17,
+        "endSeconds": 17.15,
+        "words": 8
+      },
+      {
+        "row": "3",
+        "startSeconds": 17.15,
+        "endSeconds": 29.98,
+        "words": 31
+      },
+      {
+        "row": "4",
+        "startSeconds": 29.98,
+        "endSeconds": 44.05,
+        "words": 34
+      },
+      {
+        "row": "5",
+        "startSeconds": 44.05,
+        "endSeconds": 53.98,
+        "words": 24
+      },
+      {
+        "row": "6",
+        "startSeconds": 53.98,
+        "endSeconds": 63.26,
+        "words": 16
+      },
+      {
+        "row": "7",
+        "startSeconds": 63.26,
+        "endSeconds": 71.95,
+        "words": 21
+      },
+      {
+        "row": "8",
+        "startSeconds": 71.95,
+        "endSeconds": 81.47,
+        "words": 23
+      },
+      {
+        "row": "9",
+        "startSeconds": 81.47,
+        "endSeconds": 86.44,
+        "words": 12
+      },
+      {
+        "row": "10",
+        "startSeconds": 86.44,
+        "endSeconds": 99.26,
+        "words": 31
+      },
+      {
+        "row": "11",
+        "startSeconds": 99.26,
+        "endSeconds": 107.54,
+        "words": 20
+      },
+      {
+        "row": "12",
+        "startSeconds": 107.54,
+        "endSeconds": 117.24,
+        "words": 17
+      }
+    ],
+    "method": "anclas literales de voz, sin cambios creativos"
+  },
+  "23-visitas-100mil": {
+    "ok": true,
+    "wordCount": 476,
+    "cadenceWpm": 145,
+    "pausesSeconds": 20,
+    "estimatedSeconds": 217.0,
+    "rows": [
+      {
+        "row": "1",
+        "startSeconds": 0,
+        "endSeconds": 12.83,
+        "words": 31
+      },
+      {
+        "row": "2",
+        "startSeconds": 12.83,
+        "endSeconds": 26.11,
+        "words": 16
+      },
+      {
+        "row": "3",
+        "startSeconds": 26.11,
+        "endSeconds": 43.49,
+        "words": 42
+      },
+      {
+        "row": "4",
+        "startSeconds": 43.49,
+        "endSeconds": 70.39,
+        "words": 65
+      },
+      {
+        "row": "5",
+        "startSeconds": 70.39,
+        "endSeconds": 81.98,
+        "words": 28
+      },
+      {
+        "row": "6",
+        "startSeconds": 81.98,
+        "endSeconds": 86.94,
+        "words": 12
+      },
+      {
+        "row": "7",
+        "startSeconds": 86.94,
+        "endSeconds": 109.33,
+        "words": 38
+      },
+      {
+        "row": "8",
+        "startSeconds": 109.33,
+        "endSeconds": 122.57,
+        "words": 32
+      },
+      {
+        "row": "9",
+        "startSeconds": 122.57,
+        "endSeconds": 138.3,
+        "words": 38
+      },
+      {
+        "row": "10",
+        "startSeconds": 138.3,
+        "endSeconds": 149.47,
+        "words": 27
+      },
+      {
+        "row": "11",
+        "startSeconds": 149.47,
+        "endSeconds": 168.09,
+        "words": 45
+      },
+      {
+        "row": "12",
+        "startSeconds": 168.09,
+        "endSeconds": 178.02,
+        "words": 24
+      },
+      {
+        "row": "13",
+        "startSeconds": 178.02,
+        "endSeconds": 193.33,
+        "words": 37
+      },
+      {
+        "row": "14",
+        "startSeconds": 193.33,
+        "endSeconds": 209.93,
+        "words": 24
+      },
+      {
+        "row": "15",
+        "startSeconds": 209.93,
+        "endSeconds": 216.97,
+        "words": 17
+      }
+    ],
+    "method": "anclas literales de voz, sin cambios creativos"
+  },
+  "24-visitas-millon": {
+    "ok": true,
+    "wordCount": 490,
+    "cadenceWpm": 145,
+    "pausesSeconds": 20,
+    "estimatedSeconds": 222.8,
+    "rows": [
+      {
+        "row": "1",
+        "startSeconds": 0,
+        "endSeconds": 18.21,
+        "words": 44
+      },
+      {
+        "row": "2",
+        "startSeconds": 18.21,
+        "endSeconds": 37.24,
+        "words": 46
+      },
+      {
+        "row": "3",
+        "startSeconds": 37.24,
+        "endSeconds": 73.24,
+        "words": 87
+      },
+      {
+        "row": "4",
+        "startSeconds": 73.24,
+        "endSeconds": 81.1,
+        "words": 19
+      },
+      {
+        "row": "5",
+        "startSeconds": 81.1,
+        "endSeconds": 99.38,
+        "words": 20
+      },
+      {
+        "row": "6",
+        "startSeconds": 99.38,
+        "endSeconds": 108.07,
+        "words": 21
+      },
+      {
+        "row": "7",
+        "startSeconds": 108.07,
+        "endSeconds": 112.21,
+        "words": 10
+      },
+      {
+        "row": "8",
+        "startSeconds": 112.21,
+        "endSeconds": 126.28,
+        "words": 34
+      },
+      {
+        "row": "9",
+        "startSeconds": 126.28,
+        "endSeconds": 132.9,
+        "words": 16
+      },
+      {
+        "row": "10",
+        "startSeconds": 132.9,
+        "endSeconds": 155.66,
+        "words": 55
+      },
+      {
+        "row": "11",
+        "startSeconds": 155.66,
+        "endSeconds": 166.83,
+        "words": 27
+      },
+      {
+        "row": "12",
+        "startSeconds": 166.83,
+        "endSeconds": 175.1,
+        "words": 20
+      },
+      {
+        "row": "13",
+        "startSeconds": 175.1,
+        "endSeconds": 186.28,
+        "words": 27
+      },
+      {
+        "row": "14",
+        "startSeconds": 186.28,
+        "endSeconds": 205.79,
+        "words": 23
+      },
+      {
+        "row": "15",
+        "startSeconds": 205.79,
+        "endSeconds": 216.97,
+        "words": 27
+      },
+      {
+        "row": "16",
+        "startSeconds": 216.97,
+        "endSeconds": 222.76,
+        "words": 14
+      }
+    ],
+    "method": "anclas literales de voz, sin cambios creativos"
+  },
+  "25-cuenta-100mil-italia": {
+    "ok": true,
+    "wordCount": 270,
+    "cadenceWpm": 145,
+    "pausesSeconds": 8,
+    "estimatedSeconds": 119.7,
+    "rows": [
+      {
+        "row": "1",
+        "startSeconds": 0,
+        "endSeconds": 7.45,
+        "words": 18
+      },
+      {
+        "row": "2",
+        "startSeconds": 7.45,
+        "endSeconds": 16.74,
+        "words": 16
+      },
+      {
+        "row": "3",
+        "startSeconds": 16.74,
+        "endSeconds": 25.01,
+        "words": 20
+      },
+      {
+        "row": "4",
+        "startSeconds": 25.01,
+        "endSeconds": 34.94,
+        "words": 24
+      },
+      {
+        "row": "5",
+        "startSeconds": 34.94,
+        "endSeconds": 48.6,
+        "words": 33
+      },
+      {
+        "row": "6",
+        "startSeconds": 48.6,
+        "endSeconds": 56.05,
+        "words": 18
+      },
+      {
+        "row": "7",
+        "startSeconds": 56.05,
+        "endSeconds": 64.32,
+        "words": 20
+      },
+      {
+        "row": "8",
+        "startSeconds": 64.32,
+        "endSeconds": 74.67,
+        "words": 25
+      },
+      {
+        "row": "9",
+        "startSeconds": 74.67,
+        "endSeconds": 80.87,
+        "words": 15
+      },
+      {
+        "row": "10",
+        "startSeconds": 80.87,
+        "endSeconds": 85.43,
+        "words": 11
+      },
+      {
+        "row": "11",
+        "startSeconds": 85.43,
+        "endSeconds": 94.71,
+        "words": 16
+      },
+      {
+        "row": "12",
+        "startSeconds": 94.71,
+        "endSeconds": 101.1,
+        "words": 9
+      },
+      {
+        "row": "13",
+        "startSeconds": 101.1,
+        "endSeconds": 112.28,
+        "words": 27
+      },
+      {
+        "row": "14",
+        "startSeconds": 112.28,
+        "endSeconds": 119.72,
+        "words": 18
+      }
+    ],
+    "method": "anclas literales de voz, sin cambios creativos"
+  },
+  "26-argentina-sin-inflacion": {
+    "ok": true,
+    "wordCount": 606,
+    "cadenceWpm": 145,
+    "pausesSeconds": 20,
+    "estimatedSeconds": 270.8,
+    "rows": [
+      {
+        "row": "1",
+        "startSeconds": 0,
+        "endSeconds": 14.9,
+        "words": 36
+      },
+      {
+        "row": "2",
+        "startSeconds": 14.9,
+        "endSeconds": 26.51,
+        "words": 20
+      },
+      {
+        "row": "3",
+        "startSeconds": 26.51,
+        "endSeconds": 50.09,
+        "words": 57
+      },
+      {
+        "row": "4",
+        "startSeconds": 50.09,
+        "endSeconds": 59.63,
+        "words": 15
+      },
+      {
+        "row": "5",
+        "startSeconds": 59.63,
+        "endSeconds": 78.67,
+        "words": 46
+      },
+      {
+        "row": "6",
+        "startSeconds": 78.67,
+        "endSeconds": 91.52,
+        "words": 23
+      },
+      {
+        "row": "7",
+        "startSeconds": 91.52,
+        "endSeconds": 104.34,
+        "words": 31
+      },
+      {
+        "row": "8",
+        "startSeconds": 104.34,
+        "endSeconds": 123.79,
+        "words": 47
+      },
+      {
+        "row": "9",
+        "startSeconds": 123.79,
+        "endSeconds": 145.75,
+        "words": 45
+      },
+      {
+        "row": "10",
+        "startSeconds": 145.75,
+        "endSeconds": 161.06,
+        "words": 37
+      },
+      {
+        "row": "11",
+        "startSeconds": 161.06,
+        "endSeconds": 184.25,
+        "words": 48
+      },
+      {
+        "row": "12",
+        "startSeconds": 184.25,
+        "endSeconds": 201.63,
+        "words": 42
+      },
+      {
+        "row": "13",
+        "startSeconds": 201.63,
+        "endSeconds": 219.43,
+        "words": 43
+      },
+      {
+        "row": "14",
+        "startSeconds": 219.43,
+        "endSeconds": 228.94,
+        "words": 23
+      },
+      {
+        "row": "15",
+        "startSeconds": 228.94,
+        "endSeconds": 244.25,
+        "words": 37
+      },
+      {
+        "row": "16",
+        "startSeconds": 244.25,
+        "endSeconds": 259.15,
+        "words": 36
+      },
+      {
+        "row": "17",
+        "startSeconds": 259.15,
+        "endSeconds": 270.76,
+        "words": 20
+      }
+    ],
+    "method": "anclas literales de voz, sin cambios creativos"
+  }
+}
